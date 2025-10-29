@@ -1,0 +1,44 @@
+name: Update YouTube Monetization Data
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Daily at 7 AM UTC (1 hour after analytics update)
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  fetch-monetization:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Create credentials file
+      run: |
+        echo '${{ secrets.GOOGLE_CREDENTIALS }}' > credentials.json
+    
+    - name: Create token file
+      run: |
+        echo '${{ secrets.GOOGLE_TOKEN }}' > token.pickle.base64
+        base64 -d token.pickle.base64 > token.pickle
+    
+    - name: Run monetization script
+      run: |
+        python fetch_youtube_monetization.py
+    
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+        git add youtube_monetization.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update YouTube monetization data - $(date -u)" && git push)

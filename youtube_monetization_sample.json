@@ -1,0 +1,82 @@
+{
+  "last_updated": "2025-10-28 12:00:00 UTC",
+  "period_start": "2025-09-28",
+  "period_end": "2025-10-27",
+  "total_revenue": 1234.56,
+  "rpm": 5.67,
+  "cpm": 12.34,
+  "monetized_playbacks": 45678,
+  "ad_impressions": 98765,
+  "total_views": 217543,
+  "revenue_change": 15.3,
+  "rpm_change": 8.2,
+  "cpm_change": -3.5,
+  "playbacks_change": 12.1,
+  "projected_monthly_revenue": 1234.56,
+  "revenue_chart": {
+    "labels": [
+      "Sep 28", "Sep 29", "Sep 30", "Oct 01", "Oct 02", "Oct 03", "Oct 04",
+      "Oct 05", "Oct 06", "Oct 07", "Oct 08", "Oct 09", "Oct 10", "Oct 11",
+      "Oct 12", "Oct 13", "Oct 14", "Oct 15", "Oct 16", "Oct 17", "Oct 18",
+      "Oct 19", "Oct 20", "Oct 21", "Oct 22", "Oct 23", "Oct 24", "Oct 25",
+      "Oct 26", "Oct 27"
+    ],
+    "values": [
+      38.45, 42.12, 45.67, 41.23, 39.87, 43.21, 47.89,
+      44.56, 46.32, 48.91, 42.78, 41.45, 43.67, 45.89,
+      47.23, 49.56, 46.78, 44.32, 42.89, 45.12, 48.34,
+      46.67, 44.98, 47.45, 49.23, 48.67, 46.89, 45.32,
+      47.78, 49.12
+    ]
+  },
+  "ad_type_breakdown": {
+    "Skippable Video": {
+      "percentage": 45.2,
+      "revenue": 558.02
+    },
+    "Display": {
+      "percentage": 28.5,
+      "revenue": 351.85
+    },
+    "Bumper": {
+      "percentage": 15.3,
+      "revenue": 188.89
+    },
+    "Overlay": {
+      "percentage": 11.0,
+      "revenue": 135.80
+    }
+  },
+  "top_earning_videos": [
+    {
+      "title": "How to Build Your First Ham Radio Station - Complete Beginner's Guide",
+      "revenue": 234.56,
+      "views": 12543,
+      "video_id": "dQw4w9WgXcQ"
+    },
+    {
+      "title": "APRS Messaging Tutorial - Send Text Messages Without Internet",
+      "revenue": 198.34,
+      "views": 10234,
+      "video_id": "dQw4w9WgXcR"
+    },
+    {
+      "title": "Digital Modes Explained - FT8, PSK31, and More",
+      "revenue": 167.89,
+      "views": 8765,
+      "video_id": "dQw4w9WgXcS"
+    },
+    {
+      "title": "Emergency Communications Setup - What You Need to Know",
+      "revenue": 145.67,
+      "views": 7543,
+      "video_id": "dQw4w9WgXcT"
+    },
+    {
+      "title": "Antenna Theory Made Simple - Understanding SWR and Radiation Patterns",
+      "revenue": 123.45,
+      "views": 6432,
+      "video_id": "dQw4w9WgXcU"
+    }
+  ]
+}
