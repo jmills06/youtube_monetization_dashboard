@@ -1,21 +1,19 @@
 {
-  "last_updated": "2025-10-29 16:11:26 UTC",
-  "period_start": "2025-09-29",
-  "period_end": "2025-10-28",
-  "total_revenue": 4.31,
-  "cpm": 6.93,
-  "monetized_playbacks": 401,
-  "ad_impressions": 739,
-  "total_views": 12068,
-  "rpm": 0.36,
+  "last_updated": "2025-10-31 12:28:02 UTC",
+  "period_start": "2025-10-01",
+  "period_end": "2025-10-30",
+  "total_revenue": 4.93,
+  "cpm": 6.88,
+  "monetized_playbacks": 451,
+  "ad_impressions": 824,
+  "total_views": 12571,
+  "rpm": 0.39,
   "revenue_change": 0,
   "rpm_change": 0,
   "cpm_change": 0,
   "playbacks_change": 0,
   "revenue_chart": {
     "labels": [
-      "Sep 29",
-      "Sep 30",
       "Oct 01",
       "Oct 02",
       "Oct 03",
@@ -41,11 +39,11 @@
       "Oct 23",
       "Oct 24",
       "Oct 25",
-      "Oct 26"
+      "Oct 26",
+      "Oct 27",
+      "Oct 28"
     ],
     "values": [
-      0,
-      0,
       0,
       0,
       0,
@@ -71,41 +69,43 @@
       0.98,
       1.27,
       0.9,
-      0.49
+      0.49,
+      0.3,
+      0.32
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "revenue": 2.02,
-      "views": 861,
+      "revenue": 2.21,
+      "views": 893,
       "video_id": "xW-nnl2RGIs"
     },
     {
       "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "revenue": 0.88,
-      "views": 1390,
+      "revenue": 0.92,
+      "views": 1400,
       "video_id": "G3jhDn-tr4Y"
     },
     {
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "revenue": 0.44,
-      "views": 3316,
+      "revenue": 0.63,
+      "views": 4503,
       "video_id": "Wnw0wmTqVvw"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 0.22,
-      "views": 220,
+      "revenue": 0.31,
+      "views": 218,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-      "revenue": 0.15,
-      "views": 591,
+      "revenue": 0.17,
+      "views": 442,
       "video_id": "5Bc42zqQBu4"
     }
   ],
-  "projected_monthly_revenue": 4.31
+  "projected_monthly_revenue": 4.93
 }
