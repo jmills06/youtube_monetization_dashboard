@@ -21,6 +21,7 @@ SCOPES = [
 def authenticate():
     """
     Authenticate with YouTube Analytics API using token.pickle
+    Handles token refresh automatically
     """
     creds = None
     
@@ -28,8 +29,19 @@ def authenticate():
         with open('token.pickle', 'rb') as token:
             creds = pickle.load(token)
     
+    # Check if credentials are expired and refresh if needed
     if not creds or not creds.valid:
-        raise Exception("Invalid or missing credentials. Please regenerate token.pickle")
+        if creds and creds.expired and creds.refresh_token:
+            from google.auth.transport.requests import Request
+            print("Token expired, refreshing...")
+            creds.refresh(Request())
+            
+            # Save the refreshed token
+            with open('token.pickle', 'wb') as token:
+                pickle.dump(creds, token)
+            print("Token refreshed successfully")
+        else:
+            raise Exception("Invalid or missing credentials. Please regenerate token.pickle")
     
     youtube_analytics = build('youtubeAnalytics', 'v2', credentials=creds)
     return youtube_analytics
