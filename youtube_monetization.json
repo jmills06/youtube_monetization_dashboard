@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-11-01 13:50:35 UTC",
-  "period_start": "2025-10-02",
-  "period_end": "2025-10-31",
-  "total_revenue": 5.13,
-  "cpm": 6.81,
-  "monetized_playbacks": 476,
-  "ad_impressions": 866,
-  "total_views": 12895,
-  "rpm": 0.4,
+  "last_updated": "2025-11-02 07:08:46 UTC",
+  "period_start": "2025-10-03",
+  "period_end": "2025-11-01",
+  "total_revenue": 5.44,
+  "cpm": 6.76,
+  "monetized_playbacks": 513,
+  "ad_impressions": 939,
+  "total_views": 12938,
+  "rpm": 0.42,
   "revenue_change": 0,
   "rpm_change": 0,
   "cpm_change": 0,
   "playbacks_change": 0,
   "revenue_chart": {
     "labels": [
-      "Oct 02",
       "Oct 03",
       "Oct 04",
       "Oct 05",
@@ -41,10 +40,10 @@
       "Oct 26",
       "Oct 27",
       "Oct 28",
-      "Oct 29"
+      "Oct 29",
+      "Oct 30"
     ],
     "values": [
-      0,
       0,
       0,
       0,
@@ -71,41 +70,42 @@
       0.49,
       0.3,
       0.32,
-      0.2
+      0.2,
+      0.3
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "revenue": 2.25,
-      "views": 903,
+      "revenue": 2.27,
+      "views": 907,
       "video_id": "xW-nnl2RGIs"
     },
     {
       "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "revenue": 0.94,
-      "views": 1405,
+      "revenue": 0.95,
+      "views": 1408,
       "video_id": "G3jhDn-tr4Y"
     },
     {
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "revenue": 0.66,
-      "views": 4769,
+      "revenue": 0.67,
+      "views": 4830,
       "video_id": "Wnw0wmTqVvw"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 0.34,
-      "views": 228,
+      "revenue": 0.4,
+      "views": 240,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-      "revenue": 0.17,
-      "views": 429,
+      "revenue": 0.29,
+      "views": 426,
       "video_id": "5Bc42zqQBu4"
     }
   ],
-  "projected_monthly_revenue": 5.13
+  "projected_monthly_revenue": 5.44
 }
