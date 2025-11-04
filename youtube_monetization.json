@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-11-03 07:10:56 UTC",
-  "period_start": "2025-10-04",
-  "period_end": "2025-11-02",
-  "total_revenue": 7.29,
-  "cpm": 7.24,
-  "monetized_playbacks": 673,
-  "ad_impressions": 1269,
-  "total_views": 13483,
-  "rpm": 0.54,
+  "last_updated": "2025-11-04 07:10:07 UTC",
+  "period_start": "2025-10-05",
+  "period_end": "2025-11-03",
+  "total_revenue": 15.1,
+  "cpm": 7.83,
+  "monetized_playbacks": 1488,
+  "ad_impressions": 2776,
+  "total_views": 15330,
+  "rpm": 0.98,
   "revenue_change": 0,
   "rpm_change": 0,
   "cpm_change": 0,
   "playbacks_change": 0,
   "revenue_chart": {
     "labels": [
-      "Oct 04",
       "Oct 05",
       "Oct 06",
       "Oct 07",
@@ -41,10 +40,10 @@
       "Oct 28",
       "Oct 29",
       "Oct 30",
-      "Oct 31"
+      "Oct 31",
+      "Nov 01"
     ],
     "values": [
-      0,
       0,
       0,
       0,
@@ -71,41 +70,42 @@
       0.32,
       0.2,
       0.3,
-      1.85
+      1.85,
+      7.81
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
-      "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "revenue": 2.35,
-      "views": 916,
-      "video_id": "xW-nnl2RGIs"
-    },
-    {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.45,
-      "views": 208,
+      "revenue": 8.65,
+      "views": 1405,
       "video_id": "JTFErg-neu8"
     },
     {
+      "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
+      "revenue": 2.4,
+      "views": 936,
+      "video_id": "xW-nnl2RGIs"
+    },
+    {
       "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "revenue": 1.06,
-      "views": 1414,
+      "revenue": 1.18,
+      "views": 1432,
       "video_id": "G3jhDn-tr4Y"
     },
     {
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
       "revenue": 0.68,
-      "views": 4937,
+      "views": 4980,
       "video_id": "Wnw0wmTqVvw"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 0.46,
-      "views": 250,
+      "revenue": 0.55,
+      "views": 248,
       "video_id": "ZFHhRrDS4Hc"
     }
   ],
-  "projected_monthly_revenue": 7.29
+  "projected_monthly_revenue": 15.1
 }
