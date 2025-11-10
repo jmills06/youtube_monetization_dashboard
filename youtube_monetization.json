@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-11-09 07:08:50 UTC",
-  "period_start": "2025-10-10",
-  "period_end": "2025-11-08",
-  "total_revenue": 23.97,
-  "cpm": 8.26,
-  "monetized_playbacks": 2339,
-  "ad_impressions": 4332,
-  "total_views": 17947,
-  "rpm": 1.34,
+  "last_updated": "2025-11-10 07:10:50 UTC",
+  "period_start": "2025-10-11",
+  "period_end": "2025-11-09",
+  "total_revenue": 24.84,
+  "cpm": 8.24,
+  "monetized_playbacks": 2393,
+  "ad_impressions": 4465,
+  "total_views": 18805,
+  "rpm": 1.32,
   "revenue_change": 0,
   "rpm_change": 0,
   "cpm_change": 0,
   "playbacks_change": 0,
   "revenue_chart": {
     "labels": [
-      "Oct 10",
       "Oct 11",
       "Oct 12",
       "Oct 13",
@@ -41,10 +40,10 @@
       "Nov 03",
       "Nov 04",
       "Nov 05",
-      "Nov 06"
+      "Nov 06",
+      "Nov 07"
     ],
     "values": [
-      0,
       0,
       0,
       0,
@@ -71,15 +70,16 @@
       1.6,
       1.38,
       1.02,
-      1.44
+      1.44,
+      0.87
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 14.76,
-      "views": 2466,
+      "revenue": 14.97,
+      "views": 2494,
       "video_id": "JTFErg-neu8"
     },
     {
@@ -90,22 +90,22 @@
     },
     {
       "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "revenue": 1.43,
-      "views": 1437,
+      "revenue": 1.44,
+      "views": 1438,
       "video_id": "G3jhDn-tr4Y"
     },
     {
       "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-      "revenue": 0.89,
-      "views": 463,
+      "revenue": 0.93,
+      "views": 465,
       "video_id": "5Bc42zqQBu4"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 0.79,
-      "views": 271,
+      "revenue": 0.87,
+      "views": 279,
       "video_id": "ZFHhRrDS4Hc"
     }
   ],
-  "projected_monthly_revenue": 23.97
+  "projected_monthly_revenue": 24.84
 }
