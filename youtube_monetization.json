@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-11-10 07:10:50 UTC",
-  "period_start": "2025-10-11",
-  "period_end": "2025-11-09",
-  "total_revenue": 24.84,
-  "cpm": 8.24,
-  "monetized_playbacks": 2393,
-  "ad_impressions": 4465,
-  "total_views": 18805,
-  "rpm": 1.32,
+  "last_updated": "2025-11-11 07:10:34 UTC",
+  "period_start": "2025-10-12",
+  "period_end": "2025-11-10",
+  "total_revenue": 25.65,
+  "cpm": 8.23,
+  "monetized_playbacks": 2461,
+  "ad_impressions": 4567,
+  "total_views": 20138,
+  "rpm": 1.27,
   "revenue_change": 0,
   "rpm_change": 0,
   "cpm_change": 0,
   "playbacks_change": 0,
   "revenue_chart": {
     "labels": [
-      "Oct 11",
       "Oct 12",
       "Oct 13",
       "Oct 14",
@@ -41,10 +40,10 @@
       "Nov 04",
       "Nov 05",
       "Nov 06",
-      "Nov 07"
+      "Nov 07",
+      "Nov 08"
     ],
     "values": [
-      0,
       0,
       0,
       0,
@@ -71,15 +70,16 @@
       1.38,
       1.02,
       1.44,
-      0.87
+      0.87,
+      0.81
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 14.97,
-      "views": 2494,
+      "revenue": 15.1,
+      "views": 2525,
       "video_id": "JTFErg-neu8"
     },
     {
@@ -96,16 +96,16 @@
     },
     {
       "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-      "revenue": 0.93,
-      "views": 465,
+      "revenue": 1.04,
+      "views": 479,
       "video_id": "5Bc42zqQBu4"
     },
     {
-      "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 0.87,
-      "views": 279,
-      "video_id": "ZFHhRrDS4Hc"
+      "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide & IC-7300 Mark II",
+      "revenue": 1.03,
+      "views": 182,
+      "video_id": "YbKLH7xdk4Q"
     }
   ],
-  "projected_monthly_revenue": 24.84
+  "projected_monthly_revenue": 25.65
 }
