@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-11-11 07:10:34 UTC",
-  "period_start": "2025-10-12",
-  "period_end": "2025-11-10",
-  "total_revenue": 25.65,
-  "cpm": 8.23,
-  "monetized_playbacks": 2461,
-  "ad_impressions": 4567,
-  "total_views": 20138,
-  "rpm": 1.27,
+  "last_updated": "2025-11-12 07:10:17 UTC",
+  "period_start": "2025-10-13",
+  "period_end": "2025-11-11",
+  "total_revenue": 26.2,
+  "cpm": 8.22,
+  "monetized_playbacks": 2521,
+  "ad_impressions": 4670,
+  "total_views": 20442,
+  "rpm": 1.28,
   "revenue_change": 0,
   "rpm_change": 0,
   "cpm_change": 0,
   "playbacks_change": 0,
   "revenue_chart": {
     "labels": [
-      "Oct 12",
       "Oct 13",
       "Oct 14",
       "Oct 15",
@@ -41,10 +40,10 @@
       "Nov 05",
       "Nov 06",
       "Nov 07",
-      "Nov 08"
+      "Nov 08",
+      "Nov 09"
     ],
     "values": [
-      0,
       0,
       0,
       0,
@@ -71,41 +70,42 @@
       1.02,
       1.44,
       0.87,
-      0.81
+      0.81,
+      0.55
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 15.1,
-      "views": 2525,
+      "revenue": 15.38,
+      "views": 2580,
       "video_id": "JTFErg-neu8"
     },
     {
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "revenue": 2.48,
-      "views": 950,
+      "revenue": 2.49,
+      "views": 954,
       "video_id": "xW-nnl2RGIs"
     },
     {
       "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "revenue": 1.44,
-      "views": 1438,
+      "revenue": 1.45,
+      "views": 1440,
       "video_id": "G3jhDn-tr4Y"
     },
     {
       "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-      "revenue": 1.04,
-      "views": 479,
+      "revenue": 1.07,
+      "views": 465,
       "video_id": "5Bc42zqQBu4"
     },
     {
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide & IC-7300 Mark II",
-      "revenue": 1.03,
-      "views": 182,
+      "revenue": 1.05,
+      "views": 196,
       "video_id": "YbKLH7xdk4Q"
     }
   ],
-  "projected_monthly_revenue": 25.65
+  "projected_monthly_revenue": 26.2
 }
