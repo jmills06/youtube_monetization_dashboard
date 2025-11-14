@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-11-13 07:10:11 UTC",
-  "period_start": "2025-10-14",
-  "period_end": "2025-11-12",
-  "total_revenue": 26.67,
-  "cpm": 8.14,
-  "monetized_playbacks": 2555,
-  "ad_impressions": 4786,
-  "total_views": 20567,
-  "rpm": 1.3,
+  "last_updated": "2025-11-14 07:10:02 UTC",
+  "period_start": "2025-10-15",
+  "period_end": "2025-11-13",
+  "total_revenue": 27.06,
+  "cpm": 8.16,
+  "monetized_playbacks": 2590,
+  "ad_impressions": 4851,
+  "total_views": 20648,
+  "rpm": 1.31,
   "revenue_change": 0,
   "rpm_change": 0,
   "cpm_change": 0,
   "playbacks_change": 0,
   "revenue_chart": {
     "labels": [
-      "Oct 14",
       "Oct 15",
       "Oct 16",
       "Oct 17",
@@ -41,10 +40,10 @@
       "Nov 07",
       "Nov 08",
       "Nov 09",
-      "Nov 10"
+      "Nov 10",
+      "Nov 11"
     ],
     "values": [
-      0,
       0,
       0,
       0,
@@ -71,21 +70,22 @@
       0.87,
       0.81,
       0.55,
-      0.47
+      0.47,
+      0.39
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 15.5,
-      "views": 2597,
+      "revenue": 15.53,
+      "views": 2609,
       "video_id": "JTFErg-neu8"
     },
     {
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "revenue": 2.49,
-      "views": 955,
+      "revenue": 2.54,
+      "views": 957,
       "video_id": "xW-nnl2RGIs"
     },
     {
@@ -96,16 +96,16 @@
     },
     {
       "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-      "revenue": 1.11,
-      "views": 459,
+      "revenue": 1.15,
+      "views": 450,
       "video_id": "5Bc42zqQBu4"
     },
     {
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide & IC-7300 Mark II",
-      "revenue": 1.11,
-      "views": 199,
+      "revenue": 1.13,
+      "views": 204,
       "video_id": "YbKLH7xdk4Q"
     }
   ],
-  "projected_monthly_revenue": 26.67
+  "projected_monthly_revenue": 27.06
 }
