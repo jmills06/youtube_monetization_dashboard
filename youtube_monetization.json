@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-11-21 07:10:51 UTC",
-  "period_start": "2025-10-22",
-  "period_end": "2025-11-20",
-  "total_revenue": 31.79,
-  "cpm": 8.52,
-  "monetized_playbacks": 2939,
-  "ad_impressions": 5513,
-  "total_views": 21784,
-  "rpm": 1.46,
-  "revenue_change": 15110.5,
-  "rpm_change": 6419.0,
-  "cpm_change": 0,
-  "playbacks_change": 0,
+  "last_updated": "2025-11-22 07:08:43 UTC",
+  "period_start": "2025-10-23",
+  "period_end": "2025-11-21",
+  "total_revenue": 31.61,
+  "cpm": 8.55,
+  "monetized_playbacks": 2931,
+  "ad_impressions": 5488,
+  "total_views": 21237,
+  "rpm": 1.49,
+  "revenue_change": 4441.7,
+  "rpm_change": 1937.2,
+  "cpm_change": 21.9,
+  "playbacks_change": 8274.3,
   "revenue_chart": {
     "labels": [
-      "Oct 22",
       "Oct 23",
       "Oct 24",
       "Oct 25",
@@ -41,10 +40,10 @@
       "Nov 15",
       "Nov 16",
       "Nov 17",
-      "Nov 18"
+      "Nov 18",
+      "Nov 19"
     ],
     "values": [
-      0.49,
       0.99,
       1.25,
       0.92,
@@ -71,41 +70,42 @@
       0.51,
       0.83,
       0.74,
-      0.74
+      0.74,
+      0.3
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 16.81,
-      "views": 2714,
+      "revenue": 16.9,
+      "views": 2727,
       "video_id": "JTFErg-neu8"
     },
     {
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "revenue": 2.79,
-      "views": 965,
+      "revenue": 2.82,
+      "views": 966,
       "video_id": "xW-nnl2RGIs"
     },
     {
-      "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "revenue": 1.67,
-      "views": 245,
-      "video_id": "G3jhDn-tr4Y"
+      "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
+      "revenue": 1.53,
+      "views": 317,
+      "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-      "revenue": 1.54,
-      "views": 346,
+      "revenue": 1.51,
+      "views": 330,
       "video_id": "5Bc42zqQBu4"
     },
     {
-      "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
+      "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide & IC-7300 Mark II",
       "revenue": 1.48,
-      "views": 312,
-      "video_id": "ZFHhRrDS4Hc"
+      "views": 222,
+      "video_id": "YbKLH7xdk4Q"
     }
   ],
-  "projected_monthly_revenue": 31.79
+  "projected_monthly_revenue": 31.61
 }
