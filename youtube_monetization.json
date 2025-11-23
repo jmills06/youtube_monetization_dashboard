@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-11-22 07:08:43 UTC",
-  "period_start": "2025-10-23",
-  "period_end": "2025-11-21",
-  "total_revenue": 31.61,
-  "cpm": 8.55,
-  "monetized_playbacks": 2931,
-  "ad_impressions": 5488,
-  "total_views": 21237,
-  "rpm": 1.49,
-  "revenue_change": 4441.7,
-  "rpm_change": 1937.2,
-  "cpm_change": 21.9,
-  "playbacks_change": 8274.3,
+  "last_updated": "2025-11-23 07:09:03 UTC",
+  "period_start": "2025-10-24",
+  "period_end": "2025-11-22",
+  "total_revenue": 32.1,
+  "cpm": 8.68,
+  "monetized_playbacks": 2933,
+  "ad_impressions": 5516,
+  "total_views": 20797,
+  "rpm": 1.54,
+  "revenue_change": 1799.4,
+  "rpm_change": 807.6,
+  "cpm_change": 15.5,
+  "playbacks_change": 2542.3,
   "revenue_chart": {
     "labels": [
-      "Oct 23",
       "Oct 24",
       "Oct 25",
       "Oct 26",
@@ -41,10 +40,10 @@
       "Nov 16",
       "Nov 17",
       "Nov 18",
-      "Nov 19"
+      "Nov 19",
+      "Nov 20"
     ],
     "values": [
-      0.99,
       1.25,
       0.92,
       0.5,
@@ -71,41 +70,42 @@
       0.83,
       0.74,
       0.74,
-      0.3
+      0.3,
+      1.49
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 16.9,
-      "views": 2727,
+      "revenue": 17.02,
+      "views": 2738,
       "video_id": "JTFErg-neu8"
     },
     {
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "revenue": 2.82,
-      "views": 966,
+      "revenue": 2.36,
+      "views": 878,
       "video_id": "xW-nnl2RGIs"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 1.53,
-      "views": 317,
+      "revenue": 1.61,
+      "views": 323,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-      "revenue": 1.51,
-      "views": 330,
+      "revenue": 1.49,
+      "views": 322,
       "video_id": "5Bc42zqQBu4"
     },
     {
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide & IC-7300 Mark II",
       "revenue": 1.48,
-      "views": 222,
+      "views": 223,
       "video_id": "YbKLH7xdk4Q"
     }
   ],
-  "projected_monthly_revenue": 31.61
+  "projected_monthly_revenue": 32.1
 }
