@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-11-23 07:09:03 UTC",
-  "period_start": "2025-10-24",
-  "period_end": "2025-11-22",
-  "total_revenue": 32.1,
-  "cpm": 8.68,
-  "monetized_playbacks": 2933,
-  "ad_impressions": 5516,
-  "total_views": 20797,
+  "last_updated": "2025-11-24 07:11:06 UTC",
+  "period_start": "2025-10-25",
+  "period_end": "2025-11-23",
+  "total_revenue": 31.87,
+  "cpm": 8.8,
+  "monetized_playbacks": 2853,
+  "ad_impressions": 5413,
+  "total_views": 20636,
   "rpm": 1.54,
-  "revenue_change": 1799.4,
-  "rpm_change": 807.6,
-  "cpm_change": 15.5,
-  "playbacks_change": 2542.3,
+  "revenue_change": 984.0,
+  "rpm_change": 440.7,
+  "cpm_change": 16.1,
+  "playbacks_change": 1045.8,
   "revenue_chart": {
     "labels": [
-      "Oct 24",
       "Oct 25",
       "Oct 26",
       "Oct 27",
@@ -41,10 +40,10 @@
       "Nov 17",
       "Nov 18",
       "Nov 19",
-      "Nov 20"
+      "Nov 20",
+      "Nov 21"
     ],
     "values": [
-      1.25,
       0.92,
       0.5,
       0.3,
@@ -71,41 +70,42 @@
       0.74,
       0.74,
       0.3,
-      1.49
+      1.49,
+      1.01
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 17.02,
-      "views": 2738,
+      "revenue": 17.11,
+      "views": 2753,
       "video_id": "JTFErg-neu8"
     },
     {
-      "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "revenue": 2.36,
-      "views": 878,
-      "video_id": "xW-nnl2RGIs"
-    },
-    {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 1.61,
-      "views": 323,
+      "revenue": 1.6,
+      "views": 311,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
+      "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide & IC-7300 Mark II",
+      "revenue": 1.55,
+      "views": 224,
+      "video_id": "YbKLH7xdk4Q"
+    },
+    {
       "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-      "revenue": 1.49,
-      "views": 322,
+      "revenue": 1.53,
+      "views": 317,
       "video_id": "5Bc42zqQBu4"
     },
     {
-      "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide & IC-7300 Mark II",
-      "revenue": 1.48,
-      "views": 223,
-      "video_id": "YbKLH7xdk4Q"
+      "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven't Heard About?",
+      "revenue": 1.52,
+      "views": 154,
+      "video_id": "NRCz6H0BpZI"
     }
   ],
-  "projected_monthly_revenue": 32.1
+  "projected_monthly_revenue": 31.87
 }
