@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-11-24 07:11:06 UTC",
-  "period_start": "2025-10-25",
-  "period_end": "2025-11-23",
-  "total_revenue": 31.87,
-  "cpm": 8.8,
-  "monetized_playbacks": 2853,
-  "ad_impressions": 5413,
-  "total_views": 20636,
-  "rpm": 1.54,
-  "revenue_change": 984.0,
-  "rpm_change": 440.7,
-  "cpm_change": 16.1,
-  "playbacks_change": 1045.8,
+  "last_updated": "2025-11-25 07:11:25 UTC",
+  "period_start": "2025-10-26",
+  "period_end": "2025-11-24",
+  "total_revenue": 31.43,
+  "cpm": 8.87,
+  "monetized_playbacks": 2803,
+  "ad_impressions": 5352,
+  "total_views": 17824,
+  "rpm": 1.76,
+  "revenue_change": 713.8,
+  "rpm_change": 511.9,
+  "cpm_change": 24.5,
+  "playbacks_change": 722.0,
   "revenue_chart": {
     "labels": [
-      "Oct 25",
       "Oct 26",
       "Oct 27",
       "Oct 28",
@@ -41,10 +40,10 @@
       "Nov 18",
       "Nov 19",
       "Nov 20",
-      "Nov 21"
+      "Nov 21",
+      "Nov 22"
     ],
     "values": [
-      0.92,
       0.5,
       0.3,
       0.32,
@@ -71,27 +70,34 @@
       0.74,
       0.3,
       1.49,
-      1.01
+      1.01,
+      0.49
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 17.11,
-      "views": 2753,
+      "revenue": 17.12,
+      "views": 2758,
       "video_id": "JTFErg-neu8"
     },
     {
+      "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven't Heard About?",
+      "revenue": 1.68,
+      "views": 175,
+      "video_id": "NRCz6H0BpZI"
+    },
+    {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 1.6,
-      "views": 311,
+      "revenue": 1.58,
+      "views": 305,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide & IC-7300 Mark II",
       "revenue": 1.55,
-      "views": 224,
+      "views": 228,
       "video_id": "YbKLH7xdk4Q"
     },
     {
@@ -99,13 +105,7 @@
       "revenue": 1.53,
       "views": 317,
       "video_id": "5Bc42zqQBu4"
-    },
-    {
-      "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven't Heard About?",
-      "revenue": 1.52,
-      "views": 154,
-      "video_id": "NRCz6H0BpZI"
     }
   ],
-  "projected_monthly_revenue": 31.87
+  "projected_monthly_revenue": 31.43
 }
