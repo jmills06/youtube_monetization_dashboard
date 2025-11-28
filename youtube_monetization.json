@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-11-27 07:11:28 UTC",
-  "period_start": "2025-10-28",
-  "period_end": "2025-11-26",
-  "total_revenue": 31.42,
-  "cpm": 8.93,
-  "monetized_playbacks": 2789,
-  "ad_impressions": 5362,
-  "total_views": 16872,
-  "rpm": 1.86,
-  "revenue_change": 574.2,
-  "rpm_change": 451.7,
-  "cpm_change": 28.5,
-  "playbacks_change": 553.2,
+  "last_updated": "2025-11-28 07:10:45 UTC",
+  "period_start": "2025-10-29",
+  "period_end": "2025-11-27",
+  "total_revenue": 31.66,
+  "cpm": 8.97,
+  "monetized_playbacks": 2799,
+  "ad_impressions": 5403,
+  "total_views": 16103,
+  "rpm": 1.97,
+  "revenue_change": 536.1,
+  "rpm_change": 436.1,
+  "cpm_change": 30.4,
+  "playbacks_change": 522.0,
   "revenue_chart": {
     "labels": [
-      "Oct 28",
       "Oct 29",
       "Oct 30",
       "Oct 31",
@@ -41,10 +40,10 @@
       "Nov 21",
       "Nov 22",
       "Nov 23",
-      "Nov 24"
+      "Nov 24",
+      "Nov 25"
     ],
     "values": [
-      0.32,
       0.2,
       0.28,
       1.85,
@@ -71,41 +70,42 @@
       1.01,
       0.49,
       0.54,
-      0.25
+      0.25,
+      0.56
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 17.35,
-      "views": 2786,
+      "revenue": 17.47,
+      "views": 2795,
       "video_id": "JTFErg-neu8"
     },
     {
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven't Heard About?",
-      "revenue": 1.79,
-      "views": 184,
+      "revenue": 1.8,
+      "views": 187,
       "video_id": "NRCz6H0BpZI"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 1.72,
-      "views": 304,
+      "revenue": 1.77,
+      "views": 299,
       "video_id": "ZFHhRrDS4Hc"
+    },
+    {
+      "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
+      "revenue": 1.58,
+      "views": 328,
+      "video_id": "5Bc42zqQBu4"
     },
     {
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide & IC-7300 Mark II",
       "revenue": 1.55,
       "views": 231,
       "video_id": "YbKLH7xdk4Q"
-    },
-    {
-      "title": "Flex Radio's new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-      "revenue": 1.54,
-      "views": 325,
-      "video_id": "5Bc42zqQBu4"
     }
   ],
-  "projected_monthly_revenue": 31.42
+  "projected_monthly_revenue": 31.66
 }
