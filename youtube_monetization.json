@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-12-02 07:12:58 UTC",
-  "period_start": "2025-11-02",
-  "period_end": "2025-12-01",
-  "total_revenue": 39.33,
-  "cpm": 10.85,
-  "monetized_playbacks": 2798,
-  "ad_impressions": 5790,
-  "total_views": 14901,
-  "rpm": 2.64,
-  "revenue_change": 160.1,
-  "rpm_change": 174.0,
-  "cpm_change": 38.4,
-  "playbacks_change": 88.3,
+  "last_updated": "2025-12-03 07:12:58 UTC",
+  "period_start": "2025-11-03",
+  "period_end": "2025-12-02",
+  "total_revenue": 37.27,
+  "cpm": 11.11,
+  "monetized_playbacks": 2418,
+  "ad_impressions": 5155,
+  "total_views": 14010,
+  "rpm": 2.66,
+  "revenue_change": 101.0,
+  "rpm_change": 141.9,
+  "cpm_change": 39.0,
+  "playbacks_change": 29.7,
   "revenue_chart": {
     "labels": [
-      "Nov 02",
       "Nov 03",
       "Nov 04",
       "Nov 05",
@@ -41,10 +40,10 @@
       "Nov 26",
       "Nov 27",
       "Nov 28",
-      "Nov 29"
+      "Nov 29",
+      "Nov 30"
     ],
     "values": [
-      3.42,
       1.6,
       1.38,
       1.02,
@@ -71,41 +70,42 @@
       1.26,
       0.49,
       10.9,
-      5.16
+      5.16,
+      1.36
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Are There Any Ham Deals for Black Friday 2025?",
-      "revenue": 14.88,
-      "views": 1403,
+      "revenue": 15.69,
+      "views": 1568,
       "video_id": "-OPz7HyW794"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 9.13,
-      "views": 1432,
+      "revenue": 6.16,
+      "views": 882,
       "video_id": "JTFErg-neu8"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 3.09,
-      "views": 318,
+      "revenue": 3.08,
+      "views": 323,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven't Heard About?",
-      "revenue": 1.9,
-      "views": 205,
+      "revenue": 1.91,
+      "views": 206,
       "video_id": "NRCz6H0BpZI"
     },
     {
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide & IC-7300 Mark II",
-      "revenue": 1.56,
-      "views": 238,
+      "revenue": 1.57,
+      "views": 240,
       "video_id": "YbKLH7xdk4Q"
     }
   ],
-  "projected_monthly_revenue": 39.33
+  "projected_monthly_revenue": 37.27
 }
