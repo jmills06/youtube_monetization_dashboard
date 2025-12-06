@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-12-05 07:12:16 UTC",
-  "period_start": "2025-11-05",
-  "period_end": "2025-12-04",
-  "total_revenue": 35.77,
+  "last_updated": "2025-12-06 07:08:43 UTC",
+  "period_start": "2025-11-06",
+  "period_end": "2025-12-05",
+  "total_revenue": 35.54,
   "cpm": 11.38,
-  "monetized_playbacks": 2336,
-  "ad_impressions": 5005,
-  "total_views": 12451,
-  "rpm": 2.87,
-  "revenue_change": 66.2,
-  "rpm_change": 143.8,
-  "cpm_change": 42.0,
-  "playbacks_change": 7.7,
+  "monetized_playbacks": 2328,
+  "ad_impressions": 4976,
+  "total_views": 12333,
+  "rpm": 2.88,
+  "revenue_change": 57.6,
+  "rpm_change": 134.1,
+  "cpm_change": 39.5,
+  "playbacks_change": 4.5,
   "revenue_chart": {
     "labels": [
-      "Nov 05",
       "Nov 06",
       "Nov 07",
       "Nov 08",
@@ -41,10 +40,10 @@
       "Nov 29",
       "Nov 30",
       "Dec 01",
-      "Dec 02"
+      "Dec 02",
+      "Dec 03"
     ],
     "values": [
-      1.02,
       1.44,
       0.87,
       0.81,
@@ -71,33 +70,34 @@
       5.16,
       1.36,
       0.8,
-      0.69
+      0.69,
+      0.79
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Are There Any Ham Deals for Black Friday 2025?",
-      "revenue": 16.04,
-      "views": 1624,
+      "revenue": 16.05,
+      "views": 1623,
       "video_id": "-OPz7HyW794"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 4.35,
-      "views": 528,
+      "revenue": 3.84,
+      "views": 461,
       "video_id": "JTFErg-neu8"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 3.28,
-      "views": 326,
+      "revenue": 3.47,
+      "views": 334,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven't Heard About?",
-      "revenue": 1.92,
-      "views": 211,
+      "revenue": 2.0,
+      "views": 214,
       "video_id": "NRCz6H0BpZI"
     },
     {
@@ -107,5 +107,5 @@
       "video_id": "YbKLH7xdk4Q"
     }
   ],
-  "projected_monthly_revenue": 35.77
+  "projected_monthly_revenue": 35.54
 }
