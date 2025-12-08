@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-12-07 07:09:12 UTC",
-  "period_start": "2025-11-07",
-  "period_end": "2025-12-06",
-  "total_revenue": 40.47,
-  "cpm": 11.24,
-  "monetized_playbacks": 2619,
-  "ad_impressions": 5772,
-  "total_views": 12968,
-  "rpm": 3.12,
-  "revenue_change": 68.7,
-  "rpm_change": 139.3,
-  "cpm_change": 35.8,
-  "playbacks_change": 12.0,
+  "last_updated": "2025-12-08 07:14:56 UTC",
+  "period_start": "2025-11-08",
+  "period_end": "2025-12-07",
+  "total_revenue": 43.38,
+  "cpm": 11.44,
+  "monetized_playbacks": 2804,
+  "ad_impressions": 6112,
+  "total_views": 12688,
+  "rpm": 3.42,
+  "revenue_change": 74.5,
+  "rpm_change": 168.0,
+  "cpm_change": 38.5,
+  "playbacks_change": 17.2,
   "revenue_chart": {
     "labels": [
-      "Nov 07",
       "Nov 08",
       "Nov 09",
       "Nov 10",
@@ -41,10 +40,10 @@
       "Dec 01",
       "Dec 02",
       "Dec 03",
-      "Dec 04"
+      "Dec 04",
+      "Dec 05"
     ],
     "values": [
-      0.87,
       0.81,
       0.55,
       0.47,
@@ -71,41 +70,42 @@
       0.8,
       0.69,
       0.79,
-      6.38
+      6.38,
+      3.77
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Are There Any Ham Deals for Black Friday 2025?",
-      "revenue": 16.05,
-      "views": 1625,
+      "revenue": 16.07,
+      "views": 1629,
       "video_id": "-OPz7HyW794"
     },
     {
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "revenue": 4.3,
-      "views": 486,
+      "revenue": 6.63,
+      "views": 711,
       "video_id": "wlmmJhByEO4"
     },
     {
-      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 3.56,
-      "views": 416,
-      "video_id": "JTFErg-neu8"
-    },
-    {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 3.55,
-      "views": 340,
+      "revenue": 3.54,
+      "views": 346,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
+      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
+      "revenue": 3.38,
+      "views": 396,
+      "video_id": "JTFErg-neu8"
+    },
+    {
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven't Heard About?",
-      "revenue": 2.03,
-      "views": 221,
+      "revenue": 2.06,
+      "views": 225,
       "video_id": "NRCz6H0BpZI"
     }
   ],
-  "projected_monthly_revenue": 40.47
+  "projected_monthly_revenue": 43.38
 }
