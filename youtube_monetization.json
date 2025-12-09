@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-12-08 07:14:56 UTC",
-  "period_start": "2025-11-08",
-  "period_end": "2025-12-07",
-  "total_revenue": 43.38,
-  "cpm": 11.44,
-  "monetized_playbacks": 2804,
-  "ad_impressions": 6112,
-  "total_views": 12688,
-  "rpm": 3.42,
-  "revenue_change": 74.5,
-  "rpm_change": 168.0,
-  "cpm_change": 38.5,
-  "playbacks_change": 17.2,
+  "last_updated": "2025-12-09 07:13:25 UTC",
+  "period_start": "2025-11-09",
+  "period_end": "2025-12-08",
+  "total_revenue": 44.39,
+  "cpm": 11.57,
+  "monetized_playbacks": 2862,
+  "ad_impressions": 6216,
+  "total_views": 11760,
+  "rpm": 3.77,
+  "revenue_change": 72.9,
+  "rpm_change": 203.6,
+  "cpm_change": 40.1,
+  "playbacks_change": 16.3,
   "revenue_chart": {
     "labels": [
-      "Nov 08",
       "Nov 09",
       "Nov 10",
       "Nov 11",
@@ -41,10 +40,10 @@
       "Dec 02",
       "Dec 03",
       "Dec 04",
-      "Dec 05"
+      "Dec 05",
+      "Dec 06"
     ],
     "values": [
-      0.81,
       0.55,
       0.47,
       0.39,
@@ -71,7 +70,8 @@
       0.69,
       0.79,
       6.38,
-      3.77
+      3.77,
+      1.82
     ]
   },
   "ad_type_breakdown": {},
@@ -79,33 +79,33 @@
     {
       "title": "Are There Any Ham Deals for Black Friday 2025?",
       "revenue": 16.07,
-      "views": 1629,
+      "views": 1630,
       "video_id": "-OPz7HyW794"
     },
     {
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "revenue": 6.63,
-      "views": 711,
+      "revenue": 7.57,
+      "views": 829,
       "video_id": "wlmmJhByEO4"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 3.54,
-      "views": 346,
+      "revenue": 4.01,
+      "views": 348,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 3.38,
-      "views": 396,
+      "revenue": 3.31,
+      "views": 374,
       "video_id": "JTFErg-neu8"
     },
     {
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven't Heard About?",
-      "revenue": 2.06,
-      "views": 225,
+      "revenue": 2.07,
+      "views": 228,
       "video_id": "NRCz6H0BpZI"
     }
   ],
-  "projected_monthly_revenue": 43.38
+  "projected_monthly_revenue": 44.39
 }
