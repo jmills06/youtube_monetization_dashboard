@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-12-20 07:08:56 UTC",
-  "period_start": "2025-11-20",
-  "period_end": "2025-12-19",
-  "total_revenue": 45.49,
-  "cpm": 11.56,
-  "monetized_playbacks": 3012,
-  "ad_impressions": 6426,
-  "total_views": 9838,
-  "rpm": 4.62,
-  "revenue_change": 41.1,
-  "rpm_change": 218.0,
-  "cpm_change": 35.6,
-  "playbacks_change": 1.6,
+  "last_updated": "2025-12-21 07:10:22 UTC",
+  "period_start": "2025-11-21",
+  "period_end": "2025-12-20",
+  "total_revenue": 44.34,
+  "cpm": 11.54,
+  "monetized_playbacks": 2970,
+  "ad_impressions": 6283,
+  "total_views": 9670,
+  "rpm": 4.59,
+  "revenue_change": 32.0,
+  "rpm_change": 203.8,
+  "cpm_change": 33.8,
+  "playbacks_change": -2.4,
   "revenue_chart": {
     "labels": [
-      "Nov 20",
       "Nov 21",
       "Nov 22",
       "Nov 23",
@@ -41,10 +40,10 @@
       "Dec 14",
       "Dec 15",
       "Dec 16",
-      "Dec 17"
+      "Dec 17",
+      "Dec 18"
     ],
     "values": [
-      1.49,
       1.01,
       0.49,
       0.54,
@@ -71,7 +70,8 @@
       0.7,
       0.25,
       0.43,
-      0.29
+      0.29,
+      0.34
     ]
   },
   "ad_type_breakdown": {},
@@ -84,28 +84,28 @@
     },
     {
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "revenue": 8.99,
-      "views": 1049,
+      "revenue": 9.06,
+      "views": 1053,
       "video_id": "wlmmJhByEO4"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 4.56,
-      "views": 398,
+      "revenue": 4.58,
+      "views": 405,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
       "revenue": 3.06,
-      "views": 265,
+      "views": 267,
       "video_id": "BfnyZLXdTH0"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 2.18,
-      "views": 322,
+      "revenue": 2.06,
+      "views": 312,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 45.49
+  "projected_monthly_revenue": 44.34
 }
