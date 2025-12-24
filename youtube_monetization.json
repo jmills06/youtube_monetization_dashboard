@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-12-23 07:15:02 UTC",
-  "period_start": "2025-11-23",
-  "period_end": "2025-12-22",
-  "total_revenue": 43.72,
+  "last_updated": "2025-12-24 07:14:56 UTC",
+  "period_start": "2025-11-24",
+  "period_end": "2025-12-23",
+  "total_revenue": 43.61,
   "cpm": 11.58,
-  "monetized_playbacks": 2934,
-  "ad_impressions": 6192,
-  "total_views": 9040,
-  "rpm": 4.84,
-  "revenue_change": 30.1,
-  "rpm_change": 212.1,
-  "cpm_change": 32.5,
-  "playbacks_change": -3.2,
+  "monetized_playbacks": 2925,
+  "ad_impressions": 6174,
+  "total_views": 9051,
+  "rpm": 4.82,
+  "revenue_change": 32.6,
+  "rpm_change": 210.9,
+  "cpm_change": 31.8,
+  "playbacks_change": -0.5,
   "revenue_chart": {
     "labels": [
-      "Nov 23",
       "Nov 24",
       "Nov 25",
       "Nov 26",
@@ -41,10 +40,10 @@
       "Dec 17",
       "Dec 18",
       "Dec 19",
-      "Dec 20"
+      "Dec 20",
+      "Dec 21"
     ],
     "values": [
-      0.54,
       0.25,
       0.56,
       1.26,
@@ -71,7 +70,8 @@
       0.29,
       0.34,
       0.27,
-      0.61
+      0.61,
+      0.43
     ]
   },
   "ad_type_breakdown": {},
@@ -84,28 +84,28 @@
     },
     {
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "revenue": 9.13,
-      "views": 1057,
+      "revenue": 9.16,
+      "views": 1060,
       "video_id": "wlmmJhByEO4"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 4.61,
-      "views": 409,
+      "revenue": 4.53,
+      "views": 419,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 3.37,
-      "views": 276,
+      "revenue": 3.4,
+      "views": 279,
       "video_id": "BfnyZLXdTH0"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.97,
-      "views": 294,
+      "revenue": 1.85,
+      "views": 283,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 43.72
+  "projected_monthly_revenue": 43.61
 }
