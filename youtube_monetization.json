@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-12-24 07:14:56 UTC",
-  "period_start": "2025-11-24",
-  "period_end": "2025-12-23",
-  "total_revenue": 43.61,
-  "cpm": 11.58,
-  "monetized_playbacks": 2925,
-  "ad_impressions": 6174,
-  "total_views": 9051,
-  "rpm": 4.82,
-  "revenue_change": 32.6,
-  "rpm_change": 210.9,
-  "cpm_change": 31.8,
-  "playbacks_change": -0.5,
+  "last_updated": "2025-12-25 07:13:24 UTC",
+  "period_start": "2025-11-25",
+  "period_end": "2025-12-24",
+  "total_revenue": 43.69,
+  "cpm": 11.54,
+  "monetized_playbacks": 2937,
+  "ad_impressions": 6207,
+  "total_views": 9053,
+  "rpm": 4.83,
+  "revenue_change": 35.6,
+  "rpm_change": 171.7,
+  "cpm_change": 30.4,
+  "playbacks_change": 2.2,
   "revenue_chart": {
     "labels": [
-      "Nov 24",
       "Nov 25",
       "Nov 26",
       "Nov 27",
@@ -41,10 +40,10 @@
       "Dec 18",
       "Dec 19",
       "Dec 20",
-      "Dec 21"
+      "Dec 21",
+      "Dec 22"
     ],
     "values": [
-      0.25,
       0.56,
       1.26,
       0.49,
@@ -71,7 +70,8 @@
       0.34,
       0.27,
       0.61,
-      0.43
+      0.43,
+      0.33
     ]
   },
   "ad_type_breakdown": {},
@@ -84,28 +84,28 @@
     },
     {
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "revenue": 9.16,
-      "views": 1060,
+      "revenue": 9.18,
+      "views": 1062,
       "video_id": "wlmmJhByEO4"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 4.53,
-      "views": 419,
+      "revenue": 4.7,
+      "views": 427,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 3.4,
-      "views": 279,
+      "revenue": 3.41,
+      "views": 280,
       "video_id": "BfnyZLXdTH0"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.85,
-      "views": 283,
+      "revenue": 1.74,
+      "views": 276,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 43.61
+  "projected_monthly_revenue": 43.69
 }
