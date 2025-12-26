@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-12-25 07:13:24 UTC",
-  "period_start": "2025-11-25",
-  "period_end": "2025-12-24",
-  "total_revenue": 43.69,
-  "cpm": 11.54,
-  "monetized_playbacks": 2937,
-  "ad_impressions": 6207,
-  "total_views": 9053,
-  "rpm": 4.83,
-  "revenue_change": 35.6,
-  "rpm_change": 171.7,
-  "cpm_change": 30.4,
-  "playbacks_change": 2.2,
+  "last_updated": "2025-12-26 07:13:03 UTC",
+  "period_start": "2025-11-26",
+  "period_end": "2025-12-25",
+  "total_revenue": 43.62,
+  "cpm": 11.51,
+  "monetized_playbacks": 2960,
+  "ad_impressions": 6219,
+  "total_views": 9086,
+  "rpm": 4.8,
+  "revenue_change": 35.2,
+  "rpm_change": 161.8,
+  "cpm_change": 28.9,
+  "playbacks_change": 3.9,
   "revenue_chart": {
     "labels": [
-      "Nov 25",
       "Nov 26",
       "Nov 27",
       "Nov 28",
@@ -41,15 +40,15 @@
       "Dec 19",
       "Dec 20",
       "Dec 21",
-      "Dec 22"
+      "Dec 22",
+      "Dec 23"
     ],
     "values": [
-      0.56,
       1.26,
       0.49,
       10.9,
       5.16,
-      1.36,
+      1.38,
       0.8,
       0.69,
       0.79,
@@ -71,41 +70,42 @@
       0.27,
       0.61,
       0.43,
-      0.33
+      0.33,
+      0.46
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Are There Any Ham Deals for Black Friday 2025?",
-      "revenue": 16.17,
-      "views": 1643,
+      "revenue": 16.2,
+      "views": 1645,
       "video_id": "-OPz7HyW794"
     },
     {
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
       "revenue": 9.18,
-      "views": 1062,
+      "views": 1065,
       "video_id": "wlmmJhByEO4"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 4.7,
-      "views": 427,
+      "revenue": 4.69,
+      "views": 441,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 3.41,
-      "views": 280,
+      "revenue": 3.5,
+      "views": 283,
       "video_id": "BfnyZLXdTH0"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.74,
-      "views": 276,
+      "revenue": 1.73,
+      "views": 274,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 43.69
+  "projected_monthly_revenue": 43.62
 }
