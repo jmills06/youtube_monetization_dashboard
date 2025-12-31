@@ -1,20 +1,19 @@
 {
-  "last_updated": "2025-12-30 07:14:15 UTC",
-  "period_start": "2025-11-30",
-  "period_end": "2025-12-29",
-  "total_revenue": 27.65,
-  "cpm": 10.46,
-  "monetized_playbacks": 2081,
-  "ad_impressions": 4210,
-  "total_views": 9058,
-  "rpm": 3.05,
-  "revenue_change": -43.6,
-  "rpm_change": 10.0,
-  "cpm_change": 2.2,
-  "playbacks_change": -44.8,
+  "last_updated": "2025-12-31 07:14:10 UTC",
+  "period_start": "2025-12-01",
+  "period_end": "2025-12-30",
+  "total_revenue": 26.7,
+  "cpm": 10.47,
+  "monetized_playbacks": 2012,
+  "ad_impressions": 4063,
+  "total_views": 8855,
+  "rpm": 3.02,
+  "revenue_change": -45.0,
+  "rpm_change": 8.2,
+  "cpm_change": 1.7,
+  "playbacks_change": -46.0,
   "revenue_chart": {
     "labels": [
-      "Nov 30",
       "Dec 01",
       "Dec 02",
       "Dec 03",
@@ -41,10 +40,10 @@
       "Dec 24",
       "Dec 25",
       "Dec 26",
-      "Dec 27"
+      "Dec 27",
+      "Dec 28"
     ],
     "values": [
-      1.38,
       0.8,
       0.69,
       0.79,
@@ -71,41 +70,42 @@
       0.3,
       0.35,
       0.5,
-      0.69
+      0.69,
+      0.43
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "revenue": 9.25,
-      "views": 1081,
+      "revenue": 9.28,
+      "views": 1084,
       "video_id": "wlmmJhByEO4"
     },
     {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 3.73,
-      "views": 302,
+      "revenue": 3.82,
+      "views": 306,
       "video_id": "BfnyZLXdTH0"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 3.61,
-      "views": 446,
+      "revenue": 3.74,
+      "views": 454,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.57,
+      "revenue": 1.55,
       "views": 256,
       "video_id": "JTFErg-neu8"
     },
     {
-      "title": "Are There Any Ham Deals for Black Friday 2025?",
-      "revenue": 1.34,
-      "views": 249,
-      "video_id": "-OPz7HyW794"
+      "title": "YAESU FTX-1 Optima Unboxing: First Look & Impressions",
+      "revenue": 1.19,
+      "views": 133,
+      "video_id": "RqOHrrKqfCg"
     }
   ],
-  "projected_monthly_revenue": 27.65
+  "projected_monthly_revenue": 26.7
 }
