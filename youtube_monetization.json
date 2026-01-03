@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-01-02 07:14:49 UTC",
-  "period_start": "2025-12-03",
-  "period_end": "2026-01-01",
-  "total_revenue": 25.93,
-  "cpm": 10.3,
-  "monetized_playbacks": 1960,
-  "ad_impressions": 3976,
-  "total_views": 9646,
-  "rpm": 2.69,
-  "revenue_change": -33.1,
-  "rpm_change": -0.0,
-  "cpm_change": -6.7,
-  "playbacks_change": -25.8,
+  "last_updated": "2026-01-03 07:10:14 UTC",
+  "period_start": "2025-12-04",
+  "period_end": "2026-01-02",
+  "total_revenue": 26.25,
+  "cpm": 10.45,
+  "monetized_playbacks": 1965,
+  "ad_impressions": 3966,
+  "total_views": 9672,
+  "rpm": 2.71,
+  "revenue_change": -30.9,
+  "rpm_change": -4.1,
+  "cpm_change": -7.3,
+  "playbacks_change": -21.9,
   "revenue_chart": {
     "labels": [
-      "Dec 03",
       "Dec 04",
       "Dec 05",
       "Dec 06",
@@ -41,10 +40,10 @@
       "Dec 27",
       "Dec 28",
       "Dec 29",
-      "Dec 30"
+      "Dec 30",
+      "Dec 31"
     ],
     "values": [
-      0.79,
       6.38,
       3.77,
       1.82,
@@ -71,41 +70,42 @@
       0.69,
       0.43,
       0.43,
-      0.29
+      0.29,
+      1.11
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "revenue": 9.31,
-      "views": 1092,
+      "revenue": 9.36,
+      "views": 1095,
       "video_id": "wlmmJhByEO4"
     },
     {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 3.84,
-      "views": 314,
+      "revenue": 4.37,
+      "views": 321,
       "video_id": "BfnyZLXdTH0"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 3.52,
-      "views": 452,
+      "revenue": 3.34,
+      "views": 455,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.39,
-      "views": 256,
+      "revenue": 1.54,
+      "views": 260,
       "video_id": "JTFErg-neu8"
     },
     {
       "title": "YAESU FTX-1 Optima Unboxing: First Look & Impressions",
-      "revenue": 1.17,
+      "revenue": 1.25,
       "views": 133,
       "video_id": "RqOHrrKqfCg"
     }
   ],
-  "projected_monthly_revenue": 25.93
+  "projected_monthly_revenue": 26.25
 }
