@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-01-04 07:12:39 UTC",
-  "period_start": "2025-12-05",
-  "period_end": "2026-01-03",
-  "total_revenue": 20.23,
-  "cpm": 10.28,
-  "monetized_playbacks": 1619,
-  "ad_impressions": 3047,
-  "total_views": 8993,
-  "rpm": 2.25,
-  "revenue_change": -52.9,
-  "rpm_change": -29.2,
-  "cpm_change": -8.6,
-  "playbacks_change": -42.0,
+  "last_updated": "2026-01-05 07:19:42 UTC",
+  "period_start": "2025-12-06",
+  "period_end": "2026-01-04",
+  "total_revenue": 16.78,
+  "cpm": 9.66,
+  "monetized_playbacks": 1430,
+  "ad_impressions": 2658,
+  "total_views": 8266,
+  "rpm": 2.03,
+  "revenue_change": -63.3,
+  "rpm_change": -37.0,
+  "cpm_change": -14.8,
+  "playbacks_change": -51.9,
   "revenue_chart": {
     "labels": [
-      "Dec 05",
       "Dec 06",
       "Dec 07",
       "Dec 08",
@@ -41,10 +40,10 @@
       "Dec 29",
       "Dec 30",
       "Dec 31",
-      "Jan 01"
+      "Jan 01",
+      "Jan 02"
     ],
     "values": [
-      3.77,
       1.82,
       1.21,
       1.09,
@@ -71,41 +70,42 @@
       0.43,
       0.29,
       1.11,
-      0.35
+      0.35,
+      0.32
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
-      "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "revenue": 5.08,
-      "views": 616,
-      "video_id": "wlmmJhByEO4"
-    },
-    {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 3.36,
-      "views": 477,
+      "revenue": 3.43,
+      "views": 490,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
+      "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
+      "revenue": 2.79,
+      "views": 400,
+      "video_id": "wlmmJhByEO4"
+    },
+    {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 3.17,
-      "views": 249,
+      "revenue": 2.59,
+      "views": 187,
       "video_id": "BfnyZLXdTH0"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
       "revenue": 1.35,
-      "views": 251,
+      "views": 253,
       "video_id": "JTFErg-neu8"
     },
     {
-      "title": "YAESU FTX-1 Optima Unboxing: First Look & Impressions",
-      "revenue": 1.2,
-      "views": 138,
-      "video_id": "RqOHrrKqfCg"
+      "title": "Astron VS-70M LED Backlight Upgrade and Repairing the Voltage Adjustment",
+      "revenue": 0.93,
+      "views": 220,
+      "video_id": "k_Le8zbMJT8"
     }
   ],
-  "projected_monthly_revenue": 20.23
+  "projected_monthly_revenue": 16.78
 }
