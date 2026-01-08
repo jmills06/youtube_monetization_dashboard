@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-01-07 07:16:00 UTC",
-  "period_start": "2025-12-08",
-  "period_end": "2026-01-06",
-  "total_revenue": 15.86,
-  "cpm": 8.67,
-  "monetized_playbacks": 1476,
-  "ad_impressions": 2737,
-  "total_views": 12023,
-  "rpm": 1.32,
-  "revenue_change": -65.8,
-  "rpm_change": -60.8,
-  "cpm_change": -24.2,
-  "playbacks_change": -51.2,
+  "last_updated": "2026-01-08 07:15:18 UTC",
+  "period_start": "2025-12-09",
+  "period_end": "2026-01-07",
+  "total_revenue": 15.19,
+  "cpm": 8.35,
+  "monetized_playbacks": 1441,
+  "ad_impressions": 2688,
+  "total_views": 12992,
+  "rpm": 1.17,
+  "revenue_change": -67.5,
+  "rpm_change": -68.5,
+  "cpm_change": -27.4,
+  "playbacks_change": -52.8,
   "revenue_chart": {
     "labels": [
-      "Dec 08",
       "Dec 09",
       "Dec 10",
       "Dec 11",
@@ -41,10 +40,10 @@
       "Jan 01",
       "Jan 02",
       "Jan 03",
-      "Jan 04"
+      "Jan 04",
+      "Jan 05"
     ],
     "values": [
-      1.09,
       1.08,
       0.99,
       0.81,
@@ -71,41 +70,42 @@
       0.35,
       0.32,
       1.12,
-      0.98
+      0.98,
+      0.43
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 2.91,
-      "views": 493,
+      "revenue": 2.89,
+      "views": 487,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 2.17,
-      "views": 150,
+      "revenue": 2.1,
+      "views": 143,
       "video_id": "BfnyZLXdTH0"
     },
     {
-      "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "revenue": 1.59,
-      "views": 226,
-      "video_id": "wlmmJhByEO4"
-    },
-    {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.31,
-      "views": 257,
+      "revenue": 1.32,
+      "views": 223,
       "video_id": "JTFErg-neu8"
     },
     {
-      "title": "Astron VS-70M LED Backlight Upgrade and Repairing the Voltage Adjustment",
-      "revenue": 0.95,
-      "views": 225,
-      "video_id": "k_Le8zbMJT8"
+      "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
+      "revenue": 1.18,
+      "views": 161,
+      "video_id": "wlmmJhByEO4"
+    },
+    {
+      "title": "You Don't Need HF for POTA \u2014 Just a Handheld and Friends",
+      "revenue": 1.03,
+      "views": 397,
+      "video_id": "RMmIbQR7I4g"
     }
   ],
-  "projected_monthly_revenue": 15.86
+  "projected_monthly_revenue": 15.19
 }
