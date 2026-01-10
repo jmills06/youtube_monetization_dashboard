@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-01-09 07:16:19 UTC",
-  "period_start": "2025-12-10",
-  "period_end": "2026-01-08",
-  "total_revenue": 14.42,
-  "cpm": 8.05,
-  "monetized_playbacks": 1424,
-  "ad_impressions": 2629,
-  "total_views": 13121,
-  "rpm": 1.1,
-  "revenue_change": -69.5,
-  "rpm_change": -71.3,
-  "cpm_change": -30.3,
-  "playbacks_change": -53.6,
+  "last_updated": "2026-01-10 07:09:59 UTC",
+  "period_start": "2025-12-11",
+  "period_end": "2026-01-09",
+  "total_revenue": 14.74,
+  "cpm": 8.47,
+  "monetized_playbacks": 1386,
+  "ad_impressions": 2573,
+  "total_views": 13167,
+  "rpm": 1.12,
+  "revenue_change": -69.1,
+  "rpm_change": -71.2,
+  "cpm_change": -27.3,
+  "playbacks_change": -55.6,
   "revenue_chart": {
     "labels": [
-      "Dec 10",
       "Dec 11",
       "Dec 12",
       "Dec 13",
@@ -41,10 +40,10 @@
       "Jan 03",
       "Jan 04",
       "Jan 05",
-      "Jan 06"
+      "Jan 06",
+      "Jan 07"
     ],
     "values": [
-      0.99,
       0.81,
       0.34,
       0.55,
@@ -71,41 +70,42 @@
       1.12,
       0.98,
       0.43,
-      0.3
+      0.3,
+      1.32
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
+      "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
+      "revenue": 2.84,
+      "views": 134,
+      "video_id": "BfnyZLXdTH0"
+    },
+    {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 2.54,
-      "views": 477,
+      "revenue": 2.37,
+      "views": 473,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
-      "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 2.06,
-      "views": 142,
-      "video_id": "BfnyZLXdTH0"
+      "title": "You Don't Need HF for POTA \u2014 Just a Handheld and Friends",
+      "revenue": 1.22,
+      "views": 507,
+      "video_id": "RMmIbQR7I4g"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
       "revenue": 1.11,
-      "views": 204,
+      "views": 191,
       "video_id": "JTFErg-neu8"
     },
     {
-      "title": "You Don't Need HF for POTA \u2014 Just a Handheld and Friends",
-      "revenue": 1.11,
-      "views": 459,
-      "video_id": "RMmIbQR7I4g"
-    },
-    {
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "revenue": 1.08,
-      "views": 153,
+      "revenue": 0.97,
+      "views": 135,
       "video_id": "wlmmJhByEO4"
     }
   ],
-  "projected_monthly_revenue": 14.42
+  "projected_monthly_revenue": 14.74
 }
