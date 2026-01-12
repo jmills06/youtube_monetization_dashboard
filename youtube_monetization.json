@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-01-11 07:12:37 UTC",
-  "period_start": "2025-12-12",
-  "period_end": "2026-01-10",
-  "total_revenue": 15.67,
-  "cpm": 8.18,
-  "monetized_playbacks": 1505,
-  "ad_impressions": 2848,
-  "total_views": 13333,
-  "rpm": 1.18,
-  "revenue_change": -67.5,
-  "rpm_change": -69.8,
-  "cpm_change": -29.7,
-  "playbacks_change": -52.4,
+  "last_updated": "2026-01-12 07:18:24 UTC",
+  "period_start": "2025-12-13",
+  "period_end": "2026-01-11",
+  "total_revenue": 18.49,
+  "cpm": 8.29,
+  "monetized_playbacks": 1715,
+  "ad_impressions": 3280,
+  "total_views": 13634,
+  "rpm": 1.36,
+  "revenue_change": -61.6,
+  "rpm_change": -64.9,
+  "cpm_change": -28.8,
+  "playbacks_change": -45.7,
   "revenue_chart": {
     "labels": [
-      "Dec 12",
       "Dec 13",
       "Dec 14",
       "Dec 15",
@@ -41,10 +40,10 @@
       "Jan 05",
       "Jan 06",
       "Jan 07",
-      "Jan 08"
+      "Jan 08",
+      "Jan 09"
     ],
     "values": [
-      0.34,
       0.55,
       0.7,
       0.25,
@@ -58,12 +57,12 @@
       0.46,
       0.3,
       0.35,
-      0.5,
-      0.69,
+      0.51,
+      0.71,
+      0.44,
       0.43,
-      0.43,
-      0.29,
-      1.11,
+      0.32,
+      1.12,
       0.35,
       0.32,
       1.12,
@@ -71,41 +70,42 @@
       0.43,
       0.3,
       1.32,
-      1.74
+      1.74,
+      3.09
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
+      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
+      "revenue": 3.76,
+      "views": 402,
+      "video_id": "cGQR0gc20OY"
+    },
+    {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 2.72,
-      "views": 126,
+      "revenue": 2.65,
+      "views": 123,
       "video_id": "BfnyZLXdTH0"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
       "revenue": 2.51,
-      "views": 480,
+      "views": 486,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "You Don't Need HF for POTA \u2014 Just a Handheld and Friends",
-      "revenue": 1.31,
-      "views": 571,
+      "revenue": 1.52,
+      "views": 603,
       "video_id": "RMmIbQR7I4g"
     },
     {
-      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 1.2,
-      "views": 116,
-      "video_id": "cGQR0gc20OY"
-    },
-    {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.11,
-      "views": 195,
+      "revenue": 1.12,
+      "views": 196,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 15.67
+  "projected_monthly_revenue": 18.49
 }
