@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-01-14 07:16:11 UTC",
-  "period_start": "2025-12-15",
-  "period_end": "2026-01-13",
-  "total_revenue": 22.87,
-  "cpm": 7.86,
-  "monetized_playbacks": 2141,
-  "ad_impressions": 4257,
-  "total_views": 14386,
-  "rpm": 1.59,
-  "revenue_change": -52.2,
-  "rpm_change": -62.0,
-  "cpm_change": -32.1,
-  "playbacks_change": -31.8,
+  "last_updated": "2026-01-15 07:15:50 UTC",
+  "period_start": "2025-12-16",
+  "period_end": "2026-01-14",
+  "total_revenue": 24.49,
+  "cpm": 7.62,
+  "monetized_playbacks": 2319,
+  "ad_impressions": 4691,
+  "total_views": 14684,
+  "rpm": 1.67,
+  "revenue_change": -48.5,
+  "rpm_change": -60.9,
+  "cpm_change": -34.4,
+  "playbacks_change": -25.5,
   "revenue_chart": {
     "labels": [
-      "Dec 15",
       "Dec 16",
       "Dec 17",
       "Dec 18",
@@ -41,10 +40,10 @@
       "Jan 08",
       "Jan 09",
       "Jan 10",
-      "Jan 11"
+      "Jan 11",
+      "Jan 12"
     ],
     "values": [
-      0.25,
       0.43,
       0.29,
       0.34,
@@ -71,15 +70,16 @@
       1.74,
       3.09,
       3.08,
-      2.54
+      2.54,
+      1.88
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 8.1,
-      "views": 990,
+      "revenue": 9.69,
+      "views": 1262,
       "video_id": "cGQR0gc20OY"
     },
     {
@@ -90,22 +90,22 @@
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 2.4,
-      "views": 488,
+      "revenue": 2.41,
+      "views": 498,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "You Don't Need HF for POTA \u2014 Just a Handheld and Friends",
       "revenue": 1.76,
-      "views": 663,
+      "views": 674,
       "video_id": "RMmIbQR7I4g"
     },
     {
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
       "revenue": 1.07,
-      "views": 126,
+      "views": 122,
       "video_id": "wlmmJhByEO4"
     }
   ],
-  "projected_monthly_revenue": 22.87
+  "projected_monthly_revenue": 24.49
 }
