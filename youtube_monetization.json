@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-01-16 07:15:09 UTC",
-  "period_start": "2025-12-17",
-  "period_end": "2026-01-15",
-  "total_revenue": 26.53,
-  "cpm": 7.46,
-  "monetized_playbacks": 2561,
-  "ad_impressions": 5222,
-  "total_views": 15100,
-  "rpm": 1.76,
-  "revenue_change": -43.7,
-  "rpm_change": -60.9,
-  "cpm_change": -35.9,
-  "playbacks_change": -17.0,
+  "last_updated": "2026-01-17 07:10:20 UTC",
+  "period_start": "2025-12-18",
+  "period_end": "2026-01-16",
+  "total_revenue": 27.77,
+  "cpm": 7.35,
+  "monetized_playbacks": 2707,
+  "ad_impressions": 5522,
+  "total_views": 15397,
+  "rpm": 1.8,
+  "revenue_change": -40.5,
+  "rpm_change": -61.2,
+  "cpm_change": -36.7,
+  "playbacks_change": -11.6,
   "revenue_chart": {
     "labels": [
-      "Dec 17",
       "Dec 18",
       "Dec 19",
       "Dec 20",
@@ -41,10 +40,10 @@
       "Jan 10",
       "Jan 11",
       "Jan 12",
-      "Jan 13"
+      "Jan 13",
+      "Jan 14"
     ],
     "values": [
-      0.29,
       0.34,
       0.27,
       0.61,
@@ -71,41 +70,42 @@
       3.08,
       2.54,
       1.88,
-      2.47
+      2.47,
+      1.53
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 11.89,
-      "views": 1586,
+      "revenue": 13.11,
+      "views": 1803,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
       "revenue": 2.58,
-      "views": 127,
+      "views": 123,
       "video_id": "BfnyZLXdTH0"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 2.33,
-      "views": 495,
+      "revenue": 2.43,
+      "views": 500,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "You Don't Need HF for POTA \u2014 Just a Handheld and Friends",
-      "revenue": 1.78,
-      "views": 684,
+      "revenue": 1.79,
+      "views": 699,
       "video_id": "RMmIbQR7I4g"
     },
     {
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "revenue": 1.07,
-      "views": 123,
+      "revenue": 1.08,
+      "views": 126,
       "video_id": "wlmmJhByEO4"
     }
   ],
-  "projected_monthly_revenue": 26.53
+  "projected_monthly_revenue": 27.77
 }
