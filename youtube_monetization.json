@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-01-21 07:18:33 UTC",
-  "period_start": "2025-12-22",
-  "period_end": "2026-01-20",
-  "total_revenue": 30.63,
-  "cpm": 7.19,
-  "monetized_playbacks": 3084,
-  "ad_impressions": 6189,
-  "total_views": 18563,
-  "rpm": 1.65,
-  "revenue_change": -31.6,
-  "rpm_change": -64.5,
-  "cpm_change": -37.4,
-  "playbacks_change": 2.3,
+  "last_updated": "2026-01-22 07:17:17 UTC",
+  "period_start": "2025-12-23",
+  "period_end": "2026-01-21",
+  "total_revenue": 31.23,
+  "cpm": 7.2,
+  "monetized_playbacks": 3051,
+  "ad_impressions": 6102,
+  "total_views": 18415,
+  "rpm": 1.7,
+  "revenue_change": -30.0,
+  "rpm_change": -64.4,
+  "cpm_change": -37.2,
+  "playbacks_change": 1.4,
   "revenue_chart": {
     "labels": [
-      "Dec 22",
       "Dec 23",
       "Dec 24",
       "Dec 25",
@@ -41,10 +40,10 @@
       "Jan 15",
       "Jan 16",
       "Jan 17",
-      "Jan 18"
+      "Jan 18",
+      "Jan 19"
     ],
     "values": [
-      0.33,
       0.45,
       0.3,
       0.35,
@@ -71,28 +70,29 @@
       1.68,
       1.06,
       0.83,
-      0.94
+      0.94,
+      0.92
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 15.71,
+      "revenue": 16.31,
       "views": 2191,
       "video_id": "cGQR0gc20OY"
     },
     {
-      "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 2.38,
-      "views": 516,
-      "video_id": "ZFHhRrDS4Hc"
+      "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
+      "revenue": 2.35,
+      "views": 117,
+      "video_id": "BfnyZLXdTH0"
     },
     {
-      "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 2.32,
-      "views": 118,
-      "video_id": "BfnyZLXdTH0"
+      "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
+      "revenue": 2.27,
+      "views": 503,
+      "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "You Don't Need HF for POTA \u2014 Just a Handheld and Friends",
@@ -102,10 +102,10 @@
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.28,
-      "views": 210,
+      "revenue": 1.32,
+      "views": 205,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 30.63
+  "projected_monthly_revenue": 31.23
 }
