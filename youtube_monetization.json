@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-01-23 07:16:10 UTC",
-  "period_start": "2025-12-24",
-  "period_end": "2026-01-22",
-  "total_revenue": 31.22,
+  "last_updated": "2026-01-24 07:11:19 UTC",
+  "period_start": "2025-12-25",
+  "period_end": "2026-01-23",
+  "total_revenue": 31.58,
   "cpm": 7.12,
-  "monetized_playbacks": 3052,
-  "ad_impressions": 6165,
-  "total_views": 18799,
-  "rpm": 1.66,
-  "revenue_change": -29.9,
-  "rpm_change": -65.0,
-  "cpm_change": -37.8,
-  "playbacks_change": 1.1,
+  "monetized_playbacks": 3156,
+  "ad_impressions": 6435,
+  "total_views": 18431,
+  "rpm": 1.71,
+  "revenue_change": -29.1,
+  "rpm_change": -62.4,
+  "cpm_change": -37.7,
+  "playbacks_change": 4.2,
   "revenue_chart": {
     "labels": [
-      "Dec 24",
       "Dec 25",
       "Dec 26",
       "Dec 27",
@@ -41,10 +40,10 @@
       "Jan 17",
       "Jan 18",
       "Jan 19",
-      "Jan 20"
+      "Jan 20",
+      "Jan 21"
     ],
     "values": [
-      0.3,
       0.35,
       0.51,
       0.71,
@@ -71,21 +70,22 @@
       0.83,
       0.94,
       0.92,
-      0.44
+      0.44,
+      0.66
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 16.46,
-      "views": 2307,
+      "revenue": 16.57,
+      "views": 2328,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 2.25,
-      "views": 508,
+      "revenue": 2.3,
+      "views": 501,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
@@ -96,16 +96,16 @@
     },
     {
       "title": "You Don't Need HF for POTA \u2014 Just a Handheld and Friends",
-      "revenue": 1.91,
-      "views": 743,
+      "revenue": 1.92,
+      "views": 752,
       "video_id": "RMmIbQR7I4g"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.25,
-      "views": 205,
+      "revenue": 1.31,
+      "views": 211,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 31.22
+  "projected_monthly_revenue": 31.58
 }
