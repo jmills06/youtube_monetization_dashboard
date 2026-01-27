@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-01-26 07:19:07 UTC",
-  "period_start": "2025-12-27",
-  "period_end": "2026-01-25",
-  "total_revenue": 32.29,
-  "cpm": 7.23,
-  "monetized_playbacks": 3188,
-  "ad_impressions": 6538,
-  "total_views": 18153,
-  "rpm": 1.78,
-  "revenue_change": -26.0,
-  "rpm_change": -58.1,
-  "cpm_change": -35.4,
-  "playbacks_change": 4.7,
+  "last_updated": "2026-01-27 07:18:35 UTC",
+  "period_start": "2025-12-28",
+  "period_end": "2026-01-26",
+  "total_revenue": 32.07,
+  "cpm": 7.12,
+  "monetized_playbacks": 3249,
+  "ad_impressions": 6604,
+  "total_views": 17657,
+  "rpm": 1.82,
+  "revenue_change": -26.8,
+  "rpm_change": -54.8,
+  "cpm_change": -36.7,
+  "playbacks_change": 7.1,
   "revenue_chart": {
     "labels": [
-      "Dec 27",
       "Dec 28",
       "Dec 29",
       "Dec 30",
@@ -41,10 +40,10 @@
       "Jan 20",
       "Jan 21",
       "Jan 22",
-      "Jan 23"
+      "Jan 23",
+      "Jan 24"
     ],
     "values": [
-      0.71,
       0.44,
       0.45,
       0.32,
@@ -71,41 +70,42 @@
       0.44,
       0.66,
       0.59,
-      0.97
+      0.97,
+      0.48
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 17.42,
-      "views": 2391,
+      "revenue": 17.45,
+      "views": 2403,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 2.21,
-      "views": 485,
+      "revenue": 2.1,
+      "views": 491,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 2.18,
-      "views": 114,
+      "revenue": 2.03,
+      "views": 111,
       "video_id": "BfnyZLXdTH0"
     },
     {
       "title": "You Don't Need HF for POTA \u2014 Just a Handheld and Friends",
       "revenue": 1.96,
-      "views": 756,
+      "views": 757,
       "video_id": "RMmIbQR7I4g"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.35,
-      "views": 208,
+      "revenue": 1.29,
+      "views": 206,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 32.29
+  "projected_monthly_revenue": 32.07
 }
