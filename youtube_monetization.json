@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-01-27 07:18:35 UTC",
-  "period_start": "2025-12-28",
-  "period_end": "2026-01-26",
-  "total_revenue": 32.07,
+  "last_updated": "2026-01-28 07:16:51 UTC",
+  "period_start": "2025-12-29",
+  "period_end": "2026-01-27",
+  "total_revenue": 32.16,
   "cpm": 7.12,
-  "monetized_playbacks": 3249,
-  "ad_impressions": 6604,
-  "total_views": 17657,
-  "rpm": 1.82,
-  "revenue_change": -26.8,
-  "rpm_change": -54.8,
-  "cpm_change": -36.7,
-  "playbacks_change": 7.1,
+  "monetized_playbacks": 3273,
+  "ad_impressions": 6646,
+  "total_views": 17959,
+  "rpm": 1.79,
+  "revenue_change": -3.8,
+  "rpm_change": -47.5,
+  "cpm_change": -34.2,
+  "playbacks_change": 35.5,
   "revenue_chart": {
     "labels": [
-      "Dec 28",
       "Dec 29",
       "Dec 30",
       "Dec 31",
@@ -41,10 +40,10 @@
       "Jan 21",
       "Jan 22",
       "Jan 23",
-      "Jan 24"
+      "Jan 24",
+      "Jan 25"
     ],
     "values": [
-      0.44,
       0.45,
       0.32,
       1.12,
@@ -71,41 +70,42 @@
       0.66,
       0.59,
       0.97,
-      0.48
+      0.48,
+      0.54
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 17.45,
-      "views": 2403,
+      "revenue": 17.54,
+      "views": 2425,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 2.1,
-      "views": 491,
+      "revenue": 1.97,
+      "views": 489,
       "video_id": "ZFHhRrDS4Hc"
-    },
-    {
-      "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 2.03,
-      "views": 111,
-      "video_id": "BfnyZLXdTH0"
     },
     {
       "title": "You Don't Need HF for POTA \u2014 Just a Handheld and Friends",
       "revenue": 1.96,
-      "views": 757,
+      "views": 759,
       "video_id": "RMmIbQR7I4g"
     },
     {
+      "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
+      "revenue": 1.96,
+      "views": 110,
+      "video_id": "BfnyZLXdTH0"
+    },
+    {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.29,
-      "views": 206,
+      "revenue": 1.37,
+      "views": 211,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 32.07
+  "projected_monthly_revenue": 32.16
 }
