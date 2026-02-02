@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-02-01 07:28:56 UTC",
-  "period_start": "2026-01-02",
-  "period_end": "2026-01-31",
-  "total_revenue": 32.92,
-  "cpm": 6.89,
-  "monetized_playbacks": 3444,
-  "ad_impressions": 7030,
-  "total_views": 17698,
-  "rpm": 1.86,
-  "revenue_change": 19.2,
-  "rpm_change": -32.2,
-  "cpm_change": -33.7,
-  "playbacks_change": 66.1,
+  "last_updated": "2026-02-02 07:41:59 UTC",
+  "period_start": "2026-01-03",
+  "period_end": "2026-02-01",
+  "total_revenue": 36.88,
+  "cpm": 7.11,
+  "monetized_playbacks": 3752,
+  "ad_impressions": 7714,
+  "total_views": 18433,
+  "rpm": 2.0,
+  "revenue_change": 35.8,
+  "rpm_change": -25.4,
+  "cpm_change": -30.3,
+  "playbacks_change": 80.6,
   "revenue_chart": {
     "labels": [
-      "Jan 02",
       "Jan 03",
       "Jan 04",
       "Jan 05",
@@ -41,10 +40,10 @@
       "Jan 26",
       "Jan 27",
       "Jan 28",
-      "Jan 29"
+      "Jan 29",
+      "Jan 30"
     ],
     "values": [
-      0.32,
       1.12,
       0.98,
       0.43,
@@ -71,41 +70,42 @@
       0.37,
       0.39,
       0.47,
-      1.79
+      1.79,
+      4.29
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 17.95,
-      "views": 2493,
+      "revenue": 18.38,
+      "views": 2511,
       "video_id": "cGQR0gc20OY"
+    },
+    {
+      "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
+      "revenue": 4.77,
+      "views": 1000,
+      "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "You Don't Need HF for POTA \u2014 Just a Handheld and Friends",
       "revenue": 1.98,
-      "views": 763,
+      "views": 764,
       "video_id": "RMmIbQR7I4g"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 1.89,
-      "views": 461,
+      "revenue": 1.76,
+      "views": 439,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 1.44,
-      "views": 96,
+      "revenue": 1.45,
+      "views": 94,
       "video_id": "BfnyZLXdTH0"
-    },
-    {
-      "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 1.31,
-      "views": 355,
-      "video_id": "vGcmAxr-eFM"
     }
   ],
-  "projected_monthly_revenue": 32.92
+  "projected_monthly_revenue": 36.88
 }
