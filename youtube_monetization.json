@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-02-02 07:41:59 UTC",
-  "period_start": "2026-01-03",
-  "period_end": "2026-02-01",
-  "total_revenue": 36.88,
-  "cpm": 7.11,
-  "monetized_playbacks": 3752,
-  "ad_impressions": 7714,
-  "total_views": 18433,
-  "rpm": 2.0,
-  "revenue_change": 35.8,
-  "rpm_change": -25.4,
-  "cpm_change": -30.3,
-  "playbacks_change": 80.6,
+  "last_updated": "2026-02-03 07:34:01 UTC",
+  "period_start": "2026-01-04",
+  "period_end": "2026-02-02",
+  "total_revenue": 37.05,
+  "cpm": 7.14,
+  "monetized_playbacks": 3738,
+  "ad_impressions": 7712,
+  "total_views": 18653,
+  "rpm": 1.99,
+  "revenue_change": 69.3,
+  "rpm_change": -13.2,
+  "cpm_change": -26.5,
+  "playbacks_change": 103.2,
   "revenue_chart": {
     "labels": [
-      "Jan 03",
       "Jan 04",
       "Jan 05",
       "Jan 06",
@@ -41,10 +40,10 @@
       "Jan 27",
       "Jan 28",
       "Jan 29",
-      "Jan 30"
+      "Jan 30",
+      "Jan 31"
     ],
     "values": [
-      1.12,
       0.98,
       0.43,
       0.3,
@@ -71,41 +70,42 @@
       0.39,
       0.47,
       1.79,
-      4.29
+      4.29,
+      1.29
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 18.38,
-      "views": 2511,
+      "revenue": 18.41,
+      "views": 2522,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 4.77,
-      "views": 1000,
+      "revenue": 5.71,
+      "views": 1269,
       "video_id": "vGcmAxr-eFM"
     },
     {
-      "title": "You Don't Need HF for POTA \u2014 Just a Handheld and Friends",
-      "revenue": 1.98,
-      "views": 764,
-      "video_id": "RMmIbQR7I4g"
-    },
-    {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 1.76,
-      "views": 439,
+      "revenue": 1.79,
+      "views": 441,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 1.45,
-      "views": 94,
+      "revenue": 1.44,
+      "views": 96,
       "video_id": "BfnyZLXdTH0"
+    },
+    {
+      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
+      "revenue": 1.19,
+      "views": 204,
+      "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 36.88
+  "projected_monthly_revenue": 37.05
 }
