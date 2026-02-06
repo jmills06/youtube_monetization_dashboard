@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-02-05 07:41:37 UTC",
-  "period_start": "2026-01-06",
-  "period_end": "2026-02-04",
-  "total_revenue": 38.03,
-  "cpm": 7.12,
-  "monetized_playbacks": 3866,
-  "ad_impressions": 8036,
-  "total_views": 14262,
-  "rpm": 2.67,
-  "revenue_change": 115.6,
-  "rpm_change": 108.8,
-  "cpm_change": -16.9,
-  "playbacks_change": 136.6,
+  "last_updated": "2026-02-06 07:38:20 UTC",
+  "period_start": "2026-01-07",
+  "period_end": "2026-02-05",
+  "total_revenue": 39.95,
+  "cpm": 7.26,
+  "monetized_playbacks": 3988,
+  "ad_impressions": 8332,
+  "total_views": 14422,
+  "rpm": 2.77,
+  "revenue_change": 138.9,
+  "rpm_change": 125.5,
+  "cpm_change": -13.3,
+  "playbacks_change": 148.8,
   "revenue_chart": {
     "labels": [
-      "Jan 06",
       "Jan 07",
       "Jan 08",
       "Jan 09",
@@ -41,10 +40,10 @@
       "Jan 30",
       "Jan 31",
       "Feb 01",
-      "Feb 02"
+      "Feb 02",
+      "Feb 03"
     ],
     "values": [
-      0.3,
       1.32,
       1.74,
       3.09,
@@ -71,41 +70,42 @@
       4.29,
       1.29,
       1.54,
-      0.86
+      0.86,
+      2.22
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 18.48,
-      "views": 2551,
+      "revenue": 18.5,
+      "views": 2564,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 7.42,
-      "views": 1707,
+      "revenue": 8.02,
+      "views": 1802,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 1.72,
-      "views": 425,
+      "revenue": 1.77,
+      "views": 417,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "2026 Ham Radio Predictions: New Rigs, Community & What's Next",
-      "revenue": 1.44,
-      "views": 92,
+      "revenue": 1.48,
+      "views": 91,
       "video_id": "BfnyZLXdTH0"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.17,
-      "views": 203,
+      "revenue": 1.2,
+      "views": 206,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 38.03
+  "projected_monthly_revenue": 39.95
 }
