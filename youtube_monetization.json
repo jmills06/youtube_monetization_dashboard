@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-02-08 07:30:49 UTC",
-  "period_start": "2026-01-09",
-  "period_end": "2026-02-07",
-  "total_revenue": 40.89,
-  "cpm": 7.26,
-  "monetized_playbacks": 4005,
-  "ad_impressions": 8468,
-  "total_views": 14740,
-  "rpm": 2.77,
-  "revenue_change": 132.6,
-  "rpm_change": 117.9,
-  "cpm_change": -13.0,
-  "playbacks_change": 140.8,
+  "last_updated": "2026-02-09 07:46:17 UTC",
+  "period_start": "2026-01-10",
+  "period_end": "2026-02-08",
+  "total_revenue": 39.58,
+  "cpm": 7.27,
+  "monetized_playbacks": 3900,
+  "ad_impressions": 8225,
+  "total_views": 14663,
+  "rpm": 2.7,
+  "revenue_change": 101.3,
+  "rpm_change": 93.7,
+  "cpm_change": -12.9,
+  "playbacks_change": 114.3,
   "revenue_chart": {
     "labels": [
-      "Jan 09",
       "Jan 10",
       "Jan 11",
       "Jan 12",
@@ -41,10 +40,10 @@
       "Feb 02",
       "Feb 03",
       "Feb 04",
-      "Feb 05"
+      "Feb 05",
+      "Feb 06"
     ],
     "values": [
-      3.09,
       3.08,
       2.54,
       1.88,
@@ -71,41 +70,42 @@
       0.86,
       2.22,
       0.66,
-      3.33
+      3.33,
+      1.78
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 17.5,
-      "views": 2477,
+      "revenue": 15.04,
+      "views": 2203,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 8.31,
-      "views": 1863,
+      "revenue": 8.46,
+      "views": 1886,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "revenue": 2.6,
-      "views": 217,
+      "revenue": 3.52,
+      "views": 267,
       "video_id": "OhsGTEIVIE8"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 1.67,
-      "views": 405,
+      "revenue": 1.69,
+      "views": 408,
       "video_id": "ZFHhRrDS4Hc"
     },
     {
       "title": "Brutal Cold: Winter Field Day at -17\u00b0F - Our 2026 WFD Experience | W8EDH",
-      "revenue": 1.4,
-      "views": 304,
+      "revenue": 1.48,
+      "views": 335,
       "video_id": "XPVfh05ifPI"
     }
   ],
-  "projected_monthly_revenue": 40.89
+  "projected_monthly_revenue": 39.58
 }
