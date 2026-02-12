@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-02-11 07:44:28 UTC",
-  "period_start": "2026-01-12",
-  "period_end": "2026-02-10",
-  "total_revenue": 36.19,
-  "cpm": 7.23,
-  "monetized_playbacks": 3562,
-  "ad_impressions": 7453,
-  "total_views": 17367,
-  "rpm": 2.08,
-  "revenue_change": 50.0,
-  "rpm_change": 27.6,
-  "cpm_change": -7.3,
-  "playbacks_change": 59.5,
+  "last_updated": "2026-02-12 07:42:44 UTC",
+  "period_start": "2026-01-13",
+  "period_end": "2026-02-11",
+  "total_revenue": 35.01,
+  "cpm": 7.33,
+  "monetized_playbacks": 3430,
+  "ad_impressions": 7114,
+  "total_views": 17175,
+  "rpm": 2.04,
+  "revenue_change": 39.6,
+  "rpm_change": 22.3,
+  "cpm_change": -2.3,
+  "playbacks_change": 43.0,
   "revenue_chart": {
     "labels": [
-      "Jan 12",
       "Jan 13",
       "Jan 14",
       "Jan 15",
@@ -41,19 +40,19 @@
       "Feb 05",
       "Feb 06",
       "Feb 07",
-      "Feb 08"
+      "Feb 08",
+      "Feb 09"
     ],
     "values": [
-      1.88,
-      2.47,
-      1.53,
-      1.68,
-      1.06,
+      2.41,
+      1.5,
+      1.62,
+      1.03,
       0.83,
       0.94,
-      0.9,
+      0.93,
       0.43,
-      0.66,
+      0.67,
       0.59,
       0.97,
       0.49,
@@ -61,7 +60,7 @@
       0.37,
       0.39,
       0.48,
-      1.79,
+      1.78,
       4.29,
       1.3,
       1.54,
@@ -71,41 +70,42 @@
       3.33,
       1.78,
       1.47,
-      0.73
+      0.73,
+      0.85
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
-      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 10.74,
-      "views": 1623,
-      "video_id": "cGQR0gc20OY"
-    },
-    {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 8.9,
-      "views": 1946,
+      "revenue": 9.07,
+      "views": 1971,
       "video_id": "vGcmAxr-eFM"
     },
     {
+      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
+      "revenue": 9.07,
+      "views": 1360,
+      "video_id": "cGQR0gc20OY"
+    },
+    {
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "revenue": 3.81,
-      "views": 312,
+      "revenue": 3.98,
+      "views": 337,
       "video_id": "OhsGTEIVIE8"
     },
     {
       "title": "Brutal Cold: Winter Field Day at -17\u00b0F - Our 2026 WFD Experience | W8EDH",
-      "revenue": 1.7,
-      "views": 390,
+      "revenue": 1.73,
+      "views": 399,
       "video_id": "XPVfh05ifPI"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 1.67,
-      "views": 394,
+      "revenue": 1.65,
+      "views": 390,
       "video_id": "ZFHhRrDS4Hc"
     }
   ],
-  "projected_monthly_revenue": 36.19
+  "projected_monthly_revenue": 35.01
 }
