@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-02-13 07:40:59 UTC",
-  "period_start": "2026-01-14",
-  "period_end": "2026-02-12",
-  "total_revenue": 33.13,
-  "cpm": 7.45,
-  "monetized_playbacks": 3218,
-  "ad_impressions": 6619,
-  "total_views": 16867,
-  "rpm": 1.96,
-  "revenue_change": 23.8,
-  "rpm_change": 12.7,
-  "cpm_change": 2.0,
-  "playbacks_change": 22.6,
+  "last_updated": "2026-02-14 07:26:00 UTC",
+  "period_start": "2026-01-15",
+  "period_end": "2026-02-13",
+  "total_revenue": 32.07,
+  "cpm": 7.51,
+  "monetized_playbacks": 3102,
+  "ad_impressions": 6360,
+  "total_views": 16621,
+  "rpm": 1.93,
+  "revenue_change": 14.5,
+  "rpm_change": 7.9,
+  "cpm_change": 4.4,
+  "playbacks_change": 11.5,
   "revenue_chart": {
     "labels": [
-      "Jan 14",
       "Jan 15",
       "Jan 16",
       "Jan 17",
@@ -41,10 +40,10 @@
       "Feb 07",
       "Feb 08",
       "Feb 09",
-      "Feb 10"
+      "Feb 10",
+      "Feb 11"
     ],
     "values": [
-      1.5,
       1.62,
       1.03,
       0.83,
@@ -71,41 +70,42 @@
       1.47,
       0.73,
       0.85,
-      0.56
+      0.56,
+      0.45
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 9.15,
-      "views": 1992,
+      "revenue": 9.24,
+      "views": 2012,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 6.94,
-      "views": 1043,
+      "revenue": 5.74,
+      "views": 833,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "revenue": 4.04,
-      "views": 353,
+      "revenue": 4.17,
+      "views": 377,
       "video_id": "OhsGTEIVIE8"
     },
     {
       "title": "Brutal Cold: Winter Field Day at -17\u00b0F - Our 2026 WFD Experience | W8EDH",
-      "revenue": 1.74,
-      "views": 411,
+      "revenue": 1.78,
+      "views": 416,
       "video_id": "XPVfh05ifPI"
     },
     {
       "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
-      "revenue": 1.63,
-      "views": 384,
+      "revenue": 1.53,
+      "views": 372,
       "video_id": "ZFHhRrDS4Hc"
     }
   ],
-  "projected_monthly_revenue": 33.13
+  "projected_monthly_revenue": 32.07
 }
