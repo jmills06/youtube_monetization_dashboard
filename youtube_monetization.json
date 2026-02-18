@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-02-17 07:41:33 UTC",
-  "period_start": "2026-01-18",
-  "period_end": "2026-02-16",
-  "total_revenue": 38.28,
-  "cpm": 7.15,
-  "monetized_playbacks": 4041,
-  "ad_impressions": 8114,
-  "total_views": 18268,
-  "rpm": 2.1,
-  "revenue_change": 25.8,
-  "rpm_change": 18.2,
-  "cpm_change": 1.1,
-  "playbacks_change": 30.5,
+  "last_updated": "2026-02-18 07:41:56 UTC",
+  "period_start": "2026-01-19",
+  "period_end": "2026-02-17",
+  "total_revenue": 48.08,
+  "cpm": 6.81,
+  "monetized_playbacks": 5486,
+  "ad_impressions": 10912,
+  "total_views": 19605,
+  "rpm": 2.45,
+  "revenue_change": 54.7,
+  "rpm_change": 48.4,
+  "cpm_change": -3.6,
+  "playbacks_change": 73.6,
   "revenue_chart": {
     "labels": [
-      "Jan 18",
       "Jan 19",
       "Jan 20",
       "Jan 21",
@@ -41,10 +40,10 @@
       "Feb 11",
       "Feb 12",
       "Feb 13",
-      "Feb 14"
+      "Feb 14",
+      "Feb 15"
     ],
     "values": [
-      0.92,
       0.93,
       0.43,
       0.67,
@@ -71,41 +70,42 @@
       0.45,
       0.67,
       1.36,
-      7.68
+      7.68,
+      10.71
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 9.7,
-      "views": 2089,
+      "revenue": 9.94,
+      "views": 2127,
       "video_id": "vGcmAxr-eFM"
     },
     {
-      "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "revenue": 4.35,
-      "views": 403,
-      "video_id": "OhsGTEIVIE8"
-    },
-    {
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 4.05,
-      "views": 1034,
+      "revenue": 9.59,
+      "views": 2449,
       "video_id": "_5gsI9KuvEI"
     },
     {
+      "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
+      "revenue": 4.44,
+      "views": 410,
+      "video_id": "OhsGTEIVIE8"
+    },
+    {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 3.67,
-      "views": 536,
+      "revenue": 3.29,
+      "views": 473,
       "video_id": "cGQR0gc20OY"
     },
     {
-      "title": "Brutal Cold: Winter Field Day at -17\u00b0F - Our 2026 WFD Experience | W8EDH",
-      "revenue": 1.8,
-      "views": 425,
-      "video_id": "XPVfh05ifPI"
+      "title": "NEW Buddihex Mini & Mastwerks Precision Antenna Rotator | Hamcation 2026",
+      "revenue": 2.79,
+      "views": 1036,
+      "video_id": "d_2-kWWuiaY"
     }
   ],
-  "projected_monthly_revenue": 38.28
+  "projected_monthly_revenue": 48.08
 }
