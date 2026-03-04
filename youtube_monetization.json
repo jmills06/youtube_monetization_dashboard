@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-03-03 07:34:05 UTC",
-  "period_start": "2026-02-01",
-  "period_end": "2026-03-02",
-  "total_revenue": 58.25,
-  "cpm": 6.41,
-  "monetized_playbacks": 7367,
-  "ad_impressions": 14244,
-  "total_views": 23138,
-  "rpm": 2.52,
-  "revenue_change": 53.5,
-  "rpm_change": 27.5,
-  "cpm_change": -6.7,
-  "playbacks_change": 85.7,
+  "last_updated": "2026-03-04 07:30:02 UTC",
+  "period_start": "2026-02-02",
+  "period_end": "2026-03-03",
+  "total_revenue": 57.94,
+  "cpm": 6.44,
+  "monetized_playbacks": 7337,
+  "ad_impressions": 14135,
+  "total_views": 22643,
+  "rpm": 2.56,
+  "revenue_change": 47.9,
+  "rpm_change": 30.4,
+  "cpm_change": -6.4,
+  "playbacks_change": 80.1,
   "revenue_chart": {
     "labels": [
-      "Feb 01",
       "Feb 02",
       "Feb 03",
       "Feb 04",
@@ -41,10 +40,10 @@
       "Feb 25",
       "Feb 26",
       "Feb 27",
-      "Feb 28"
+      "Feb 28",
+      "Mar 01"
     ],
     "values": [
-      1.54,
       0.86,
       2.21,
       0.66,
@@ -71,41 +70,42 @@
       0.92,
       3.7,
       1.49,
-      1.18
+      1.18,
+      1.24
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 15.6,
-      "views": 4372,
+      "revenue": 15.67,
+      "views": 4393,
       "video_id": "_5gsI9KuvEI"
     },
     {
       "title": "NEW Buddihex Mini & Mastwerks Precision Antenna Rotator | Hamcation 2026",
-      "revenue": 5.99,
-      "views": 2329,
+      "revenue": 6.03,
+      "views": 2342,
       "video_id": "d_2-kWWuiaY"
     },
     {
-      "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 5.94,
-      "views": 1230,
-      "video_id": "vGcmAxr-eFM"
+      "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
+      "revenue": 4.97,
+      "views": 1464,
+      "video_id": "pn-6WtI41MI"
     },
     {
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "revenue": 4.94,
-      "views": 488,
+      "revenue": 4.95,
+      "views": 490,
       "video_id": "OhsGTEIVIE8"
     },
     {
-      "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
-      "revenue": 4.37,
-      "views": 1276,
-      "video_id": "pn-6WtI41MI"
+      "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
+      "revenue": 4.85,
+      "views": 970,
+      "video_id": "vGcmAxr-eFM"
     }
   ],
-  "projected_monthly_revenue": 58.25
+  "projected_monthly_revenue": 57.94
 }
