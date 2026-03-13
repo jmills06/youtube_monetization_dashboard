@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-03-12 07:37:50 UTC",
-  "period_start": "2026-02-10",
-  "period_end": "2026-03-11",
-  "total_revenue": 53.18,
-  "cpm": 6.22,
-  "monetized_playbacks": 7025,
-  "ad_impressions": 13414,
-  "total_views": 19862,
-  "rpm": 2.68,
-  "revenue_change": 35.4,
-  "rpm_change": 23.6,
-  "cpm_change": -14.2,
-  "playbacks_change": 82.4,
+  "last_updated": "2026-03-13 07:36:24 UTC",
+  "period_start": "2026-02-11",
+  "period_end": "2026-03-12",
+  "total_revenue": 53.15,
+  "cpm": 6.21,
+  "monetized_playbacks": 7026,
+  "ad_impressions": 13429,
+  "total_views": 19899,
+  "rpm": 2.67,
+  "revenue_change": 42.3,
+  "rpm_change": 27.8,
+  "cpm_change": -14.0,
+  "playbacks_change": 89.7,
   "revenue_chart": {
     "labels": [
-      "Feb 10",
       "Feb 11",
       "Feb 12",
       "Feb 13",
@@ -41,18 +40,18 @@
       "Mar 06",
       "Mar 07",
       "Mar 08",
-      "Mar 09"
+      "Mar 09",
+      "Mar 10"
     ],
     "values": [
-      0.56,
       0.45,
       0.67,
-      1.36,
+      1.37,
       7.68,
       10.71,
       5.46,
       3.18,
-      1.7,
+      1.71,
       1.35,
       1.02,
       0.78,
@@ -71,41 +70,42 @@
       0.89,
       0.77,
       0.84,
-      0.63
+      0.63,
+      0.52
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 16.02,
-      "views": 4505,
+      "revenue": 16.13,
+      "views": 4523,
       "video_id": "_5gsI9KuvEI"
     },
     {
       "title": "NEW Buddihex Mini & Mastwerks Precision Antenna Rotator | Hamcation 2026",
       "revenue": 6.25,
-      "views": 2392,
+      "views": 2399,
       "video_id": "d_2-kWWuiaY"
     },
     {
       "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
       "revenue": 5.25,
-      "views": 1543,
+      "views": 1544,
       "video_id": "pn-6WtI41MI"
     },
     {
       "title": "FlexRadio Aurora AU-510M: 500W SDR Powerhouse | Hamcation 2026",
       "revenue": 3.63,
-      "views": 1257,
+      "views": 1264,
       "video_id": "BGiDdHdL7-s"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 3.29,
-      "views": 658,
+      "revenue": 3.24,
+      "views": 647,
       "video_id": "vGcmAxr-eFM"
     }
   ],
-  "projected_monthly_revenue": 53.18
+  "projected_monthly_revenue": 53.15
 }
