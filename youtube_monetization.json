@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-03-17 07:45:11 UTC",
-  "period_start": "2026-02-15",
-  "period_end": "2026-03-16",
-  "total_revenue": 47.52,
-  "cpm": 6.39,
-  "monetized_playbacks": 5965,
-  "ad_impressions": 11593,
-  "total_views": 17531,
-  "rpm": 2.71,
-  "revenue_change": 18.4,
-  "rpm_change": 33.9,
-  "cpm_change": -9.5,
-  "playbacks_change": 38.5,
+  "last_updated": "2026-03-18 07:43:33 UTC",
+  "period_start": "2026-02-16",
+  "period_end": "2026-03-17",
+  "total_revenue": 37.67,
+  "cpm": 6.58,
+  "monetized_playbacks": 4490,
+  "ad_impressions": 8813,
+  "total_views": 14789,
+  "rpm": 2.55,
+  "revenue_change": -24.5,
+  "rpm_change": 15.6,
+  "cpm_change": -3.0,
+  "playbacks_change": -21.0,
   "revenue_chart": {
     "labels": [
-      "Feb 15",
       "Feb 16",
       "Feb 17",
       "Feb 18",
@@ -41,10 +40,10 @@
       "Mar 11",
       "Mar 12",
       "Mar 13",
-      "Mar 14"
+      "Mar 14",
+      "Mar 15"
     ],
     "values": [
-      10.82,
       5.48,
       3.17,
       1.71,
@@ -71,41 +70,42 @@
       0.95,
       1.29,
       1.06,
-      1.04
+      1.04,
+      0.97
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 12.53,
-      "views": 3570,
+      "revenue": 6.98,
+      "views": 2170,
       "video_id": "_5gsI9KuvEI"
     },
     {
       "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
       "revenue": 5.3,
-      "views": 1556,
+      "views": 1558,
       "video_id": "pn-6WtI41MI"
     },
     {
       "title": "NEW Buddihex Mini & Mastwerks Precision Antenna Rotator | Hamcation 2026",
-      "revenue": 4.98,
-      "views": 1865,
+      "revenue": 3.57,
+      "views": 1397,
       "video_id": "d_2-kWWuiaY"
     },
     {
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu & HamClock",
-      "revenue": 3.1,
-      "views": 466,
+      "revenue": 3.24,
+      "views": 477,
       "video_id": "KJN_OA-oZnQ"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 3.06,
-      "views": 604,
+      "revenue": 2.9,
+      "views": 589,
       "video_id": "vGcmAxr-eFM"
     }
   ],
-  "projected_monthly_revenue": 47.52
+  "projected_monthly_revenue": 37.67
 }
