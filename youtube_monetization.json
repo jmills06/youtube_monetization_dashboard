@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-03-18 07:43:33 UTC",
-  "period_start": "2026-02-16",
-  "period_end": "2026-03-17",
-  "total_revenue": 37.67,
-  "cpm": 6.58,
-  "monetized_playbacks": 4490,
-  "ad_impressions": 8813,
-  "total_views": 14789,
-  "rpm": 2.55,
-  "revenue_change": -24.5,
-  "rpm_change": 15.6,
-  "cpm_change": -3.0,
-  "playbacks_change": -21.0,
+  "last_updated": "2026-03-19 07:38:13 UTC",
+  "period_start": "2026-02-17",
+  "period_end": "2026-03-18",
+  "total_revenue": 33.16,
+  "cpm": 6.83,
+  "monetized_playbacks": 3683,
+  "ad_impressions": 7464,
+  "total_views": 12920,
+  "rpm": 2.57,
+  "revenue_change": -39.3,
+  "rpm_change": 11.0,
+  "cpm_change": 2.6,
+  "playbacks_change": -43.2,
   "revenue_chart": {
     "labels": [
-      "Feb 16",
       "Feb 17",
       "Feb 18",
       "Feb 19",
@@ -41,10 +40,10 @@
       "Mar 12",
       "Mar 13",
       "Mar 14",
-      "Mar 15"
+      "Mar 15",
+      "Mar 16"
     ],
     "values": [
-      5.48,
       3.17,
       1.71,
       1.34,
@@ -71,41 +70,42 @@
       1.29,
       1.06,
       1.04,
+      0.97,
       0.97
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
-      "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 6.98,
-      "views": 2170,
-      "video_id": "_5gsI9KuvEI"
-    },
-    {
       "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
       "revenue": 5.3,
-      "views": 1558,
+      "views": 1559,
       "video_id": "pn-6WtI41MI"
     },
     {
-      "title": "NEW Buddihex Mini & Mastwerks Precision Antenna Rotator | Hamcation 2026",
-      "revenue": 3.57,
-      "views": 1397,
-      "video_id": "d_2-kWWuiaY"
+      "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
+      "revenue": 4.56,
+      "views": 1369,
+      "video_id": "_5gsI9KuvEI"
     },
     {
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu & HamClock",
-      "revenue": 3.24,
-      "views": 477,
+      "revenue": 3.27,
+      "views": 482,
       "video_id": "KJN_OA-oZnQ"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
       "revenue": 2.9,
-      "views": 589,
+      "views": 587,
       "video_id": "vGcmAxr-eFM"
+    },
+    {
+      "title": "NEW Buddihex Mini & Mastwerks Precision Antenna Rotator | Hamcation 2026",
+      "revenue": 2.09,
+      "views": 785,
+      "video_id": "d_2-kWWuiaY"
     }
   ],
-  "projected_monthly_revenue": 37.67
+  "projected_monthly_revenue": 33.16
 }
