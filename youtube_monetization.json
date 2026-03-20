@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-03-19 07:38:13 UTC",
-  "period_start": "2026-02-17",
-  "period_end": "2026-03-18",
-  "total_revenue": 33.16,
-  "cpm": 6.83,
-  "monetized_playbacks": 3683,
-  "ad_impressions": 7464,
-  "total_views": 12920,
-  "rpm": 2.57,
-  "revenue_change": -39.3,
-  "rpm_change": 11.0,
-  "cpm_change": 2.6,
-  "playbacks_change": -43.2,
+  "last_updated": "2026-03-20 07:37:41 UTC",
+  "period_start": "2026-02-18",
+  "period_end": "2026-03-19",
+  "total_revenue": 30.8,
+  "cpm": 6.87,
+  "monetized_playbacks": 3286,
+  "ad_impressions": 6854,
+  "total_views": 12115,
+  "rpm": 2.54,
+  "revenue_change": -45.8,
+  "rpm_change": 2.1,
+  "cpm_change": 3.0,
+  "playbacks_change": -52.0,
   "revenue_chart": {
     "labels": [
-      "Feb 17",
       "Feb 18",
       "Feb 19",
       "Feb 20",
@@ -41,10 +40,10 @@
       "Mar 13",
       "Mar 14",
       "Mar 15",
-      "Mar 16"
+      "Mar 16",
+      "Mar 17"
     ],
     "values": [
-      3.17,
       1.71,
       1.34,
       1.03,
@@ -71,7 +70,8 @@
       1.06,
       1.04,
       0.97,
-      0.97
+      0.97,
+      0.81
     ]
   },
   "ad_type_breakdown": {},
@@ -79,33 +79,33 @@
     {
       "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
       "revenue": 5.3,
-      "views": 1559,
+      "views": 1561,
       "video_id": "pn-6WtI41MI"
     },
     {
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 4.56,
-      "views": 1369,
+      "revenue": 3.52,
+      "views": 1026,
       "video_id": "_5gsI9KuvEI"
     },
     {
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu & HamClock",
       "revenue": 3.27,
-      "views": 482,
+      "views": 485,
       "video_id": "KJN_OA-oZnQ"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.9,
-      "views": 587,
+      "revenue": 2.95,
+      "views": 582,
       "video_id": "vGcmAxr-eFM"
     },
     {
-      "title": "NEW Buddihex Mini & Mastwerks Precision Antenna Rotator | Hamcation 2026",
-      "revenue": 2.09,
-      "views": 785,
-      "video_id": "d_2-kWWuiaY"
+      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
+      "revenue": 1.51,
+      "views": 266,
+      "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 33.16
+  "projected_monthly_revenue": 30.8
 }
