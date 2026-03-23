@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-03-22 07:30:39 UTC",
-  "period_start": "2026-02-20",
-  "period_end": "2026-03-21",
-  "total_revenue": 28.85,
-  "cpm": 6.9,
-  "monetized_playbacks": 2968,
-  "ad_impressions": 6371,
-  "total_views": 11566,
-  "rpm": 2.49,
-  "revenue_change": -50.7,
-  "rpm_change": -0.6,
-  "cpm_change": 3.7,
-  "playbacks_change": -58.4,
+  "last_updated": "2026-03-23 07:53:29 UTC",
+  "period_start": "2026-02-21",
+  "period_end": "2026-03-22",
+  "total_revenue": 28.69,
+  "cpm": 7.0,
+  "monetized_playbacks": 2917,
+  "ad_impressions": 6242,
+  "total_views": 11493,
+  "rpm": 2.5,
+  "revenue_change": -51.3,
+  "rpm_change": -0.3,
+  "cpm_change": 5.0,
+  "playbacks_change": -59.4,
   "revenue_chart": {
     "labels": [
-      "Feb 20",
       "Feb 21",
       "Feb 22",
       "Feb 23",
@@ -41,10 +40,10 @@
       "Mar 16",
       "Mar 17",
       "Mar 18",
-      "Mar 19"
+      "Mar 19",
+      "Mar 20"
     ],
     "values": [
-      1.03,
       0.78,
       0.64,
       0.99,
@@ -71,7 +70,8 @@
       0.97,
       0.81,
       0.51,
-      0.6
+      0.6,
+      0.87
     ]
   },
   "ad_type_breakdown": {},
@@ -84,28 +84,28 @@
     },
     {
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu & HamClock",
-      "revenue": 3.47,
-      "views": 505,
+      "revenue": 3.57,
+      "views": 514,
       "video_id": "KJN_OA-oZnQ"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 3.0,
-      "views": 592,
+      "revenue": 2.91,
+      "views": 593,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 2.67,
-      "views": 708,
+      "revenue": 2.76,
+      "views": 659,
       "video_id": "_5gsI9KuvEI"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
       "revenue": 1.5,
-      "views": 268,
+      "views": 270,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 28.85
+  "projected_monthly_revenue": 28.69
 }
