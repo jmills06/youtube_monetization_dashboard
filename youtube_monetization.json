@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-03-24 07:44:41 UTC",
-  "period_start": "2026-02-22",
-  "period_end": "2026-03-23",
-  "total_revenue": 28.6,
-  "cpm": 7.1,
-  "monetized_playbacks": 2870,
-  "ad_impressions": 6114,
-  "total_views": 11398,
-  "rpm": 2.51,
-  "revenue_change": -51.7,
-  "rpm_change": 0.2,
-  "cpm_change": 6.9,
-  "playbacks_change": -60.3,
+  "last_updated": "2026-03-25 07:43:52 UTC",
+  "period_start": "2026-02-23",
+  "period_end": "2026-03-24",
+  "total_revenue": 29.31,
+  "cpm": 7.2,
+  "monetized_playbacks": 2898,
+  "ad_impressions": 6174,
+  "total_views": 11459,
+  "rpm": 2.56,
+  "revenue_change": -50.2,
+  "rpm_change": 3.3,
+  "cpm_change": 10.0,
+  "playbacks_change": -60.1,
   "revenue_chart": {
     "labels": [
-      "Feb 22",
       "Feb 23",
       "Feb 24",
       "Feb 25",
@@ -41,10 +40,10 @@
       "Mar 18",
       "Mar 19",
       "Mar 20",
-      "Mar 21"
+      "Mar 21",
+      "Mar 22"
     ],
     "values": [
-      0.64,
       0.99,
       1.04,
       0.92,
@@ -71,41 +70,42 @@
       0.51,
       0.6,
       0.87,
-      0.69
+      0.69,
+      1.34
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
-      "revenue": 5.32,
-      "views": 1562,
+      "revenue": 5.34,
+      "views": 1565,
       "video_id": "pn-6WtI41MI"
     },
     {
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu & HamClock",
-      "revenue": 3.57,
-      "views": 517,
+      "revenue": 3.6,
+      "views": 522,
       "video_id": "KJN_OA-oZnQ"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.83,
-      "views": 580,
+      "revenue": 2.8,
+      "views": 559,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 2.58,
-      "views": 604,
+      "revenue": 2.45,
+      "views": 573,
       "video_id": "_5gsI9KuvEI"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.51,
-      "views": 270,
+      "revenue": 1.58,
+      "views": 271,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 28.6
+  "projected_monthly_revenue": 29.31
 }
