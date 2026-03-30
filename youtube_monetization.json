@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-03-29 07:43:10 UTC",
-  "period_start": "2026-02-27",
-  "period_end": "2026-03-28",
-  "total_revenue": 27.5,
-  "cpm": 7.43,
-  "monetized_playbacks": 2575,
-  "ad_impressions": 5514,
-  "total_views": 11223,
-  "rpm": 2.45,
-  "revenue_change": -56.8,
-  "rpm_change": -5.5,
-  "cpm_change": 13.8,
-  "playbacks_change": -67.0,
+  "last_updated": "2026-03-30 08:14:10 UTC",
+  "period_start": "2026-02-28",
+  "period_end": "2026-03-29",
+  "total_revenue": 27.43,
+  "cpm": 7.61,
+  "monetized_playbacks": 2510,
+  "ad_impressions": 5379,
+  "total_views": 11058,
+  "rpm": 2.48,
+  "revenue_change": -57.6,
+  "rpm_change": -4.9,
+  "cpm_change": 16.3,
+  "playbacks_change": -68.3,
   "revenue_chart": {
     "labels": [
-      "Feb 27",
       "Feb 28",
       "Mar 01",
       "Mar 02",
@@ -41,10 +40,10 @@
       "Mar 23",
       "Mar 24",
       "Mar 25",
-      "Mar 26"
+      "Mar 26",
+      "Mar 27"
     ],
     "values": [
-      1.5,
       1.18,
       1.24,
       0.54,
@@ -71,41 +70,42 @@
       1.1,
       0.72,
       0.98,
-      2.05
+      2.05,
+      1.43
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu & HamClock",
-      "revenue": 3.72,
-      "views": 536,
+      "revenue": 3.74,
+      "views": 540,
       "video_id": "KJN_OA-oZnQ"
     },
     {
-      "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
-      "revenue": 2.56,
-      "views": 755,
-      "video_id": "pn-6WtI41MI"
-    },
-    {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.33,
-      "views": 482,
+      "revenue": 2.46,
+      "views": 475,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 2.29,
-      "views": 454,
+      "revenue": 2.18,
+      "views": 439,
       "video_id": "_5gsI9KuvEI"
+    },
+    {
+      "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
+      "revenue": 1.77,
+      "views": 522,
+      "video_id": "pn-6WtI41MI"
     },
     {
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
       "revenue": 1.74,
-      "views": 755,
+      "views": 762,
       "video_id": "vdaoVJKTXRU"
     }
   ],
-  "projected_monthly_revenue": 27.5
+  "projected_monthly_revenue": 27.43
 }
