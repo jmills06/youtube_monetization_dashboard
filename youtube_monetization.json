@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-04-02 07:56:33 UTC",
-  "period_start": "2026-03-03",
-  "period_end": "2026-04-01",
-  "total_revenue": 26.75,
-  "cpm": 7.75,
-  "monetized_playbacks": 2389,
-  "ad_impressions": 5120,
-  "total_views": 10765,
-  "rpm": 2.48,
-  "revenue_change": -55.7,
-  "rpm_change": -1.9,
-  "cpm_change": 20.3,
-  "playbacks_change": -68.4,
+  "last_updated": "2026-04-03 07:53:42 UTC",
+  "period_start": "2026-03-04",
+  "period_end": "2026-04-02",
+  "total_revenue": 28.69,
+  "cpm": 7.76,
+  "monetized_playbacks": 2515,
+  "ad_impressions": 5496,
+  "total_views": 11194,
+  "rpm": 2.56,
+  "revenue_change": -51.6,
+  "rpm_change": 0.3,
+  "cpm_change": 20.6,
+  "playbacks_change": -66.4,
   "revenue_chart": {
     "labels": [
-      "Mar 03",
       "Mar 04",
       "Mar 05",
       "Mar 06",
@@ -41,10 +40,10 @@
       "Mar 27",
       "Mar 28",
       "Mar 29",
-      "Mar 30"
+      "Mar 30",
+      "Mar 31"
     ],
     "values": [
-      0.54,
       0.38,
       2.53,
       0.89,
@@ -71,7 +70,8 @@
       1.43,
       0.97,
       0.58,
-      0.72
+      0.72,
+      2.48
     ]
   },
   "ad_type_breakdown": {},
@@ -79,33 +79,33 @@
     {
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu & HamClock",
       "revenue": 3.75,
-      "views": 545,
+      "views": 546,
       "video_id": "KJN_OA-oZnQ"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.53,
-      "views": 468,
+      "revenue": 2.6,
+      "views": 466,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 2.31,
-      "views": 422,
+      "revenue": 2.29,
+      "views": 419,
       "video_id": "_5gsI9KuvEI"
     },
     {
-      "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "revenue": 1.89,
-      "views": 787,
-      "video_id": "vdaoVJKTXRU"
+      "title": "Ham2K PoLo Cloud Sync Is Live and It's Just the Beginning",
+      "revenue": 2.1,
+      "views": 331,
+      "video_id": "_rpb3BFjV-A"
     },
     {
-      "title": "Ham2K PoLo Cloud Sync Is Live and It's Just the Beginning",
-      "revenue": 1.88,
-      "views": 296,
-      "video_id": "_rpb3BFjV-A"
+      "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
+      "revenue": 1.9,
+      "views": 790,
+      "video_id": "vdaoVJKTXRU"
     }
   ],
-  "projected_monthly_revenue": 26.75
+  "projected_monthly_revenue": 28.69
 }
