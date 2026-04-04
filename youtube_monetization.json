@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-04-03 07:53:42 UTC",
-  "period_start": "2026-03-04",
-  "period_end": "2026-04-02",
-  "total_revenue": 28.69,
-  "cpm": 7.76,
-  "monetized_playbacks": 2515,
-  "ad_impressions": 5496,
-  "total_views": 11194,
-  "rpm": 2.56,
-  "revenue_change": -51.6,
-  "rpm_change": 0.3,
-  "cpm_change": 20.6,
-  "playbacks_change": -66.4,
+  "last_updated": "2026-04-04 07:40:05 UTC",
+  "period_start": "2026-03-05",
+  "period_end": "2026-04-03",
+  "total_revenue": 29.43,
+  "cpm": 7.61,
+  "monetized_playbacks": 2622,
+  "ad_impressions": 5735,
+  "total_views": 11525,
+  "rpm": 2.55,
+  "revenue_change": -49.9,
+  "rpm_change": -0.2,
+  "cpm_change": 17.6,
+  "playbacks_change": -64.5,
   "revenue_chart": {
     "labels": [
-      "Mar 04",
       "Mar 05",
       "Mar 06",
       "Mar 07",
@@ -41,10 +40,10 @@
       "Mar 28",
       "Mar 29",
       "Mar 30",
-      "Mar 31"
+      "Mar 31",
+      "Apr 01"
     ],
     "values": [
-      0.38,
       2.53,
       0.89,
       0.77,
@@ -71,41 +70,42 @@
       0.97,
       0.58,
       0.72,
-      2.48
+      2.48,
+      1.11
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu & HamClock",
-      "revenue": 3.75,
-      "views": 546,
+      "revenue": 3.78,
+      "views": 550,
       "video_id": "KJN_OA-oZnQ"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.6,
-      "views": 466,
+      "revenue": 2.64,
+      "views": 472,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 2.29,
-      "views": 419,
+      "revenue": 2.39,
+      "views": 426,
       "video_id": "_5gsI9KuvEI"
     },
     {
       "title": "Ham2K PoLo Cloud Sync Is Live and It's Just the Beginning",
       "revenue": 2.1,
-      "views": 331,
+      "views": 355,
       "video_id": "_rpb3BFjV-A"
     },
     {
-      "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "revenue": 1.9,
-      "views": 790,
-      "video_id": "vdaoVJKTXRU"
+      "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
+      "revenue": 1.99,
+      "views": 408,
+      "video_id": "gN1AIV5J-4s"
     }
   ],
-  "projected_monthly_revenue": 28.69
+  "projected_monthly_revenue": 29.43
 }
