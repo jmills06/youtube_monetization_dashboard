@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-04-04 07:40:05 UTC",
-  "period_start": "2026-03-05",
-  "period_end": "2026-04-03",
-  "total_revenue": 29.43,
-  "cpm": 7.61,
-  "monetized_playbacks": 2622,
-  "ad_impressions": 5735,
-  "total_views": 11525,
-  "rpm": 2.55,
-  "revenue_change": -49.9,
-  "rpm_change": -0.2,
-  "cpm_change": 17.6,
-  "playbacks_change": -64.5,
+  "last_updated": "2026-04-05 07:46:05 UTC",
+  "period_start": "2026-03-06",
+  "period_end": "2026-04-04",
+  "total_revenue": 27.78,
+  "cpm": 7.55,
+  "monetized_playbacks": 2551,
+  "ad_impressions": 5484,
+  "total_views": 11051,
+  "rpm": 2.51,
+  "revenue_change": -53.0,
+  "rpm_change": -0.4,
+  "cpm_change": 17.4,
+  "playbacks_change": -65.5,
   "revenue_chart": {
     "labels": [
-      "Mar 05",
       "Mar 06",
       "Mar 07",
       "Mar 08",
@@ -41,10 +40,10 @@
       "Mar 29",
       "Mar 30",
       "Mar 31",
-      "Apr 01"
+      "Apr 01",
+      "Apr 02"
     ],
     "values": [
-      2.53,
       0.89,
       0.77,
       0.84,
@@ -71,41 +70,42 @@
       0.58,
       0.72,
       2.48,
-      1.11
+      1.11,
+      0.88
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
-      "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu & HamClock",
-      "revenue": 3.78,
-      "views": 550,
-      "video_id": "KJN_OA-oZnQ"
-    },
-    {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.64,
-      "views": 472,
+      "revenue": 2.59,
+      "views": 465,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 2.39,
-      "views": 426,
+      "revenue": 2.4,
+      "views": 431,
       "video_id": "_5gsI9KuvEI"
     },
     {
+      "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
+      "revenue": 2.31,
+      "views": 545,
+      "video_id": "gN1AIV5J-4s"
+    },
+    {
       "title": "Ham2K PoLo Cloud Sync Is Live and It's Just the Beginning",
-      "revenue": 2.1,
-      "views": 355,
+      "revenue": 2.22,
+      "views": 364,
       "video_id": "_rpb3BFjV-A"
     },
     {
-      "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "revenue": 1.99,
-      "views": 408,
-      "video_id": "gN1AIV5J-4s"
+      "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
+      "revenue": 1.94,
+      "views": 803,
+      "video_id": "vdaoVJKTXRU"
     }
   ],
-  "projected_monthly_revenue": 29.43
+  "projected_monthly_revenue": 27.78
 }
