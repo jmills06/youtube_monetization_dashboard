@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-04-08 08:04:29 UTC",
-  "period_start": "2026-03-09",
-  "period_end": "2026-04-07",
-  "total_revenue": 27.39,
-  "cpm": 7.51,
-  "monetized_playbacks": 2564,
-  "ad_impressions": 5468,
-  "total_views": 10342,
+  "last_updated": "2026-04-09 08:08:31 UTC",
+  "period_start": "2026-03-10",
+  "period_end": "2026-04-08",
+  "total_revenue": 27.33,
+  "cpm": 7.52,
+  "monetized_playbacks": 2555,
+  "ad_impressions": 5459,
+  "total_views": 10303,
   "rpm": 2.65,
-  "revenue_change": -50.9,
-  "rpm_change": 12.7,
-  "cpm_change": 20.2,
+  "revenue_change": -50.2,
+  "rpm_change": -0.8,
+  "cpm_change": 20.8,
   "playbacks_change": -64.4,
   "revenue_chart": {
     "labels": [
-      "Mar 09",
       "Mar 10",
       "Mar 11",
       "Mar 12",
@@ -41,10 +40,10 @@
       "Apr 02",
       "Apr 03",
       "Apr 04",
-      "Apr 05"
+      "Apr 05",
+      "Apr 06"
     ],
     "values": [
-      0.63,
       0.52,
       0.95,
       1.29,
@@ -71,41 +70,42 @@
       0.88,
       0.7,
       0.68,
-      0.73
+      0.73,
+      0.57
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "revenue": 2.72,
-      "views": 717,
+      "revenue": 2.74,
+      "views": 729,
       "video_id": "gN1AIV5J-4s"
     },
     {
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 2.52,
-      "views": 424,
+      "revenue": 2.54,
+      "views": 413,
       "video_id": "_5gsI9KuvEI"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.48,
-      "views": 468,
+      "revenue": 2.35,
+      "views": 456,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Ham2K PoLo Cloud Sync Is Live and It's Just the Beginning",
       "revenue": 2.28,
-      "views": 379,
+      "views": 380,
       "video_id": "_rpb3BFjV-A"
     },
     {
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "revenue": 1.96,
-      "views": 807,
+      "revenue": 1.99,
+      "views": 808,
       "video_id": "vdaoVJKTXRU"
     }
   ],
-  "projected_monthly_revenue": 27.39
+  "projected_monthly_revenue": 27.33
 }
