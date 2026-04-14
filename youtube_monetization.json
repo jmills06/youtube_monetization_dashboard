@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-04-13 08:56:28 UTC",
-  "period_start": "2026-03-14",
-  "period_end": "2026-04-12",
-  "total_revenue": 26.91,
-  "cpm": 7.55,
-  "monetized_playbacks": 2442,
-  "ad_impressions": 5290,
-  "total_views": 11171,
-  "rpm": 2.41,
-  "revenue_change": -52.1,
-  "rpm_change": -10.8,
-  "cpm_change": 20.2,
-  "playbacks_change": -66.2,
+  "last_updated": "2026-04-14 08:18:01 UTC",
+  "period_start": "2026-03-15",
+  "period_end": "2026-04-13",
+  "total_revenue": 26.34,
+  "cpm": 7.51,
+  "monetized_playbacks": 2394,
+  "ad_impressions": 5179,
+  "total_views": 11110,
+  "rpm": 2.37,
+  "revenue_change": -53.5,
+  "rpm_change": -12.6,
+  "cpm_change": 18.8,
+  "playbacks_change": -66.9,
   "revenue_chart": {
     "labels": [
-      "Mar 14",
       "Mar 15",
       "Mar 16",
       "Mar 17",
@@ -41,10 +40,10 @@
       "Apr 07",
       "Apr 08",
       "Apr 09",
-      "Apr 10"
+      "Apr 10",
+      "Apr 11"
     ],
     "values": [
-      1.04,
       0.97,
       0.97,
       0.81,
@@ -71,41 +70,42 @@
       1.25,
       0.55,
       1.25,
-      0.34
+      0.34,
+      0.47
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "revenue": 3.13,
-      "views": 783,
+      "revenue": 3.26,
+      "views": 794,
       "video_id": "gN1AIV5J-4s"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.45,
-      "views": 447,
+      "revenue": 2.55,
+      "views": 456,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Ham2K PoLo Cloud Sync Is Live and It's Just the Beginning",
       "revenue": 2.32,
-      "views": 395,
+      "views": 396,
       "video_id": "_rpb3BFjV-A"
     },
     {
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 2.22,
-      "views": 375,
+      "revenue": 2.14,
+      "views": 346,
       "video_id": "_5gsI9KuvEI"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 2.01,
-      "views": 309,
+      "revenue": 2.03,
+      "views": 314,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 26.91
+  "projected_monthly_revenue": 26.34
 }
