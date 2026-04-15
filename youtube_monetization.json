@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-04-14 08:18:01 UTC",
-  "period_start": "2026-03-15",
-  "period_end": "2026-04-13",
-  "total_revenue": 26.34,
-  "cpm": 7.51,
-  "monetized_playbacks": 2394,
-  "ad_impressions": 5179,
-  "total_views": 11110,
-  "rpm": 2.37,
-  "revenue_change": -53.5,
-  "rpm_change": -12.6,
-  "cpm_change": 18.8,
-  "playbacks_change": -66.9,
+  "last_updated": "2026-04-15 08:19:36 UTC",
+  "period_start": "2026-03-16",
+  "period_end": "2026-04-14",
+  "total_revenue": 26.44,
+  "cpm": 7.59,
+  "monetized_playbacks": 2393,
+  "ad_impressions": 5157,
+  "total_views": 11018,
+  "rpm": 2.4,
+  "revenue_change": -53.0,
+  "rpm_change": -11.8,
+  "cpm_change": 19.8,
+  "playbacks_change": -66.4,
   "revenue_chart": {
     "labels": [
-      "Mar 15",
       "Mar 16",
       "Mar 17",
       "Mar 18",
@@ -41,24 +40,24 @@
       "Apr 08",
       "Apr 09",
       "Apr 10",
-      "Apr 11"
+      "Apr 11",
+      "Apr 12"
     ],
     "values": [
       0.97,
-      0.97,
-      0.81,
+      0.82,
       0.51,
-      0.6,
+      0.61,
       0.87,
-      0.69,
-      1.34,
-      1.1,
+      0.7,
+      1.33,
+      1.14,
       0.72,
-      0.98,
-      2.05,
+      0.99,
+      2.08,
       1.43,
-      0.97,
-      0.58,
+      0.98,
+      0.59,
       0.72,
       2.48,
       1.11,
@@ -71,41 +70,42 @@
       0.55,
       1.25,
       0.34,
-      0.47
+      0.47,
+      0.95
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "revenue": 3.26,
-      "views": 794,
+      "revenue": 3.31,
+      "views": 800,
       "video_id": "gN1AIV5J-4s"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.55,
+      "revenue": 2.69,
       "views": 456,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Ham2K PoLo Cloud Sync Is Live and It's Just the Beginning",
-      "revenue": 2.32,
+      "revenue": 2.34,
       "views": 396,
       "video_id": "_rpb3BFjV-A"
     },
     {
-      "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 2.14,
-      "views": 346,
-      "video_id": "_5gsI9KuvEI"
-    },
-    {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 2.03,
+      "revenue": 2.15,
       "views": 314,
       "video_id": "JTFErg-neu8"
+    },
+    {
+      "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
+      "revenue": 2.13,
+      "views": 338,
+      "video_id": "_5gsI9KuvEI"
     }
   ],
-  "projected_monthly_revenue": 26.34
+  "projected_monthly_revenue": 26.44
 }
