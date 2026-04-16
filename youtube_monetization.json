@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-04-15 08:19:36 UTC",
-  "period_start": "2026-03-16",
-  "period_end": "2026-04-14",
-  "total_revenue": 26.44,
-  "cpm": 7.59,
-  "monetized_playbacks": 2393,
-  "ad_impressions": 5157,
-  "total_views": 11018,
-  "rpm": 2.4,
-  "revenue_change": -53.0,
-  "rpm_change": -11.8,
-  "cpm_change": 19.8,
-  "playbacks_change": -66.4,
+  "last_updated": "2026-04-16 08:20:07 UTC",
+  "period_start": "2026-03-17",
+  "period_end": "2026-04-15",
+  "total_revenue": 26.17,
+  "cpm": 7.46,
+  "monetized_playbacks": 2400,
+  "ad_impressions": 5187,
+  "total_views": 10962,
+  "rpm": 2.39,
+  "revenue_change": -47.2,
+  "rpm_change": -12.1,
+  "cpm_change": 16.1,
+  "playbacks_change": -60.8,
   "revenue_chart": {
     "labels": [
-      "Mar 16",
       "Mar 17",
       "Mar 18",
       "Mar 19",
@@ -41,10 +40,10 @@
       "Apr 09",
       "Apr 10",
       "Apr 11",
-      "Apr 12"
+      "Apr 12",
+      "Apr 13"
     ],
     "values": [
-      0.97,
       0.82,
       0.51,
       0.61,
@@ -55,11 +54,11 @@
       0.72,
       0.99,
       2.08,
-      1.43,
+      1.44,
       0.98,
       0.59,
       0.72,
-      2.48,
+      2.5,
       1.11,
       0.88,
       0.7,
@@ -71,41 +70,42 @@
       1.25,
       0.34,
       0.47,
-      0.95
+      0.95,
+      0.68
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "revenue": 3.31,
-      "views": 800,
+      "revenue": 3.35,
+      "views": 803,
       "video_id": "gN1AIV5J-4s"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.69,
-      "views": 456,
+      "revenue": 2.66,
+      "views": 442,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Ham2K PoLo Cloud Sync Is Live and It's Just the Beginning",
-      "revenue": 2.34,
-      "views": 396,
+      "revenue": 2.35,
+      "views": 397,
       "video_id": "_rpb3BFjV-A"
     },
     {
-      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 2.15,
-      "views": 314,
-      "video_id": "JTFErg-neu8"
+      "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
+      "revenue": 2.12,
+      "views": 330,
+      "video_id": "_5gsI9KuvEI"
     },
     {
-      "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 2.13,
-      "views": 338,
-      "video_id": "_5gsI9KuvEI"
+      "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
+      "revenue": 2.06,
+      "views": 814,
+      "video_id": "vdaoVJKTXRU"
     }
   ],
-  "projected_monthly_revenue": 26.44
+  "projected_monthly_revenue": 26.17
 }
