@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-04-22 08:22:06 UTC",
-  "period_start": "2026-03-23",
-  "period_end": "2026-04-21",
-  "total_revenue": 25.62,
-  "cpm": 7.75,
-  "monetized_playbacks": 2324,
-  "ad_impressions": 4954,
-  "total_views": 11006,
+  "last_updated": "2026-04-23 08:26:20 UTC",
+  "period_start": "2026-03-24",
+  "period_end": "2026-04-22",
+  "total_revenue": 25,
+  "cpm": 7.89,
+  "monetized_playbacks": 2206,
+  "ad_impressions": 4735,
+  "total_views": 10728,
   "rpm": 2.33,
-  "revenue_change": -17.0,
-  "rpm_change": -7.9,
-  "cpm_change": 10.5,
-  "playbacks_change": -25.0,
+  "revenue_change": -20.0,
+  "rpm_change": -8.2,
+  "cpm_change": 12.6,
+  "playbacks_change": -29.8,
   "revenue_chart": {
     "labels": [
-      "Mar 23",
       "Mar 24",
       "Mar 25",
       "Mar 26",
@@ -41,10 +40,10 @@
       "Apr 16",
       "Apr 17",
       "Apr 18",
-      "Apr 19"
+      "Apr 19",
+      "Apr 20"
     ],
     "values": [
-      1.14,
       0.72,
       0.99,
       2.08,
@@ -71,41 +70,42 @@
       0.54,
       0.48,
       0.66,
-      0.59
+      0.59,
+      0.52
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "revenue": 3.67,
-      "views": 832,
+      "revenue": 3.69,
+      "views": 840,
       "video_id": "gN1AIV5J-4s"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
       "revenue": 2.7,
-      "views": 412,
+      "views": 405,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Ham2K PoLo Cloud Sync Is Live and It's Just the Beginning",
-      "revenue": 2.44,
-      "views": 406,
+      "revenue": 2.48,
+      "views": 410,
       "video_id": "_rpb3BFjV-A"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.95,
-      "views": 334,
+      "revenue": 2.03,
+      "views": 340,
       "video_id": "JTFErg-neu8"
     },
     {
       "title": "First Buddipole POTA Setup - Mistakes, Learning & Success",
-      "revenue": 1.69,
-      "views": 172,
+      "revenue": 1.66,
+      "views": 175,
       "video_id": "X81Hjxy08qQ"
     }
   ],
-  "projected_monthly_revenue": 25.62
+  "projected_monthly_revenue": 25.0
 }
