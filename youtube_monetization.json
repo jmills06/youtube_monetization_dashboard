@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-04-30 09:06:05 UTC",
-  "period_start": "2026-03-31",
-  "period_end": "2026-04-29",
-  "total_revenue": 21.71,
-  "cpm": 7.84,
-  "monetized_playbacks": 1929,
-  "ad_impressions": 4212,
-  "total_views": 9770,
-  "rpm": 2.22,
-  "revenue_change": -24.6,
-  "rpm_change": -11.2,
-  "cpm_change": 1.3,
-  "playbacks_change": -25.6,
+  "last_updated": "2026-05-01 08:52:29 UTC",
+  "period_start": "2026-04-01",
+  "period_end": "2026-04-30",
+  "total_revenue": 19.83,
+  "cpm": 7.89,
+  "monetized_playbacks": 1804,
+  "ad_impressions": 3849,
+  "total_views": 9237,
+  "rpm": 2.15,
+  "revenue_change": -33.9,
+  "rpm_change": -15.5,
+  "cpm_change": 2.8,
+  "playbacks_change": -32.2,
   "revenue_chart": {
     "labels": [
-      "Mar 31",
       "Apr 01",
       "Apr 02",
       "Apr 03",
@@ -41,10 +40,10 @@
       "Apr 24",
       "Apr 25",
       "Apr 26",
-      "Apr 27"
+      "Apr 27",
+      "Apr 28"
     ],
     "values": [
-      2.5,
       1.11,
       0.88,
       0.7,
@@ -71,41 +70,42 @@
       0.49,
       0.45,
       0.97,
-      0.68
+      0.68,
+      0.62
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "revenue": 4.08,
-      "views": 918,
+      "revenue": 2.72,
+      "views": 690,
       "video_id": "gN1AIV5J-4s"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.38,
-      "views": 368,
+      "revenue": 2.25,
+      "views": 359,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.86,
-      "views": 339,
+      "revenue": 1.83,
+      "views": 334,
       "video_id": "JTFErg-neu8"
     },
     {
       "title": "First Buddipole POTA Setup - Mistakes, Learning & Success",
-      "revenue": 1.69,
-      "views": 172,
+      "revenue": 1.63,
+      "views": 163,
       "video_id": "X81Hjxy08qQ"
     },
     {
-      "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "revenue": 1.27,
-      "views": 206,
-      "video_id": "_5gsI9KuvEI"
+      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
+      "revenue": 1.32,
+      "views": 149,
+      "video_id": "cGQR0gc20OY"
     }
   ],
-  "projected_monthly_revenue": 21.71
+  "projected_monthly_revenue": 19.83
 }
