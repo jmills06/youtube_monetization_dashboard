@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-05-01 08:52:29 UTC",
-  "period_start": "2026-04-01",
-  "period_end": "2026-04-30",
-  "total_revenue": 19.83,
-  "cpm": 7.89,
-  "monetized_playbacks": 1804,
-  "ad_impressions": 3849,
-  "total_views": 9237,
-  "rpm": 2.15,
-  "revenue_change": -33.9,
-  "rpm_change": -15.5,
-  "cpm_change": 2.8,
-  "playbacks_change": -32.2,
+  "last_updated": "2026-05-02 08:15:34 UTC",
+  "period_start": "2026-04-02",
+  "period_end": "2026-05-01",
+  "total_revenue": 19.51,
+  "cpm": 7.77,
+  "monetized_playbacks": 1741,
+  "ad_impressions": 3870,
+  "total_views": 8947,
+  "rpm": 2.18,
+  "revenue_change": -36.4,
+  "rpm_change": -14.4,
+  "cpm_change": 2.4,
+  "playbacks_change": -36.3,
   "revenue_chart": {
     "labels": [
-      "Apr 01",
       "Apr 02",
       "Apr 03",
       "Apr 04",
@@ -41,10 +40,10 @@
       "Apr 25",
       "Apr 26",
       "Apr 27",
-      "Apr 28"
+      "Apr 28",
+      "Apr 29"
     ],
     "values": [
-      1.11,
       0.88,
       0.7,
       0.68,
@@ -71,41 +70,42 @@
       0.45,
       0.97,
       0.68,
-      0.62
+      0.62,
+      0.79
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
-      "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "revenue": 2.72,
-      "views": 690,
-      "video_id": "gN1AIV5J-4s"
-    },
-    {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.25,
-      "views": 359,
+      "revenue": 2.33,
+      "views": 355,
       "video_id": "vGcmAxr-eFM"
     },
     {
+      "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
+      "revenue": 2.11,
+      "views": 532,
+      "video_id": "gN1AIV5J-4s"
+    },
+    {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.83,
-      "views": 334,
+      "revenue": 1.9,
+      "views": 333,
       "video_id": "JTFErg-neu8"
     },
     {
       "title": "First Buddipole POTA Setup - Mistakes, Learning & Success",
-      "revenue": 1.63,
-      "views": 163,
+      "revenue": 1.61,
+      "views": 161,
       "video_id": "X81Hjxy08qQ"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 1.32,
-      "views": 149,
+      "revenue": 1.41,
+      "views": 159,
       "video_id": "cGQR0gc20OY"
     }
   ],
-  "projected_monthly_revenue": 19.83
+  "projected_monthly_revenue": 19.51
 }
