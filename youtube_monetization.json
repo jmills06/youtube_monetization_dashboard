@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-05-08 08:15:53 UTC",
-  "period_start": "2026-04-08",
-  "period_end": "2026-05-07",
-  "total_revenue": 17.6,
+  "last_updated": "2026-05-09 08:22:52 UTC",
+  "period_start": "2026-04-09",
+  "period_end": "2026-05-08",
+  "total_revenue": 17.93,
   "cpm": 7.41,
-  "monetized_playbacks": 1572,
-  "ad_impressions": 3694,
-  "total_views": 8253,
-  "rpm": 2.13,
-  "revenue_change": -40.2,
-  "rpm_change": -21.3,
+  "monetized_playbacks": 1607,
+  "ad_impressions": 3775,
+  "total_views": 8298,
+  "rpm": 2.16,
+  "revenue_change": -38.9,
+  "rpm_change": -20.4,
   "cpm_change": -2.5,
-  "playbacks_change": -41.4,
+  "playbacks_change": -39.9,
   "revenue_chart": {
     "labels": [
-      "Apr 08",
       "Apr 09",
       "Apr 10",
       "Apr 11",
@@ -41,10 +40,10 @@
       "May 02",
       "May 03",
       "May 04",
-      "May 05"
+      "May 05",
+      "May 06"
     ],
     "values": [
-      0.55,
       1.25,
       0.34,
       0.47,
@@ -71,41 +70,42 @@
       0.61,
       0.61,
       0.26,
-      0.51
+      0.51,
+      0.88
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.29,
-      "views": 357,
+      "revenue": 2.54,
+      "views": 353,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "First Buddipole POTA Setup - Mistakes, Learning & Success",
       "revenue": 1.75,
-      "views": 165,
+      "views": 162,
       "video_id": "X81Hjxy08qQ"
     },
     {
-      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.71,
-      "views": 337,
-      "video_id": "JTFErg-neu8"
-    },
-    {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 1.63,
-      "views": 176,
+      "revenue": 1.7,
+      "views": 187,
       "video_id": "cGQR0gc20OY"
     },
     {
+      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
+      "revenue": 1.69,
+      "views": 344,
+      "video_id": "JTFErg-neu8"
+    },
+    {
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "revenue": 1.28,
-      "views": 227,
+      "revenue": 1.3,
+      "views": 222,
       "video_id": "gN1AIV5J-4s"
     }
   ],
-  "projected_monthly_revenue": 17.6
+  "projected_monthly_revenue": 17.93
 }
