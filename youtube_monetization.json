@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-05-10 08:47:25 UTC",
-  "period_start": "2026-04-10",
-  "period_end": "2026-05-09",
-  "total_revenue": 18.93,
-  "cpm": 7.52,
-  "monetized_playbacks": 1687,
-  "ad_impressions": 3964,
-  "total_views": 7758,
-  "rpm": 2.44,
-  "revenue_change": -37.1,
-  "rpm_change": -2.4,
-  "cpm_change": -0.8,
-  "playbacks_change": -37.3,
+  "last_updated": "2026-05-11 10:26:00 UTC",
+  "period_start": "2026-04-11",
+  "period_end": "2026-05-10",
+  "total_revenue": 20.76,
+  "cpm": 7.72,
+  "monetized_playbacks": 1812,
+  "ad_impressions": 4217,
+  "total_views": 8132,
+  "rpm": 2.55,
+  "revenue_change": -29.5,
+  "rpm_change": 2.5,
+  "cpm_change": 1.7,
+  "playbacks_change": -31.1,
   "revenue_chart": {
     "labels": [
-      "Apr 10",
       "Apr 11",
       "Apr 12",
       "Apr 13",
@@ -41,10 +40,10 @@
       "May 04",
       "May 05",
       "May 06",
-      "May 07"
+      "May 07",
+      "May 08"
     ],
     "values": [
-      0.34,
       0.47,
       0.95,
       0.68,
@@ -71,41 +70,42 @@
       0.26,
       0.51,
       0.88,
-      2.25
+      2.25,
+      2.17
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.52,
-      "views": 351,
+      "revenue": 2.92,
+      "views": 362,
       "video_id": "vGcmAxr-eFM"
     },
     {
+      "title": "Hamvention 2026 Survival Guide: Strategy, Gear & The ICOM X-026 Reveal",
+      "revenue": 2.63,
+      "views": 333,
+      "video_id": "b5WcO1lnuck"
+    },
+    {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 1.8,
-      "views": 196,
+      "revenue": 1.91,
+      "views": 215,
       "video_id": "cGQR0gc20OY"
+    },
+    {
+      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
+      "revenue": 1.76,
+      "views": 348,
+      "video_id": "JTFErg-neu8"
     },
     {
       "title": "First Buddipole POTA Setup - Mistakes, Learning & Success",
       "revenue": 1.74,
       "views": 159,
       "video_id": "X81Hjxy08qQ"
-    },
-    {
-      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.72,
-      "views": 343,
-      "video_id": "JTFErg-neu8"
-    },
-    {
-      "title": "Hamvention 2026 Survival Guide: Strategy, Gear & The ICOM X-026 Reveal",
-      "revenue": 1.62,
-      "views": 193,
-      "video_id": "b5WcO1lnuck"
     }
   ],
-  "projected_monthly_revenue": 18.93
+  "projected_monthly_revenue": 20.76
 }
