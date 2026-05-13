@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-05-12 09:27:52 UTC",
-  "period_start": "2026-04-12",
-  "period_end": "2026-05-11",
-  "total_revenue": 21.65,
-  "cpm": 7.71,
-  "monetized_playbacks": 1858,
-  "ad_impressions": 4311,
-  "total_views": 8312,
-  "rpm": 2.6,
-  "revenue_change": -24.4,
-  "rpm_change": 6.5,
-  "cpm_change": 2.1,
-  "playbacks_change": -27.5,
+  "last_updated": "2026-05-13 09:33:14 UTC",
+  "period_start": "2026-04-13",
+  "period_end": "2026-05-12",
+  "total_revenue": 22.09,
+  "cpm": 7.64,
+  "monetized_playbacks": 1913,
+  "ad_impressions": 4431,
+  "total_views": 8419,
+  "rpm": 2.62,
+  "revenue_change": -22.5,
+  "rpm_change": 7.8,
+  "cpm_change": 1.3,
+  "playbacks_change": -25.2,
   "revenue_chart": {
     "labels": [
-      "Apr 12",
       "Apr 13",
       "Apr 14",
       "Apr 15",
@@ -41,10 +40,10 @@
       "May 06",
       "May 07",
       "May 08",
-      "May 09"
+      "May 09",
+      "May 10"
     ],
     "values": [
-      0.95,
       0.68,
       0.91,
       1.1,
@@ -53,7 +52,7 @@
       0.66,
       0.59,
       0.52,
-      0.53,
+      0.48,
       0.57,
       0.55,
       0.49,
@@ -61,7 +60,7 @@
       0.97,
       0.68,
       0.62,
-      0.79,
+      0.8,
       0.55,
       0.36,
       0.61,
@@ -71,41 +70,42 @@
       0.88,
       2.25,
       2.17,
-      1.36
+      1.36,
+      1.42
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Hamvention 2026 Survival Guide: Strategy, Gear & The ICOM X-026 Reveal",
-      "revenue": 3.45,
-      "views": 420,
+      "revenue": 4.06,
+      "views": 518,
       "video_id": "b5WcO1lnuck"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.87,
+      "revenue": 2.78,
       "views": 357,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 1.93,
-      "views": 228,
+      "revenue": 2.01,
+      "views": 237,
       "video_id": "cGQR0gc20OY"
-    },
-    {
-      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.76,
-      "views": 340,
-      "video_id": "JTFErg-neu8"
     },
     {
       "title": "First Buddipole POTA Setup - Mistakes, Learning & Success",
       "revenue": 1.71,
-      "views": 156,
+      "views": 162,
       "video_id": "X81Hjxy08qQ"
+    },
+    {
+      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
+      "revenue": 1.68,
+      "views": 345,
+      "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 21.65
+  "projected_monthly_revenue": 22.09
 }
