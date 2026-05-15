@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-05-14 09:24:26 UTC",
-  "period_start": "2026-04-14",
-  "period_end": "2026-05-13",
-  "total_revenue": 22.99,
-  "cpm": 7.61,
-  "monetized_playbacks": 1948,
-  "ad_impressions": 4615,
-  "total_views": 8560,
+  "last_updated": "2026-05-15 09:36:17 UTC",
+  "period_start": "2026-04-15",
+  "period_end": "2026-05-14",
+  "total_revenue": 22.79,
+  "cpm": 7.56,
+  "monetized_playbacks": 1962,
+  "ad_impressions": 4621,
+  "total_views": 8465,
   "rpm": 2.69,
-  "revenue_change": -18.3,
-  "rpm_change": 11.5,
-  "cpm_change": 2.7,
-  "playbacks_change": -23.8,
+  "revenue_change": -18.7,
+  "rpm_change": 11.4,
+  "cpm_change": 1.8,
+  "playbacks_change": -23.3,
   "revenue_chart": {
     "labels": [
-      "Apr 14",
       "Apr 15",
       "Apr 16",
       "Apr 17",
@@ -41,14 +40,14 @@
       "May 08",
       "May 09",
       "May 10",
-      "May 11"
+      "May 11",
+      "May 12"
     ],
     "values": [
-      0.91,
-      1.1,
-      0.54,
-      0.48,
-      0.66,
+      1.08,
+      0.52,
+      0.47,
+      0.65,
       0.59,
       0.52,
       0.48,
@@ -71,41 +70,42 @@
       2.17,
       1.36,
       1.42,
-      1.58
+      1.58,
+      0.77
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Hamvention 2026 Survival Guide: Strategy, Gear & The ICOM X-026 Reveal",
-      "revenue": 4.63,
-      "views": 518,
+      "revenue": 4.9,
+      "views": 651,
       "video_id": "b5WcO1lnuck"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.88,
-      "views": 343,
+      "revenue": 2.75,
+      "views": 356,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 2.09,
-      "views": 223,
+      "revenue": 2.12,
+      "views": 246,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.77,
-      "views": 335,
+      "revenue": 1.76,
+      "views": 339,
       "video_id": "JTFErg-neu8"
     },
     {
       "title": "First Buddipole POTA Setup - Mistakes, Learning & Success",
-      "revenue": 1.7,
-      "views": 155,
+      "revenue": 1.54,
+      "views": 154,
       "video_id": "X81Hjxy08qQ"
     }
   ],
-  "projected_monthly_revenue": 22.99
+  "projected_monthly_revenue": 22.79
 }
