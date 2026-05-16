@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-05-15 09:36:17 UTC",
-  "period_start": "2026-04-15",
-  "period_end": "2026-05-14",
-  "total_revenue": 22.79,
-  "cpm": 7.56,
-  "monetized_playbacks": 1962,
-  "ad_impressions": 4621,
-  "total_views": 8465,
-  "rpm": 2.69,
-  "revenue_change": -18.7,
-  "rpm_change": 11.4,
-  "cpm_change": 1.8,
-  "playbacks_change": -23.3,
+  "last_updated": "2026-05-16 08:29:16 UTC",
+  "period_start": "2026-04-16",
+  "period_end": "2026-05-15",
+  "total_revenue": 23.49,
+  "cpm": 7.52,
+  "monetized_playbacks": 2027,
+  "ad_impressions": 4785,
+  "total_views": 8496,
+  "rpm": 2.76,
+  "revenue_change": -16.2,
+  "rpm_change": 14.5,
+  "cpm_change": -0.9,
+  "playbacks_change": -20.0,
   "revenue_chart": {
     "labels": [
-      "Apr 15",
       "Apr 16",
       "Apr 17",
       "Apr 18",
@@ -41,10 +40,10 @@
       "May 09",
       "May 10",
       "May 11",
-      "May 12"
+      "May 12",
+      "May 13"
     ],
     "values": [
-      1.08,
       0.52,
       0.47,
       0.65,
@@ -71,41 +70,42 @@
       1.36,
       1.42,
       1.58,
-      0.77
+      0.77,
+      1.78
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Hamvention 2026 Survival Guide: Strategy, Gear & The ICOM X-026 Reveal",
-      "revenue": 4.9,
-      "views": 651,
+      "revenue": 5.52,
+      "views": 703,
       "video_id": "b5WcO1lnuck"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.75,
-      "views": 356,
+      "revenue": 2.74,
+      "views": 354,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 2.12,
-      "views": 246,
+      "revenue": 2.35,
+      "views": 260,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 1.76,
-      "views": 339,
+      "revenue": 1.8,
+      "views": 336,
       "video_id": "JTFErg-neu8"
     },
     {
-      "title": "First Buddipole POTA Setup - Mistakes, Learning & Success",
-      "revenue": 1.54,
-      "views": 154,
-      "video_id": "X81Hjxy08qQ"
+      "title": "Yaesu FTX1 Reality Check: Our Honest Review and Experiences + SteppIR Exit",
+      "revenue": 1.12,
+      "views": 158,
+      "video_id": "ZFHhRrDS4Hc"
     }
   ],
-  "projected_monthly_revenue": 22.79
+  "projected_monthly_revenue": 23.49
 }
