@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-05-19 10:28:22 UTC",
-  "period_start": "2026-04-19",
-  "period_end": "2026-05-18",
-  "total_revenue": 50.45,
-  "cpm": 6.92,
-  "monetized_playbacks": 6265,
-  "ad_impressions": 11572,
-  "total_views": 18066,
-  "rpm": 2.79,
-  "revenue_change": 84.1,
-  "rpm_change": 18.7,
-  "cpm_change": -10.2,
-  "playbacks_change": 148.1,
+  "last_updated": "2026-05-20 10:15:01 UTC",
+  "period_start": "2026-04-20",
+  "period_end": "2026-05-19",
+  "total_revenue": 75.46,
+  "cpm": 6.21,
+  "monetized_playbacks": 11219,
+  "ad_impressions": 19454,
+  "total_views": 29285,
+  "rpm": 2.58,
+  "revenue_change": 178.2,
+  "rpm_change": 11.3,
+  "cpm_change": -18.4,
+  "playbacks_change": 347.0,
   "revenue_chart": {
     "labels": [
-      "Apr 19",
       "Apr 20",
       "Apr 21",
       "Apr 22",
@@ -41,10 +40,10 @@
       "May 13",
       "May 14",
       "May 15",
-      "May 16"
+      "May 16",
+      "May 17"
     ],
     "values": [
-      0.59,
       0.52,
       0.48,
       0.57,
@@ -71,41 +70,42 @@
       1.78,
       1.3,
       6.58,
-      20.72
+      20.72,
+      25.59
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 8.68,
-      "views": 2936,
+      "revenue": 13.57,
+      "views": 4696,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Four Days In May 2026 - Vendor Showcase QRP Event - EDH Hamvention Coverage",
-      "revenue": 7.51,
-      "views": 1218,
+      "revenue": 8.71,
+      "views": 1386,
       "video_id": "YrE4SytLYNQ"
     },
     {
-      "title": "Hamvention 2026 Survival Guide: Strategy, Gear & The ICOM X-026 Reveal",
-      "revenue": 6.12,
-      "views": 834,
-      "video_id": "b5WcO1lnuck"
+      "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
+      "revenue": 8.26,
+      "views": 3632,
+      "video_id": "IEwwzO5Uf6Q"
     },
     {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 4.2,
-      "views": 2286,
+      "revenue": 8.05,
+      "views": 5005,
       "video_id": "LIM0hjXez1Q"
     },
     {
-      "title": "Yaesu DR-3X Revealed! John Kruk N9UPC Walks Us Through System Fusion 3",
-      "revenue": 3.43,
-      "views": 1529,
-      "video_id": "u_4p34yJlvk"
+      "title": "Hamvention 2026 Survival Guide: Strategy, Gear & The ICOM X-026 Reveal",
+      "revenue": 6.13,
+      "views": 845,
+      "video_id": "b5WcO1lnuck"
     }
   ],
-  "projected_monthly_revenue": 50.45
+  "projected_monthly_revenue": 75.46
 }
