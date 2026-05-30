@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-05-29 10:36:48 UTC",
-  "period_start": "2026-04-29",
-  "period_end": "2026-05-28",
-  "total_revenue": 117.68,
-  "cpm": 6.36,
-  "monetized_playbacks": 17315,
-  "ad_impressions": 29960,
-  "total_views": 41477,
-  "rpm": 2.84,
-  "revenue_change": 422.8,
-  "rpm_change": 29.3,
-  "cpm_change": -17.2,
-  "playbacks_change": 730.5,
+  "last_updated": "2026-05-30 09:07:23 UTC",
+  "period_start": "2026-04-30",
+  "period_end": "2026-05-29",
+  "total_revenue": 119.34,
+  "cpm": 6.41,
+  "monetized_playbacks": 17464,
+  "ad_impressions": 30151,
+  "total_views": 41731,
+  "rpm": 2.86,
+  "revenue_change": 428.4,
+  "rpm_change": 29.1,
+  "cpm_change": -13.6,
+  "playbacks_change": 740.4,
   "revenue_chart": {
     "labels": [
-      "Apr 29",
       "Apr 30",
       "May 01",
       "May 02",
@@ -41,10 +40,10 @@
       "May 23",
       "May 24",
       "May 25",
-      "May 26"
+      "May 26",
+      "May 27"
     ],
     "values": [
-      0.8,
       0.55,
       0.36,
       0.61,
@@ -71,41 +70,42 @@
       3.06,
       3.35,
       2.02,
-      2.1
+      2.1,
+      2.46
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 19.26,
-      "views": 6737,
+      "revenue": 19.46,
+      "views": 6805,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 16.68,
-      "views": 6375,
+      "revenue": 17.09,
+      "views": 6424,
       "video_id": "IEwwzO5Uf6Q"
     },
     {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 13.24,
-      "views": 7119,
+      "revenue": 13.42,
+      "views": 7190,
       "video_id": "LIM0hjXez1Q"
     },
     {
       "title": "Four Days In May 2026 - Vendor Showcase QRP Event - EDH Hamvention Coverage",
-      "revenue": 9.82,
-      "views": 1549,
+      "revenue": 9.83,
+      "views": 1550,
       "video_id": "YrE4SytLYNQ"
     },
     {
       "title": "We Spent $150 on GigaParts Mystery Boxes at Hamvention 2026... Worth It?",
-      "revenue": 9.06,
-      "views": 3056,
+      "revenue": 9.13,
+      "views": 3071,
       "video_id": "q6eQQpxJBJY"
     }
   ],
-  "projected_monthly_revenue": 117.68
+  "projected_monthly_revenue": 119.34
 }
