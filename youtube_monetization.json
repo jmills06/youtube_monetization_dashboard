@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-06-09 18:55:32 UTC",
-  "period_start": "2026-05-10",
-  "period_end": "2026-06-08",
-  "total_revenue": 129.72,
+  "last_updated": "2026-06-10 10:45:47 UTC",
+  "period_start": "2026-05-11",
+  "period_end": "2026-06-09",
+  "total_revenue": 129.94,
   "cpm": 6.5,
-  "monetized_playbacks": 18795,
-  "ad_impressions": 32543,
-  "total_views": 43131,
+  "monetized_playbacks": 18828,
+  "ad_impressions": 32655,
+  "total_views": 43164,
   "rpm": 3.01,
-  "revenue_change": 482.0,
-  "rpm_change": 18.9,
+  "revenue_change": 455.8,
+  "rpm_change": 15.7,
   "cpm_change": -15.7,
-  "playbacks_change": 868.3,
+  "playbacks_change": 821.6,
   "revenue_chart": {
     "labels": [
-      "May 10",
       "May 11",
       "May 12",
       "May 13",
@@ -41,10 +40,10 @@
       "Jun 03",
       "Jun 04",
       "Jun 05",
-      "Jun 06"
+      "Jun 06",
+      "Jun 07"
     ],
     "values": [
-      1.42,
       1.58,
       0.77,
       1.78,
@@ -71,27 +70,28 @@
       1.59,
       2.62,
       2.36,
-      1.43
+      1.43,
+      1.64
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 21.42,
-      "views": 7266,
+      "revenue": 21.56,
+      "views": 7324,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 18.62,
-      "views": 6914,
+      "revenue": 18.69,
+      "views": 6965,
       "video_id": "IEwwzO5Uf6Q"
     },
     {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 14.96,
-      "views": 7873,
+      "revenue": 15.07,
+      "views": 7916,
       "video_id": "LIM0hjXez1Q"
     },
     {
@@ -102,10 +102,10 @@
     },
     {
       "title": "We Spent $150 on GigaParts Mystery Boxes at Hamvention 2026... Worth It?",
-      "revenue": 9.61,
-      "views": 3224,
+      "revenue": 9.68,
+      "views": 3245,
       "video_id": "q6eQQpxJBJY"
     }
   ],
-  "projected_monthly_revenue": 129.72
+  "projected_monthly_revenue": 129.94
 }
