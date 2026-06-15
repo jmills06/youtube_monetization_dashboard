@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-06-14 10:17:33 UTC",
-  "period_start": "2026-05-15",
-  "period_end": "2026-06-13",
-  "total_revenue": 133.35,
-  "cpm": 6.41,
-  "monetized_playbacks": 19255,
-  "ad_impressions": 33428,
-  "total_views": 43636,
-  "rpm": 3.06,
-  "revenue_change": 411.5,
-  "rpm_change": 8.1,
-  "cpm_change": -17.1,
-  "playbacks_change": 764.2,
+  "last_updated": "2026-06-15 12:54:39 UTC",
+  "period_start": "2026-05-16",
+  "period_end": "2026-06-14",
+  "total_revenue": 128.94,
+  "cpm": 6.35,
+  "monetized_playbacks": 18841,
+  "ad_impressions": 32571,
+  "total_views": 42610,
+  "rpm": 3.03,
+  "revenue_change": 301.4,
+  "rpm_change": -1.5,
+  "cpm_change": -16.9,
+  "playbacks_change": 576.3,
   "revenue_chart": {
     "labels": [
-      "May 15",
       "May 16",
       "May 17",
       "May 18",
@@ -41,10 +40,10 @@
       "Jun 08",
       "Jun 09",
       "Jun 10",
-      "Jun 11"
+      "Jun 11",
+      "Jun 12"
     ],
     "values": [
-      6.67,
       21.08,
       26.23,
       12.23,
@@ -71,41 +70,42 @@
       1.38,
       1.46,
       0.94,
-      3.39
+      3.39,
+      2.26
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 22.36,
-      "views": 7474,
+      "revenue": 22.55,
+      "views": 7524,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 19.59,
-      "views": 7186,
+      "revenue": 19.64,
+      "views": 7218,
       "video_id": "IEwwzO5Uf6Q"
     },
     {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 15.83,
-      "views": 8151,
+      "revenue": 16.52,
+      "views": 8248,
       "video_id": "LIM0hjXez1Q"
     },
     {
-      "title": "Four Days In May 2026 - Vendor Showcase QRP Event - EDH Hamvention Coverage",
-      "revenue": 10.01,
-      "views": 1548,
-      "video_id": "YrE4SytLYNQ"
+      "title": "We Spent $150 on GigaParts Mystery Boxes at Hamvention 2026... Worth It?",
+      "revenue": 9.99,
+      "views": 3287,
+      "video_id": "q6eQQpxJBJY"
     },
     {
-      "title": "We Spent $150 on GigaParts Mystery Boxes at Hamvention 2026... Worth It?",
-      "revenue": 9.97,
-      "views": 3279,
-      "video_id": "q6eQQpxJBJY"
+      "title": "Yaesu DR-3X Revealed! John Kruk N9UPC Walks Us Through System Fusion 3",
+      "revenue": 8.91,
+      "views": 4084,
+      "video_id": "u_4p34yJlvk"
     }
   ],
-  "projected_monthly_revenue": 133.35
+  "projected_monthly_revenue": 128.94
 }
