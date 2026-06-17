@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-06-16 11:59:05 UTC",
-  "period_start": "2026-05-17",
-  "period_end": "2026-06-15",
-  "total_revenue": 109.84,
-  "cpm": 6.4,
-  "monetized_playbacks": 15355,
-  "ad_impressions": 27504,
-  "total_views": 34681,
-  "rpm": 3.17,
-  "revenue_change": 108.5,
-  "rpm_change": 12.0,
-  "cpm_change": -7.8,
-  "playbacks_change": 139.6,
+  "last_updated": "2026-06-17 11:24:48 UTC",
+  "period_start": "2026-05-18",
+  "period_end": "2026-06-16",
+  "total_revenue": 85.66,
+  "cpm": 6.9,
+  "monetized_playbacks": 10570,
+  "ad_impressions": 19949,
+  "total_views": 23652,
+  "rpm": 3.62,
+  "revenue_change": 9.2,
+  "rpm_change": 37.7,
+  "cpm_change": 10.8,
+  "playbacks_change": -7.1,
   "revenue_chart": {
     "labels": [
-      "May 17",
       "May 18",
       "May 19",
       "May 20",
@@ -41,10 +40,10 @@
       "Jun 10",
       "Jun 11",
       "Jun 12",
-      "Jun 13"
+      "Jun 13",
+      "Jun 14"
     ],
     "values": [
-      26.23,
       12.23,
       7.12,
       4.92,
@@ -71,41 +70,42 @@
       0.94,
       3.39,
       2.26,
-      1.97
+      1.97,
+      2.06
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 18.67,
-      "views": 6685,
+      "revenue": 11.27,
+      "views": 3682,
       "video_id": "IEwwzO5Uf6Q"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 13.86,
-      "views": 4656,
+      "revenue": 9.01,
+      "views": 2953,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 12.49,
-      "views": 6083,
+      "revenue": 8.68,
+      "views": 3459,
       "video_id": "LIM0hjXez1Q"
     },
     {
       "title": "We Spent $150 on GigaParts Mystery Boxes at Hamvention 2026... Worth It?",
-      "revenue": 9.99,
-      "views": 3291,
+      "revenue": 5.7,
+      "views": 1645,
       "video_id": "q6eQQpxJBJY"
     },
     {
-      "title": "Yaesu DR-3X Revealed! John Kruk N9UPC Walks Us Through System Fusion 3",
-      "revenue": 5.68,
-      "views": 2649,
-      "video_id": "u_4p34yJlvk"
+      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
+      "revenue": 5.5,
+      "views": 559,
+      "video_id": "cGQR0gc20OY"
     }
   ],
-  "projected_monthly_revenue": 109.84
+  "projected_monthly_revenue": 85.66
 }
