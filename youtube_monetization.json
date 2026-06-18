@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-06-17 11:24:48 UTC",
-  "period_start": "2026-05-18",
-  "period_end": "2026-06-16",
-  "total_revenue": 85.66,
-  "cpm": 6.9,
-  "monetized_playbacks": 10570,
-  "ad_impressions": 19949,
-  "total_views": 23652,
-  "rpm": 3.62,
-  "revenue_change": 9.2,
-  "rpm_change": 37.7,
-  "cpm_change": 10.8,
-  "playbacks_change": -7.1,
+  "last_updated": "2026-06-18 11:02:31 UTC",
+  "period_start": "2026-05-19",
+  "period_end": "2026-06-17",
+  "total_revenue": 74.76,
+  "cpm": 7.06,
+  "monetized_playbacks": 8586,
+  "ad_impressions": 16993,
+  "total_views": 19253,
+  "rpm": 3.88,
+  "revenue_change": -17.0,
+  "rpm_change": 47.6,
+  "cpm_change": 13.8,
+  "playbacks_change": -36.1,
   "revenue_chart": {
     "labels": [
-      "May 18",
       "May 19",
       "May 20",
       "May 21",
@@ -41,10 +40,10 @@
       "Jun 11",
       "Jun 12",
       "Jun 13",
-      "Jun 14"
+      "Jun 14",
+      "Jun 15"
     ],
     "values": [
-      12.23,
       7.12,
       4.92,
       8.19,
@@ -71,41 +70,42 @@
       3.39,
       2.26,
       1.97,
-      2.06
+      2.06,
+      1.33
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 11.27,
-      "views": 3682,
+      "revenue": 8.04,
+      "views": 2541,
       "video_id": "IEwwzO5Uf6Q"
     },
     {
-      "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 9.01,
-      "views": 2953,
-      "video_id": "ZYk8IUSeEHI"
-    },
-    {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 8.68,
-      "views": 3459,
+      "revenue": 7.22,
+      "views": 2764,
       "video_id": "LIM0hjXez1Q"
     },
     {
-      "title": "We Spent $150 on GigaParts Mystery Boxes at Hamvention 2026... Worth It?",
-      "revenue": 5.7,
-      "views": 1645,
-      "video_id": "q6eQQpxJBJY"
+      "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
+      "revenue": 6.64,
+      "views": 2054,
+      "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.5,
+      "revenue": 5.53,
       "views": 559,
       "video_id": "cGQR0gc20OY"
+    },
+    {
+      "title": "Hamvention 2026 Haul Showdown: Whose Bag Was Best?",
+      "revenue": 4.7,
+      "views": 600,
+      "video_id": "fZkumHnnbGI"
     }
   ],
-  "projected_monthly_revenue": 85.66
+  "projected_monthly_revenue": 74.76
 }
