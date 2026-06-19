@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-06-18 11:02:31 UTC",
-  "period_start": "2026-05-19",
-  "period_end": "2026-06-17",
-  "total_revenue": 74.76,
-  "cpm": 7.06,
-  "monetized_playbacks": 8586,
-  "ad_impressions": 16993,
-  "total_views": 19253,
-  "rpm": 3.88,
-  "revenue_change": -17.0,
-  "rpm_change": 47.6,
-  "cpm_change": 13.8,
-  "playbacks_change": -36.1,
+  "last_updated": "2026-06-19 11:10:14 UTC",
+  "period_start": "2026-05-20",
+  "period_end": "2026-06-18",
+  "total_revenue": 68.88,
+  "cpm": 7.16,
+  "monetized_playbacks": 7603,
+  "ad_impressions": 15363,
+  "total_views": 17164,
+  "rpm": 4.01,
+  "revenue_change": -28.7,
+  "rpm_change": 51.1,
+  "cpm_change": 15.3,
+  "playbacks_change": -47.7,
   "revenue_chart": {
     "labels": [
-      "May 19",
       "May 20",
       "May 21",
       "May 22",
@@ -41,10 +40,10 @@
       "Jun 12",
       "Jun 13",
       "Jun 14",
-      "Jun 15"
+      "Jun 15",
+      "Jun 16"
     ],
     "values": [
-      7.12,
       4.92,
       8.19,
       5.01,
@@ -71,33 +70,34 @@
       2.26,
       1.97,
       2.06,
-      1.33
+      1.33,
+      1.24
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 8.04,
-      "views": 2541,
+      "revenue": 6.73,
+      "views": 2002,
       "video_id": "IEwwzO5Uf6Q"
     },
     {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 7.22,
-      "views": 2764,
+      "revenue": 6.61,
+      "views": 2531,
       "video_id": "LIM0hjXez1Q"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 6.64,
-      "views": 2054,
+      "revenue": 5.69,
+      "views": 1719,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.53,
-      "views": 559,
+      "revenue": 5.48,
+      "views": 553,
       "video_id": "cGQR0gc20OY"
     },
     {
@@ -107,5 +107,5 @@
       "video_id": "fZkumHnnbGI"
     }
   ],
-  "projected_monthly_revenue": 74.76
+  "projected_monthly_revenue": 68.88
 }
