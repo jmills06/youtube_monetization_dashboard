@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-06-19 11:10:14 UTC",
-  "period_start": "2026-05-20",
-  "period_end": "2026-06-18",
-  "total_revenue": 68.88,
-  "cpm": 7.16,
-  "monetized_playbacks": 7603,
-  "ad_impressions": 15363,
-  "total_views": 17164,
-  "rpm": 4.01,
-  "revenue_change": -28.7,
-  "rpm_change": 51.1,
-  "cpm_change": 15.3,
-  "playbacks_change": -47.7,
+  "last_updated": "2026-06-20 09:55:03 UTC",
+  "period_start": "2026-05-21",
+  "period_end": "2026-06-19",
+  "total_revenue": 65.23,
+  "cpm": 7.21,
+  "monetized_playbacks": 7077,
+  "ad_impressions": 14478,
+  "total_views": 16005,
+  "rpm": 4.08,
+  "revenue_change": -35.4,
+  "rpm_change": 52.1,
+  "cpm_change": 15.9,
+  "playbacks_change": -53.3,
   "revenue_chart": {
     "labels": [
-      "May 20",
       "May 21",
       "May 22",
       "May 23",
@@ -41,10 +40,10 @@
       "Jun 13",
       "Jun 14",
       "Jun 15",
-      "Jun 16"
+      "Jun 16",
+      "Jun 17"
     ],
     "values": [
-      4.92,
       8.19,
       5.01,
       3.09,
@@ -71,41 +70,42 @@
       1.97,
       2.06,
       1.33,
-      1.24
+      1.24,
+      1.27
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
-      "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 6.73,
-      "views": 2002,
-      "video_id": "IEwwzO5Uf6Q"
-    },
-    {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 6.61,
-      "views": 2531,
+      "revenue": 6.29,
+      "views": 2366,
       "video_id": "LIM0hjXez1Q"
     },
     {
+      "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
+      "revenue": 5.66,
+      "views": 1747,
+      "video_id": "IEwwzO5Uf6Q"
+    },
+    {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 5.69,
-      "views": 1719,
+      "revenue": 5.35,
+      "views": 1584,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.48,
-      "views": 553,
+      "revenue": 5.3,
+      "views": 557,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Hamvention 2026 Haul Showdown: Whose Bag Was Best?",
-      "revenue": 4.7,
-      "views": 600,
+      "revenue": 3.92,
+      "views": 457,
       "video_id": "fZkumHnnbGI"
     }
   ],
-  "projected_monthly_revenue": 68.88
+  "projected_monthly_revenue": 65.23
 }
