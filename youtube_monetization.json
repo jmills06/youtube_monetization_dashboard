@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-06-21 10:22:48 UTC",
-  "period_start": "2026-05-22",
-  "period_end": "2026-06-20",
-  "total_revenue": 58.02,
-  "cpm": 7.07,
-  "monetized_playbacks": 6410,
-  "ad_impressions": 13119,
-  "total_views": 14967,
-  "rpm": 3.88,
-  "revenue_change": -46.6,
-  "rpm_change": 38.5,
-  "cpm_change": 12.2,
-  "playbacks_change": -59.7,
+  "last_updated": "2026-06-22 12:39:24 UTC",
+  "period_start": "2026-05-23",
+  "period_end": "2026-06-21",
+  "total_revenue": 54.55,
+  "cpm": 6.97,
+  "monetized_playbacks": 6057,
+  "ad_impressions": 12519,
+  "total_views": 14261,
+  "rpm": 3.83,
+  "revenue_change": -51.8,
+  "rpm_change": 34.1,
+  "cpm_change": 9.4,
+  "playbacks_change": -63.0,
   "revenue_chart": {
     "labels": [
-      "May 22",
       "May 23",
       "May 24",
       "May 25",
@@ -41,10 +40,10 @@
       "Jun 15",
       "Jun 16",
       "Jun 17",
-      "Jun 18"
+      "Jun 18",
+      "Jun 19"
     ],
     "values": [
-      5.01,
       3.09,
       3.4,
       2.05,
@@ -71,41 +70,42 @@
       1.33,
       1.24,
       1.27,
-      0.97
+      0.97,
+      1.54
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
-      "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 5.29,
-      "views": 1638,
-      "video_id": "IEwwzO5Uf6Q"
+      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
+      "revenue": 5.3,
+      "views": 590,
+      "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 5.21,
-      "views": 1523,
+      "revenue": 4.97,
+      "views": 1436,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 5.13,
-      "views": 2201,
+      "revenue": 4.84,
+      "views": 2030,
       "video_id": "LIM0hjXez1Q"
     },
     {
-      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.13,
-      "views": 557,
-      "video_id": "cGQR0gc20OY"
+      "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
+      "revenue": 4.72,
+      "views": 1538,
+      "video_id": "IEwwzO5Uf6Q"
     },
     {
-      "title": "Hamvention 2026: Recap, Reactions, and a Brewing Showdown",
-      "revenue": 3.55,
-      "views": 295,
-      "video_id": "2XijWU1D78Y"
+      "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
+      "revenue": 3.5,
+      "views": 654,
+      "video_id": "UtSuCqs9p74"
     }
   ],
-  "projected_monthly_revenue": 58.02
+  "projected_monthly_revenue": 54.55
 }
