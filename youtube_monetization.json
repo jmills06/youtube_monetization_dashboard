@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-06-27 09:19:43 UTC",
-  "period_start": "2026-05-28",
-  "period_end": "2026-06-26",
-  "total_revenue": 46.75,
-  "cpm": 6.76,
-  "monetized_playbacks": 5247,
-  "ad_impressions": 11004,
-  "total_views": 12218,
-  "rpm": 3.83,
-  "revenue_change": -62.0,
-  "rpm_change": 31.3,
-  "cpm_change": 5.9,
-  "playbacks_change": -70.2,
+  "last_updated": "2026-06-28 09:49:50 UTC",
+  "period_start": "2026-05-29",
+  "period_end": "2026-06-27",
+  "total_revenue": 45.43,
+  "cpm": 6.71,
+  "monetized_playbacks": 5122,
+  "ad_impressions": 10771,
+  "total_views": 11971,
+  "rpm": 3.8,
+  "revenue_change": -63.9,
+  "rpm_change": 28.8,
+  "cpm_change": 4.8,
+  "playbacks_change": -71.4,
   "revenue_chart": {
     "labels": [
-      "May 28",
       "May 29",
       "May 30",
       "May 31",
@@ -41,10 +40,10 @@
       "Jun 21",
       "Jun 22",
       "Jun 23",
-      "Jun 24"
+      "Jun 24",
+      "Jun 25"
     ],
     "values": [
-      3.5,
       1.91,
       2.18,
       1.28,
@@ -71,41 +70,42 @@
       1.1,
       1.29,
       0.91,
-      0.97
+      0.97,
+      2.19
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.12,
-      "views": 606,
+      "revenue": 5.03,
+      "views": 614,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 4.33,
-      "views": 1679,
+      "revenue": 4.11,
+      "views": 1626,
       "video_id": "LIM0hjXez1Q"
     },
     {
-      "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 4.08,
-      "views": 1113,
-      "video_id": "ZYk8IUSeEHI"
-    },
-    {
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "revenue": 3.67,
-      "views": 702,
+      "revenue": 3.68,
+      "views": 709,
       "video_id": "UtSuCqs9p74"
     },
     {
+      "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
+      "revenue": 3.63,
+      "views": 1084,
+      "video_id": "ZYk8IUSeEHI"
+    },
+    {
       "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
-      "revenue": 3.51,
-      "views": 352,
+      "revenue": 3.57,
+      "views": 360,
       "video_id": "xKMKYlSsglY"
     }
   ],
-  "projected_monthly_revenue": 46.75
+  "projected_monthly_revenue": 45.43
 }
