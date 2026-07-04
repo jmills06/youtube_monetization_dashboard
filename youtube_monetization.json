@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-07-03 09:47:17 UTC",
-  "period_start": "2026-06-03",
-  "period_end": "2026-07-02",
-  "total_revenue": 45.84,
-  "cpm": 6.83,
-  "monetized_playbacks": 5166,
-  "ad_impressions": 10713,
-  "total_views": 11572,
-  "rpm": 3.96,
-  "revenue_change": -65.1,
-  "rpm_change": 31.9,
-  "cpm_change": 4.9,
-  "playbacks_change": -72.0,
+  "last_updated": "2026-07-04 09:11:16 UTC",
+  "period_start": "2026-06-04",
+  "period_end": "2026-07-03",
+  "total_revenue": 45.4,
+  "cpm": 6.89,
+  "monetized_playbacks": 5133,
+  "ad_impressions": 10524,
+  "total_views": 11508,
+  "rpm": 3.95,
+  "revenue_change": -65.8,
+  "rpm_change": 30.9,
+  "cpm_change": 5.8,
+  "playbacks_change": -72.4,
   "revenue_chart": {
     "labels": [
-      "Jun 03",
       "Jun 04",
       "Jun 05",
       "Jun 06",
@@ -41,10 +40,10 @@
       "Jun 27",
       "Jun 28",
       "Jun 29",
-      "Jun 30"
+      "Jun 30",
+      "Jul 01"
     ],
     "values": [
-      1.6,
       2.62,
       2.36,
       1.43,
@@ -71,41 +70,42 @@
       1.84,
       1.39,
       2.71,
-      1.64
+      1.64,
+      1.16
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.0,
-      "views": 616,
+      "revenue": 4.93,
+      "views": 630,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 4.61,
-      "views": 1118,
+      "revenue": 4.65,
+      "views": 1098,
       "video_id": "ZYk8IUSeEHI"
     },
     {
-      "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 3.95,
-      "views": 1516,
-      "video_id": "LIM0hjXez1Q"
-    },
-    {
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "revenue": 3.93,
-      "views": 747,
+      "revenue": 3.94,
+      "views": 751,
       "video_id": "UtSuCqs9p74"
     },
     {
+      "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
+      "revenue": 3.86,
+      "views": 1497,
+      "video_id": "LIM0hjXez1Q"
+    },
+    {
       "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
-      "revenue": 3.69,
-      "views": 374,
+      "revenue": 3.7,
+      "views": 375,
       "video_id": "xKMKYlSsglY"
     }
   ],
-  "projected_monthly_revenue": 45.84
+  "projected_monthly_revenue": 45.4
 }
