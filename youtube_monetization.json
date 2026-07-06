@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-07-05 09:32:28 UTC",
-  "period_start": "2026-06-05",
-  "period_end": "2026-07-04",
-  "total_revenue": 47.27,
-  "cpm": 7.05,
-  "monetized_playbacks": 5147,
-  "ad_impressions": 10719,
-  "total_views": 11479,
-  "rpm": 4.12,
-  "revenue_change": -64.9,
-  "rpm_change": 35.6,
-  "cpm_change": 7.9,
-  "playbacks_change": -72.7,
+  "last_updated": "2026-07-06 11:18:52 UTC",
+  "period_start": "2026-06-06",
+  "period_end": "2026-07-05",
+  "total_revenue": 52.09,
+  "cpm": 7.25,
+  "monetized_playbacks": 5383,
+  "ad_impressions": 11457,
+  "total_views": 10342,
+  "rpm": 5.04,
+  "revenue_change": -61.8,
+  "rpm_change": 65.1,
+  "cpm_change": 10.6,
+  "playbacks_change": -71.7,
   "revenue_chart": {
     "labels": [
-      "Jun 05",
       "Jun 06",
       "Jun 07",
       "Jun 08",
@@ -41,10 +40,10 @@
       "Jun 29",
       "Jun 30",
       "Jul 01",
-      "Jul 02"
+      "Jul 02",
+      "Jul 03"
     ],
     "values": [
-      2.36,
       1.43,
       1.64,
       1.38,
@@ -71,41 +70,42 @@
       2.71,
       1.64,
       1.16,
-      4.5
+      4.5,
+      7.17
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.53,
-      "views": 658,
+      "revenue": 5.44,
+      "views": 536,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 4.58,
-      "views": 1103,
+      "revenue": 4.47,
+      "views": 932,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 4.32,
-      "views": 1476,
+      "revenue": 4.4,
+      "views": 1248,
       "video_id": "LIM0hjXez1Q"
     },
     {
-      "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
-      "revenue": 3.72,
-      "views": 378,
-      "video_id": "xKMKYlSsglY"
+      "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
+      "revenue": 3.88,
+      "views": 0,
+      "video_id": "0oo2I7vziac"
     },
     {
-      "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 3.26,
-      "views": 1188,
-      "video_id": "IEwwzO5Uf6Q"
+      "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
+      "revenue": 3.73,
+      "views": 372,
+      "video_id": "xKMKYlSsglY"
     }
   ],
-  "projected_monthly_revenue": 47.27
+  "projected_monthly_revenue": 52.09
 }
