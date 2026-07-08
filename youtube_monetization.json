@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-07-07 10:15:43 UTC",
-  "period_start": "2026-06-07",
-  "period_end": "2026-07-06",
-  "total_revenue": 55.56,
-  "cpm": 7.25,
-  "monetized_playbacks": 5665,
-  "ad_impressions": 12220,
-  "total_views": 12228,
-  "rpm": 4.54,
-  "revenue_change": -58.9,
-  "rpm_change": 48.0,
-  "cpm_change": 10.7,
-  "playbacks_change": -70.2,
+  "last_updated": "2026-07-08 09:17:53 UTC",
+  "period_start": "2026-06-08",
+  "period_end": "2026-07-07",
+  "total_revenue": 56.89,
+  "cpm": 7.29,
+  "monetized_playbacks": 5793,
+  "ad_impressions": 12405,
+  "total_views": 12445,
+  "rpm": 4.57,
+  "revenue_change": -57.8,
+  "rpm_change": 49.0,
+  "cpm_change": 11.9,
+  "playbacks_change": -69.6,
   "revenue_chart": {
     "labels": [
-      "Jun 07",
       "Jun 08",
       "Jun 09",
       "Jun 10",
@@ -41,10 +40,10 @@
       "Jul 01",
       "Jul 02",
       "Jul 03",
-      "Jul 04"
+      "Jul 04",
+      "Jul 05"
     ],
     "values": [
-      1.64,
       1.38,
       1.46,
       0.94,
@@ -71,41 +70,42 @@
       1.16,
       4.5,
       7.17,
-      4.9
+      4.9,
+      2.97
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.6,
-      "views": 518,
+      "revenue": 5.78,
+      "views": 530,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "revenue": 4.79,
-      "views": 0,
+      "revenue": 5.33,
+      "views": 60,
       "video_id": "0oo2I7vziac"
     },
     {
-      "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 4.76,
-      "views": 894,
-      "video_id": "ZYk8IUSeEHI"
-    },
-    {
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper & Larry the Vertical",
-      "revenue": 4.72,
-      "views": 0,
+      "revenue": 5.32,
+      "views": 104,
       "video_id": "hcXOOwiPnr0"
     },
     {
+      "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
+      "revenue": 4.72,
+      "views": 869,
+      "video_id": "ZYk8IUSeEHI"
+    },
+    {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 4.37,
-      "views": 1192,
+      "revenue": 4.32,
+      "views": 1189,
       "video_id": "LIM0hjXez1Q"
     }
   ],
-  "projected_monthly_revenue": 55.56
+  "projected_monthly_revenue": 56.89
 }
