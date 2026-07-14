@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-07-13 10:13:42 UTC",
-  "period_start": "2026-06-13",
-  "period_end": "2026-07-12",
-  "total_revenue": 58.57,
-  "cpm": 7.63,
-  "monetized_playbacks": 5664,
-  "ad_impressions": 12266,
-  "total_views": 12288,
+  "last_updated": "2026-07-14 08:56:28 UTC",
+  "period_start": "2026-06-14",
+  "period_end": "2026-07-13",
+  "total_revenue": 58.44,
+  "cpm": 7.58,
+  "monetized_playbacks": 5673,
+  "ad_impressions": 12260,
+  "total_views": 12241,
   "rpm": 4.77,
-  "revenue_change": -57.2,
-  "rpm_change": 54.8,
-  "cpm_change": 18.8,
+  "revenue_change": -57.5,
+  "rpm_change": 54.5,
+  "cpm_change": 18.0,
   "playbacks_change": -71.1,
   "revenue_chart": {
     "labels": [
-      "Jun 13",
       "Jun 14",
       "Jun 15",
       "Jun 16",
@@ -41,10 +40,10 @@
       "Jul 07",
       "Jul 08",
       "Jul 09",
-      "Jul 10"
+      "Jul 10",
+      "Jul 11"
     ],
     "values": [
-      1.97,
       2.06,
       1.34,
       1.24,
@@ -71,41 +70,42 @@
       1.32,
       1.48,
       3.6,
-      2.33
+      2.33,
+      1.84
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "revenue": 6.84,
-      "views": 794,
+      "revenue": 6.92,
+      "views": 814,
       "video_id": "0oo2I7vziac"
     },
     {
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper & Larry the Vertical",
-      "revenue": 6.2,
-      "views": 798,
+      "revenue": 6.42,
+      "views": 831,
       "video_id": "hcXOOwiPnr0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 6.08,
-      "views": 754,
+      "revenue": 6.07,
+      "views": 764,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 4.49,
-      "views": 1010,
+      "revenue": 4.56,
+      "views": 999,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 3.25,
-      "views": 1210,
+      "revenue": 3.06,
+      "views": 1132,
       "video_id": "LIM0hjXez1Q"
     }
   ],
-  "projected_monthly_revenue": 58.57
+  "projected_monthly_revenue": 58.44
 }
