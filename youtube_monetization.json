@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-07-20 09:47:39 UTC",
-  "period_start": "2026-06-20",
-  "period_end": "2026-07-19",
-  "total_revenue": 59.21,
-  "cpm": 7.65,
-  "monetized_playbacks": 5694,
-  "ad_impressions": 12207,
-  "total_views": 12647,
-  "rpm": 4.68,
-  "revenue_change": -12.7,
-  "rpm_change": 14.9,
-  "cpm_change": 7.4,
-  "playbacks_change": -22.8,
+  "last_updated": "2026-07-21 09:20:35 UTC",
+  "period_start": "2026-06-21",
+  "period_end": "2026-07-20",
+  "total_revenue": 59.83,
+  "cpm": 7.63,
+  "monetized_playbacks": 5686,
+  "ad_impressions": 12388,
+  "total_views": 12732,
+  "rpm": 4.7,
+  "revenue_change": -1.3,
+  "rpm_change": 20.9,
+  "cpm_change": 8.0,
+  "playbacks_change": -15.5,
   "revenue_chart": {
     "labels": [
-      "Jun 20",
       "Jun 21",
       "Jun 22",
       "Jun 23",
@@ -41,10 +40,10 @@
       "Jul 14",
       "Jul 15",
       "Jul 16",
-      "Jul 17"
+      "Jul 17",
+      "Jul 18"
     ],
     "values": [
-      1.04,
       1.09,
       1.3,
       0.91,
@@ -71,41 +70,42 @@
       1.94,
       1.28,
       1.39,
-      2.09
+      2.09,
+      1.65
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "revenue": 7.08,
-      "views": 843,
+      "revenue": 7.15,
+      "views": 847,
       "video_id": "0oo2I7vziac"
     },
     {
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper & Larry the Vertical",
-      "revenue": 6.58,
-      "views": 857,
+      "revenue": 6.67,
+      "views": 861,
       "video_id": "hcXOOwiPnr0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.83,
-      "views": 747,
+      "revenue": 5.69,
+      "views": 744,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 4.67,
-      "views": 994,
+      "revenue": 4.75,
+      "views": 1001,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "What Happens When 80 Hams Finally Meet in Person? Michigan POTA Meetup 2026",
-      "revenue": 3.08,
-      "views": 317,
+      "revenue": 3.13,
+      "views": 319,
       "video_id": "HN3sKVL2DSU"
     }
   ],
-  "projected_monthly_revenue": 59.21
+  "projected_monthly_revenue": 59.83
 }
