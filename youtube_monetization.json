@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-07-29 09:30:39 UTC",
-  "period_start": "2026-06-29",
-  "period_end": "2026-07-28",
-  "total_revenue": 80.03,
-  "cpm": 7.62,
-  "monetized_playbacks": 8094,
-  "ad_impressions": 16818,
-  "total_views": 17760,
-  "rpm": 4.51,
-  "revenue_change": 66.3,
-  "rpm_change": 17.6,
-  "cpm_change": 13.3,
-  "playbacks_change": 48.1,
+  "last_updated": "2026-07-30 09:23:02 UTC",
+  "period_start": "2026-06-30",
+  "period_end": "2026-07-29",
+  "total_revenue": 79.22,
+  "cpm": 7.55,
+  "monetized_playbacks": 8073,
+  "ad_impressions": 16807,
+  "total_views": 17739,
+  "rpm": 4.47,
+  "revenue_change": 62.8,
+  "rpm_change": 14.8,
+  "cpm_change": 11.7,
+  "playbacks_change": 46.4,
   "revenue_chart": {
     "labels": [
-      "Jun 29",
       "Jun 30",
       "Jul 01",
       "Jul 02",
@@ -41,10 +40,10 @@
       "Jul 23",
       "Jul 24",
       "Jul 25",
-      "Jul 26"
+      "Jul 26",
+      "Jul 27"
     ],
     "values": [
-      2.73,
       1.66,
       1.16,
       4.5,
@@ -71,41 +70,42 @@
       2.85,
       1.54,
       1.6,
-      2.56
+      2.56,
+      1.92
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-      "revenue": 17.34,
-      "views": 3666,
+      "revenue": 17.69,
+      "views": 4032,
       "video_id": "r08dZat4bOU"
     },
     {
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "revenue": 7.86,
-      "views": 870,
+      "revenue": 7.87,
+      "views": 885,
       "video_id": "0oo2I7vziac"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 7.05,
-      "views": 650,
+      "revenue": 7,
+      "views": 715,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper & Larry the Vertical",
-      "revenue": 6.89,
-      "views": 878,
+      "revenue": 6.9,
+      "views": 891,
       "video_id": "hcXOOwiPnr0"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 5.2,
-      "views": 875,
+      "revenue": 4.52,
+      "views": 855,
       "video_id": "ZYk8IUSeEHI"
     }
   ],
-  "projected_monthly_revenue": 80.03
+  "projected_monthly_revenue": 79.22
 }
