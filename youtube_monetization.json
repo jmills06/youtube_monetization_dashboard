@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-08-04 09:31:14 UTC",
-  "period_start": "2026-07-05",
-  "period_end": "2026-08-03",
-  "total_revenue": 75.66,
-  "cpm": 7.35,
-  "monetized_playbacks": 8060,
-  "ad_impressions": 16280,
-  "total_views": 18144,
-  "rpm": 4.17,
-  "revenue_change": 27.3,
-  "rpm_change": -7.3,
-  "cpm_change": 0.7,
-  "playbacks_change": 31.6,
+  "last_updated": "2026-08-05 09:28:14 UTC",
+  "period_start": "2026-07-06",
+  "period_end": "2026-08-04",
+  "total_revenue": 75.13,
+  "cpm": 7.42,
+  "monetized_playbacks": 7970,
+  "ad_impressions": 16059,
+  "total_views": 17987,
+  "rpm": 4.18,
+  "revenue_change": 25.1,
+  "rpm_change": -7.1,
+  "cpm_change": 2.0,
+  "playbacks_change": 29.4,
   "revenue_chart": {
     "labels": [
-      "Jul 05",
       "Jul 06",
       "Jul 07",
       "Jul 08",
@@ -41,10 +40,10 @@
       "Jul 29",
       "Jul 30",
       "Jul 31",
-      "Aug 01"
+      "Aug 01",
+      "Aug 02"
     ],
     "values": [
-      2.97,
       2.4,
       1.32,
       1.48,
@@ -71,41 +70,42 @@
       4.44,
       2.31,
       2.62,
-      2.18
+      2.18,
+      2.44
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-      "revenue": 18.03,
-      "views": 4870,
+      "revenue": 18.04,
+      "views": 4894,
       "video_id": "r08dZat4bOU"
     },
     {
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "revenue": 8.88,
-      "views": 1206,
+      "revenue": 9.08,
+      "views": 1240,
       "video_id": "JivWdc2BbIs"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 6.53,
-      "views": 738,
+      "revenue": 6.63,
+      "views": 727,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 4.02,
-      "views": 888,
+      "revenue": 4.15,
+      "views": 909,
       "video_id": "ZYk8IUSeEHI"
     },
     {
-      "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "revenue": 3.14,
-      "views": 350,
-      "video_id": "0oo2I7vziac"
+      "title": "Heil BM-17 Unboxing & Review: Is the Reissue Worth $165?",
+      "revenue": 3.16,
+      "views": 462,
+      "video_id": "mdOTgixDm6o"
     }
   ],
-  "projected_monthly_revenue": 75.66
+  "projected_monthly_revenue": 75.13
 }
