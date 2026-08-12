@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-08-11 07:59:53 UTC",
-  "period_start": "2026-07-12",
-  "period_end": "2026-08-10",
-  "total_revenue": 71.5,
-  "cpm": 7.35,
-  "monetized_playbacks": 7732,
-  "ad_impressions": 15265,
-  "total_views": 19957,
-  "rpm": 3.58,
-  "revenue_change": 14.1,
-  "rpm_change": -24.4,
+  "last_updated": "2026-08-12 08:06:56 UTC",
+  "period_start": "2026-07-13",
+  "period_end": "2026-08-11",
+  "total_revenue": 71.21,
+  "cpm": 7.34,
+  "monetized_playbacks": 7726,
+  "ad_impressions": 15226,
+  "total_views": 20019,
+  "rpm": 3.56,
+  "revenue_change": 16.9,
+  "rpm_change": -23.3,
   "cpm_change": -0.8,
-  "playbacks_change": 27.4,
+  "playbacks_change": 28.7,
   "revenue_chart": {
     "labels": [
-      "Jul 12",
       "Jul 13",
       "Jul 14",
       "Jul 15",
@@ -41,23 +40,23 @@
       "Aug 05",
       "Aug 06",
       "Aug 07",
-      "Aug 08"
+      "Aug 08",
+      "Aug 09"
     ],
     "values": [
-      1.34,
-      1.06,
-      1.94,
-      1.28,
-      1.39,
+      1.07,
+      1.89,
+      1.25,
+      1.41,
       2.09,
-      1.65,
-      1.84,
-      1.96,
-      8.92,
-      9.95,
-      2.85,
+      1.66,
+      1.85,
+      1.97,
+      8.98,
+      9.98,
+      2.88,
       1.54,
-      1.6,
+      1.61,
       2.58,
       1.93,
       4.38,
@@ -71,41 +70,42 @@
       0.94,
       2.55,
       1.35,
-      1.36
+      1.36,
+      0.96
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-      "revenue": 18.32,
-      "views": 5005,
+      "revenue": 18.45,
+      "views": 5021,
       "video_id": "r08dZat4bOU"
     },
     {
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "revenue": 10.44,
-      "views": 1436,
+      "revenue": 10.51,
+      "views": 1447,
       "video_id": "JivWdc2BbIs"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 6.78,
-      "views": 654,
+      "revenue": 6.8,
+      "views": 657,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 3.96,
-      "views": 912,
+      "revenue": 4.01,
+      "views": 923,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Heil BM-17 Unboxing & Review: Is the Reissue Worth $165?",
-      "revenue": 3.31,
-      "views": 478,
+      "revenue": 3.33,
+      "views": 481,
       "video_id": "mdOTgixDm6o"
     }
   ],
-  "projected_monthly_revenue": 71.5
+  "projected_monthly_revenue": 71.21
 }
