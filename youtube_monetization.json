@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-08-13 08:08:38 UTC",
-  "period_start": "2026-07-14",
-  "period_end": "2026-08-12",
-  "total_revenue": 72.34,
-  "cpm": 7.42,
-  "monetized_playbacks": 7821,
-  "ad_impressions": 15378,
-  "total_views": 20123,
-  "rpm": 3.59,
-  "revenue_change": 20.5,
-  "rpm_change": -22.4,
-  "cpm_change": 0.6,
-  "playbacks_change": 32.0,
+  "last_updated": "2026-08-14 08:05:00 UTC",
+  "period_start": "2026-07-15",
+  "period_end": "2026-08-13",
+  "total_revenue": 71.56,
+  "cpm": 7.38,
+  "monetized_playbacks": 7799,
+  "ad_impressions": 15291,
+  "total_views": 0,
+  "rpm": 0,
+  "revenue_change": 19.6,
+  "rpm_change": -100.0,
+  "cpm_change": -0.3,
+  "playbacks_change": 32.9,
   "revenue_chart": {
     "labels": [
-      "Jul 14",
       "Jul 15",
       "Jul 16",
       "Jul 17",
@@ -41,10 +40,10 @@
       "Aug 07",
       "Aug 08",
       "Aug 09",
-      "Aug 10"
+      "Aug 10",
+      "Aug 11"
     ],
     "values": [
-      1.89,
       1.25,
       1.41,
       2.09,
@@ -71,7 +70,8 @@
       1.35,
       1.36,
       0.96,
-      2.19
+      2.19,
+      1.11
     ]
   },
   "ad_type_breakdown": {},
@@ -79,33 +79,33 @@
     {
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
       "revenue": 18.47,
-      "views": 5025,
+      "views": 5028,
       "video_id": "r08dZat4bOU"
     },
     {
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "revenue": 10.76,
-      "views": 1459,
+      "revenue": 10.84,
+      "views": 1471,
       "video_id": "JivWdc2BbIs"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 7,
-      "views": 664,
+      "revenue": 7.06,
+      "views": 680,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 4.07,
-      "views": 913,
+      "revenue": 4.01,
+      "views": 923,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Heil BM-17 Unboxing & Review: Is the Reissue Worth $165?",
       "revenue": 3.34,
-      "views": 486,
+      "views": 488,
       "video_id": "mdOTgixDm6o"
     }
   ],
-  "projected_monthly_revenue": 72.34
+  "projected_monthly_revenue": 71.56
 }
