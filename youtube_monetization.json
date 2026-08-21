@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-08-20 07:30:23 UTC",
-  "period_start": "2026-07-21",
-  "period_end": "2026-08-19",
-  "total_revenue": 72.97,
-  "cpm": 7.49,
-  "monetized_playbacks": 7875,
-  "ad_impressions": 15363,
-  "total_views": 20272,
-  "rpm": 3.6,
-  "revenue_change": 16.4,
-  "rpm_change": -23.1,
-  "cpm_change": -2.5,
-  "playbacks_change": 32.7,
+  "last_updated": "2026-08-21 07:32:17 UTC",
+  "period_start": "2026-07-22",
+  "period_end": "2026-08-20",
+  "total_revenue": 68.33,
+  "cpm": 7.86,
+  "monetized_playbacks": 7069,
+  "ad_impressions": 13719,
+  "total_views": 19888,
+  "rpm": 3.44,
+  "revenue_change": -3.1,
+  "rpm_change": -26.5,
+  "cpm_change": 2.8,
+  "playbacks_change": 3.7,
   "revenue_chart": {
     "labels": [
-      "Jul 21",
       "Jul 22",
       "Jul 23",
       "Jul 24",
@@ -41,10 +40,10 @@
       "Aug 14",
       "Aug 15",
       "Aug 16",
-      "Aug 17"
+      "Aug 17",
+      "Aug 18"
     ],
     "values": [
-      8.98,
       9.98,
       2.88,
       1.54,
@@ -71,41 +70,42 @@
       1.76,
       1.42,
       1.75,
-      3.45
+      3.45,
+      4.34
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-      "revenue": 18.58,
-      "views": 5078,
+      "revenue": 12.18,
+      "views": 3670,
       "video_id": "r08dZat4bOU"
     },
     {
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "revenue": 11.24,
-      "views": 1525,
+      "revenue": 11.36,
+      "views": 1533,
       "video_id": "JivWdc2BbIs"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 6.91,
-      "views": 683,
+      "revenue": 7.17,
+      "views": 690,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 3.68,
-      "views": 893,
+      "revenue": 3.56,
+      "views": 906,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "revenue": 2.47,
-      "views": 978,
+      "revenue": 2.39,
+      "views": 992,
       "video_id": "LIM0hjXez1Q"
     }
   ],
-  "projected_monthly_revenue": 72.97
+  "projected_monthly_revenue": 68.33
 }
