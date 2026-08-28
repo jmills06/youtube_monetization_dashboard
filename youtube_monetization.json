@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-08-27 17:56:30 UTC",
-  "period_start": "2026-07-28",
-  "period_end": "2026-08-26",
-  "total_revenue": 57.19,
-  "cpm": 8.51,
-  "monetized_playbacks": 5459,
-  "ad_impressions": 10460,
-  "total_views": 16865,
-  "rpm": 3.39,
-  "revenue_change": -30.7,
-  "rpm_change": -23.7,
-  "cpm_change": 13.5,
-  "playbacks_change": -35.5,
+  "last_updated": "2026-08-28 19:06:47 UTC",
+  "period_start": "2026-07-29",
+  "period_end": "2026-08-27",
+  "total_revenue": 55.44,
+  "cpm": 8.55,
+  "monetized_playbacks": 5402,
+  "ad_impressions": 10191,
+  "total_views": 16747,
+  "rpm": 3.31,
+  "revenue_change": -35.2,
+  "rpm_change": -26.0,
+  "cpm_change": 14.0,
+  "playbacks_change": -37.5,
   "revenue_chart": {
     "labels": [
-      "Jul 28",
       "Jul 29",
       "Jul 30",
       "Jul 31",
@@ -41,10 +40,11 @@
       "Aug 21",
       "Aug 22",
       "Aug 23",
-      "Aug 24"
+      "Aug 24",
+      "Aug 25",
+      "Aug 26"
     ],
     "values": [
-      4.38,
       4.5,
       2.34,
       2.65,
@@ -71,41 +71,43 @@
       1.63,
       1.81,
       1.63,
-      1.16
+      1.16,
+      1.12,
+      1.51
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "revenue": 11.62,
-      "views": 1592,
+      "revenue": 8.64,
+      "views": 1165,
       "video_id": "JivWdc2BbIs"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 7.58,
-      "views": 715,
+      "revenue": 7.51,
+      "views": 712,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 4.93,
-      "views": 1196,
+      "revenue": 5.17,
+      "views": 1288,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.48,
-      "views": 295,
+      "revenue": 2.61,
+      "views": 308,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "revenue": 2.42,
-      "views": 795,
+      "revenue": 2.44,
+      "views": 799,
       "video_id": "nYPSyZzZcDY"
     }
   ],
-  "projected_monthly_revenue": 57.19
+  "projected_monthly_revenue": 55.44
 }
