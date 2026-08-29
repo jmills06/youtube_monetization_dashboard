@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-08-28 19:06:47 UTC",
-  "period_start": "2026-07-29",
-  "period_end": "2026-08-27",
-  "total_revenue": 55.44,
-  "cpm": 8.55,
-  "monetized_playbacks": 5402,
-  "ad_impressions": 10191,
-  "total_views": 16747,
-  "rpm": 3.31,
-  "revenue_change": -35.2,
-  "rpm_change": -26.0,
-  "cpm_change": 14.0,
-  "playbacks_change": -37.5,
+  "last_updated": "2026-08-29 12:51:16 UTC",
+  "period_start": "2026-07-30",
+  "period_end": "2026-08-28",
+  "total_revenue": 50.93,
+  "cpm": 8.49,
+  "monetized_playbacks": 5017,
+  "ad_impressions": 9440,
+  "total_views": 15945,
+  "rpm": 3.19,
+  "revenue_change": -41.7,
+  "rpm_change": -28.9,
+  "cpm_change": 13.2,
+  "playbacks_change": -43.1,
   "revenue_chart": {
     "labels": [
-      "Jul 29",
       "Jul 30",
       "Jul 31",
       "Aug 01",
@@ -45,7 +44,6 @@
       "Aug 26"
     ],
     "values": [
-      4.5,
       2.34,
       2.65,
       2.18,
@@ -79,27 +77,27 @@
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
-      "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "revenue": 8.64,
-      "views": 1165,
-      "video_id": "JivWdc2BbIs"
-    },
-    {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 7.51,
-      "views": 712,
+      "revenue": 7.3,
+      "views": 682,
       "video_id": "cGQR0gc20OY"
     },
     {
+      "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
+      "revenue": 5.77,
+      "views": 834,
+      "video_id": "JivWdc2BbIs"
+    },
+    {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 5.17,
-      "views": 1288,
+      "revenue": 5.02,
+      "views": 1258,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.61,
-      "views": 308,
+      "revenue": 2.58,
+      "views": 302,
       "video_id": "vGcmAxr-eFM"
     },
     {
@@ -109,5 +107,5 @@
       "video_id": "nYPSyZzZcDY"
     }
   ],
-  "projected_monthly_revenue": 55.44
+  "projected_monthly_revenue": 50.93
 }
