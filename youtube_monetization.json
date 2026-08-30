@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-08-29 12:51:16 UTC",
-  "period_start": "2026-07-30",
-  "period_end": "2026-08-28",
-  "total_revenue": 50.93,
-  "cpm": 8.49,
-  "monetized_playbacks": 5017,
-  "ad_impressions": 9440,
-  "total_views": 15945,
-  "rpm": 3.19,
-  "revenue_change": -41.7,
-  "rpm_change": -28.9,
-  "cpm_change": 13.2,
-  "playbacks_change": -43.1,
+  "last_updated": "2026-08-30 12:20:30 UTC",
+  "period_start": "2026-07-31",
+  "period_end": "2026-08-29",
+  "total_revenue": 51.72,
+  "cpm": 8.53,
+  "monetized_playbacks": 5106,
+  "ad_impressions": 9588,
+  "total_views": 16744,
+  "rpm": 3.09,
+  "revenue_change": -41.2,
+  "rpm_change": -30.9,
+  "cpm_change": 14.0,
+  "playbacks_change": -42.8,
   "revenue_chart": {
     "labels": [
-      "Jul 30",
       "Jul 31",
       "Aug 01",
       "Aug 02",
@@ -41,10 +40,10 @@
       "Aug 23",
       "Aug 24",
       "Aug 25",
-      "Aug 26"
+      "Aug 26",
+      "Aug 27"
     ],
     "values": [
-      2.34,
       2.65,
       2.18,
       2.44,
@@ -71,41 +70,42 @@
       1.63,
       1.16,
       1.12,
-      1.51
+      1.51,
+      3.12
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 7.3,
-      "views": 682,
+      "revenue": 7.63,
+      "views": 711,
       "video_id": "cGQR0gc20OY"
     },
     {
-      "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "revenue": 5.77,
-      "views": 834,
-      "video_id": "JivWdc2BbIs"
-    },
-    {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 5.02,
-      "views": 1258,
+      "revenue": 5.39,
+      "views": 1360,
       "video_id": "ZYk8IUSeEHI"
     },
     {
+      "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
+      "revenue": 4.91,
+      "views": 718,
+      "video_id": "JivWdc2BbIs"
+    },
+    {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.58,
-      "views": 302,
+      "revenue": 2.65,
+      "views": 346,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "revenue": 2.44,
-      "views": 799,
+      "revenue": 2.52,
+      "views": 802,
       "video_id": "nYPSyZzZcDY"
     }
   ],
-  "projected_monthly_revenue": 50.93
+  "projected_monthly_revenue": 51.72
 }
