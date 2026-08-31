@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-08-30 12:20:30 UTC",
-  "period_start": "2026-07-31",
-  "period_end": "2026-08-29",
-  "total_revenue": 51.72,
-  "cpm": 8.53,
-  "monetized_playbacks": 5106,
-  "ad_impressions": 9588,
-  "total_views": 16744,
-  "rpm": 3.09,
-  "revenue_change": -41.2,
-  "rpm_change": -30.9,
-  "cpm_change": 14.0,
-  "playbacks_change": -42.8,
+  "last_updated": "2026-08-31 14:30:45 UTC",
+  "period_start": "2026-08-01",
+  "period_end": "2026-08-30",
+  "total_revenue": 51.57,
+  "cpm": 8.6,
+  "monetized_playbacks": 5105,
+  "ad_impressions": 9521,
+  "total_views": 17408,
+  "rpm": 2.96,
+  "revenue_change": -42.4,
+  "rpm_change": -34.1,
+  "cpm_change": 15.0,
+  "playbacks_change": -43.9,
   "revenue_chart": {
     "labels": [
-      "Jul 31",
       "Aug 01",
       "Aug 02",
       "Aug 03",
@@ -41,10 +40,10 @@
       "Aug 24",
       "Aug 25",
       "Aug 26",
-      "Aug 27"
+      "Aug 27",
+      "Aug 28"
     ],
     "values": [
-      2.65,
       2.18,
       2.44,
       1.21,
@@ -71,41 +70,42 @@
       1.16,
       1.12,
       1.51,
-      3.12
+      3.12,
+      2.5
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 7.63,
-      "views": 711,
+      "revenue": 7.71,
+      "views": 762,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 5.39,
-      "views": 1360,
+      "revenue": 5.53,
+      "views": 1414,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "revenue": 4.91,
-      "views": 718,
+      "revenue": 3.5,
+      "views": 563,
       "video_id": "JivWdc2BbIs"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.65,
-      "views": 346,
+      "revenue": 2.68,
+      "views": 370,
       "video_id": "vGcmAxr-eFM"
     },
     {
-      "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "revenue": 2.52,
-      "views": 802,
-      "video_id": "nYPSyZzZcDY"
+      "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
+      "revenue": 2.65,
+      "views": 1022,
+      "video_id": "IEwwzO5Uf6Q"
     }
   ],
-  "projected_monthly_revenue": 51.72
+  "projected_monthly_revenue": 51.57
 }
