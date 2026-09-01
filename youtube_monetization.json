@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-08-31 14:30:45 UTC",
-  "period_start": "2026-08-01",
-  "period_end": "2026-08-30",
-  "total_revenue": 51.57,
+  "last_updated": "2026-09-01 12:09:42 UTC",
+  "period_start": "2026-08-02",
+  "period_end": "2026-08-31",
+  "total_revenue": 55.63,
   "cpm": 8.6,
-  "monetized_playbacks": 5105,
-  "ad_impressions": 9521,
-  "total_views": 17408,
-  "rpm": 2.96,
-  "revenue_change": -42.4,
-  "rpm_change": -34.1,
-  "cpm_change": 15.0,
-  "playbacks_change": -43.9,
+  "monetized_playbacks": 5411,
+  "ad_impressions": 10263,
+  "total_views": 20104,
+  "rpm": 2.77,
+  "revenue_change": -36.3,
+  "rpm_change": -37.0,
+  "cpm_change": 16.1,
+  "playbacks_change": -40.2,
   "revenue_chart": {
     "labels": [
-      "Aug 01",
       "Aug 02",
       "Aug 03",
       "Aug 04",
@@ -41,10 +40,10 @@
       "Aug 25",
       "Aug 26",
       "Aug 27",
-      "Aug 28"
+      "Aug 28",
+      "Aug 29"
     ],
     "values": [
-      2.18,
       2.44,
       1.21,
       1.68,
@@ -71,41 +70,42 @@
       1.12,
       1.51,
       3.12,
-      2.5
+      2.5,
+      6.24
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 7.71,
-      "views": 762,
+      "revenue": 7.51,
+      "views": 768,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 5.53,
-      "views": 1414,
+      "revenue": 5.41,
+      "views": 1459,
       "video_id": "ZYk8IUSeEHI"
     },
     {
+      "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
+      "revenue": 5.09,
+      "views": 2139,
+      "video_id": "FGMP-r6Kwq0"
+    },
+    {
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "revenue": 3.5,
-      "views": 563,
+      "revenue": 2.87,
+      "views": 464,
       "video_id": "JivWdc2BbIs"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.68,
-      "views": 370,
+      "revenue": 2.78,
+      "views": 398,
       "video_id": "vGcmAxr-eFM"
-    },
-    {
-      "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 2.65,
-      "views": 1022,
-      "video_id": "IEwwzO5Uf6Q"
     }
   ],
-  "projected_monthly_revenue": 51.57
+  "projected_monthly_revenue": 55.63
 }
