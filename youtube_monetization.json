@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-09-03 11:47:16 UTC",
-  "period_start": "2026-08-04",
-  "period_end": "2026-09-02",
-  "total_revenue": 57.75,
-  "cpm": 8.62,
-  "monetized_playbacks": 5572,
-  "ad_impressions": 10632,
-  "total_views": 22298,
-  "rpm": 2.59,
-  "revenue_change": -27.1,
-  "rpm_change": -37.8,
-  "cpm_change": 17.5,
-  "playbacks_change": -34.0,
+  "last_updated": "2026-09-04 11:48:45 UTC",
+  "period_start": "2026-08-05",
+  "period_end": "2026-09-03",
+  "total_revenue": 58.17,
+  "cpm": 8.61,
+  "monetized_playbacks": 5587,
+  "ad_impressions": 10693,
+  "total_views": 22775,
+  "rpm": 2.55,
+  "revenue_change": -25.5,
+  "rpm_change": -38.5,
+  "cpm_change": 16.8,
+  "playbacks_change": -32.6,
   "revenue_chart": {
     "labels": [
-      "Aug 04",
       "Aug 05",
       "Aug 06",
       "Aug 07",
@@ -41,10 +40,10 @@
       "Aug 28",
       "Aug 29",
       "Aug 30",
-      "Aug 31"
+      "Aug 31",
+      "Sep 01"
     ],
     "values": [
-      1.68,
       0.94,
       2.55,
       1.35,
@@ -71,41 +70,42 @@
       2.5,
       6.24,
       3.22,
-      2.55
+      2.55,
+      2.1
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "revenue": 7.56,
-      "views": 2991,
+      "revenue": 8.19,
+      "views": 3284,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 7.37,
-      "views": 766,
+      "revenue": 7.4,
+      "views": 787,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 5.39,
-      "views": 1443,
+      "revenue": 5.47,
+      "views": 1465,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 2.64,
-      "views": 1101,
+      "revenue": 2.63,
+      "views": 1098,
       "video_id": "IEwwzO5Uf6Q"
     },
     {
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "revenue": 2.58,
-      "views": 393,
+      "revenue": 2.56,
+      "views": 407,
       "video_id": "vGcmAxr-eFM"
     }
   ],
-  "projected_monthly_revenue": 57.75
+  "projected_monthly_revenue": 58.17
 }
