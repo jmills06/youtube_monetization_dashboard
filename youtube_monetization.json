@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-09-05 10:58:28 UTC",
-  "period_start": "2026-08-06",
-  "period_end": "2026-09-04",
-  "total_revenue": 58.7,
-  "cpm": 8.69,
-  "monetized_playbacks": 5570,
-  "ad_impressions": 10704,
-  "total_views": 23103,
-  "rpm": 2.54,
-  "revenue_change": -23.4,
-  "rpm_change": -37.9,
-  "cpm_change": 18.8,
+  "last_updated": "2026-09-06 11:23:49 UTC",
+  "period_start": "2026-08-07",
+  "period_end": "2026-09-05",
+  "total_revenue": 59.27,
+  "cpm": 8.82,
+  "monetized_playbacks": 5599,
+  "ad_impressions": 10718,
+  "total_views": 22773,
+  "rpm": 2.6,
+  "revenue_change": -23.9,
+  "rpm_change": -34.4,
+  "cpm_change": 19.7,
   "playbacks_change": -32.2,
   "revenue_chart": {
     "labels": [
-      "Aug 06",
       "Aug 07",
       "Aug 08",
       "Aug 09",
@@ -41,10 +40,10 @@
       "Aug 30",
       "Aug 31",
       "Sep 01",
-      "Sep 02"
+      "Sep 02",
+      "Sep 03"
     ],
     "values": [
-      2.55,
       1.35,
       1.36,
       0.96,
@@ -71,41 +70,42 @@
       3.22,
       2.55,
       2.1,
-      1.47
+      1.47,
+      3.12
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "revenue": 8.42,
-      "views": 3356,
+      "revenue": 8.51,
+      "views": 3458,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 7.31,
-      "views": 809,
+      "revenue": 7.27,
+      "views": 878,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
       "revenue": 5.58,
-      "views": 1492,
+      "views": 1512,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 2.62,
-      "views": 1090,
+      "revenue": 2.6,
+      "views": 1087,
       "video_id": "IEwwzO5Uf6Q"
     },
     {
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
       "revenue": 2.59,
-      "views": 833,
+      "views": 837,
       "video_id": "nYPSyZzZcDY"
     }
   ],
-  "projected_monthly_revenue": 58.7
+  "projected_monthly_revenue": 59.27
 }
