@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-09-06 11:23:49 UTC",
-  "period_start": "2026-08-07",
-  "period_end": "2026-09-05",
-  "total_revenue": 59.27,
-  "cpm": 8.82,
-  "monetized_playbacks": 5599,
-  "ad_impressions": 10718,
-  "total_views": 22773,
-  "rpm": 2.6,
-  "revenue_change": -23.9,
-  "rpm_change": -34.4,
-  "cpm_change": 19.7,
-  "playbacks_change": -32.2,
+  "last_updated": "2026-09-07 13:04:37 UTC",
+  "period_start": "2026-08-08",
+  "period_end": "2026-09-06",
+  "total_revenue": 59.74,
+  "cpm": 8.88,
+  "monetized_playbacks": 5614,
+  "ad_impressions": 10747,
+  "total_views": 23200,
+  "rpm": 2.58,
+  "revenue_change": -23.2,
+  "rpm_change": -34.8,
+  "cpm_change": 20.2,
+  "playbacks_change": -32.0,
   "revenue_chart": {
     "labels": [
-      "Aug 07",
       "Aug 08",
       "Aug 09",
       "Aug 10",
@@ -41,10 +40,10 @@
       "Aug 31",
       "Sep 01",
       "Sep 02",
-      "Sep 03"
+      "Sep 03",
+      "Sep 04"
     ],
     "values": [
-      1.35,
       1.36,
       0.96,
       2.19,
@@ -71,41 +70,42 @@
       2.55,
       2.1,
       1.47,
-      3.12
+      3.12,
+      1.82
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "revenue": 8.51,
-      "views": 3458,
+      "revenue": 8.54,
+      "views": 3508,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 7.27,
-      "views": 878,
+      "revenue": 7.3,
+      "views": 900,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 5.58,
-      "views": 1512,
+      "revenue": 5.66,
+      "views": 1525,
       "video_id": "ZYk8IUSeEHI"
-    },
-    {
-      "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 2.6,
-      "views": 1087,
-      "video_id": "IEwwzO5Uf6Q"
     },
     {
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
       "revenue": 2.59,
-      "views": 837,
+      "views": 839,
       "video_id": "nYPSyZzZcDY"
+    },
+    {
+      "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
+      "revenue": 2.59,
+      "views": 1086,
+      "video_id": "IEwwzO5Uf6Q"
     }
   ],
-  "projected_monthly_revenue": 59.27
+  "projected_monthly_revenue": 59.74
 }
