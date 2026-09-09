@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-09-08 11:48:38 UTC",
-  "period_start": "2026-08-09",
-  "period_end": "2026-09-07",
-  "total_revenue": 59.65,
-  "cpm": 8.93,
-  "monetized_playbacks": 5591,
-  "ad_impressions": 10715,
-  "total_views": 22279,
-  "rpm": 2.68,
-  "revenue_change": -21.2,
-  "rpm_change": -26.5,
-  "cpm_change": 22.1,
-  "playbacks_change": -31.5,
+  "last_updated": "2026-09-09 11:59:47 UTC",
+  "period_start": "2026-08-10",
+  "period_end": "2026-09-08",
+  "total_revenue": 60.23,
+  "cpm": 9.02,
+  "monetized_playbacks": 5598,
+  "ad_impressions": 10698,
+  "total_views": 22425,
+  "rpm": 2.69,
+  "revenue_change": -19.0,
+  "rpm_change": -24.7,
+  "cpm_change": 23.8,
+  "playbacks_change": -30.6,
   "revenue_chart": {
     "labels": [
-      "Aug 09",
       "Aug 10",
       "Aug 11",
       "Aug 12",
@@ -41,10 +40,10 @@
       "Sep 02",
       "Sep 03",
       "Sep 04",
-      "Sep 05"
+      "Sep 05",
+      "Sep 06"
     ],
     "values": [
-      0.96,
       2.19,
       1.11,
       1.74,
@@ -71,7 +70,8 @@
       1.47,
       3.12,
       1.82,
-      1.26
+      1.26,
+      1.54
     ]
   },
   "ad_type_breakdown": {},
@@ -79,33 +79,33 @@
     {
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
       "revenue": 8.56,
-      "views": 4092,
+      "views": 4113,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 7.25,
-      "views": 972,
+      "revenue": 7.34,
+      "views": 984,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 5.74,
-      "views": 1601,
+      "revenue": 5.63,
+      "views": 1593,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "revenue": 2.6,
-      "views": 845,
+      "revenue": 2.61,
+      "views": 848,
       "video_id": "nYPSyZzZcDY"
     },
     {
-      "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "revenue": 2.59,
-      "views": 1103,
-      "video_id": "IEwwzO5Uf6Q"
+      "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
+      "revenue": 2.58,
+      "views": 386,
+      "video_id": "FakqdX9c1ac"
     }
   ],
-  "projected_monthly_revenue": 59.65
+  "projected_monthly_revenue": 60.23
 }
