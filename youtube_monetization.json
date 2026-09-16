@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-09-15 12:16:59 UTC",
-  "period_start": "2026-08-16",
-  "period_end": "2026-09-14",
-  "total_revenue": 61.02,
-  "cpm": 9.15,
-  "monetized_playbacks": 5478,
-  "ad_impressions": 10661,
-  "total_views": 24163,
-  "rpm": 2.53,
-  "revenue_change": -19.0,
-  "rpm_change": -30.5,
-  "cpm_change": 21.4,
+  "last_updated": "2026-09-16 12:16:02 UTC",
+  "period_start": "2026-08-17",
+  "period_end": "2026-09-15",
+  "total_revenue": 60.59,
+  "cpm": 9.14,
+  "monetized_playbacks": 5441,
+  "ad_impressions": 10644,
+  "total_views": 23560,
+  "rpm": 2.57,
+  "revenue_change": -19.2,
+  "rpm_change": -28.9,
+  "cpm_change": 21.5,
   "playbacks_change": -32.1,
   "revenue_chart": {
     "labels": [
-      "Aug 16",
       "Aug 17",
       "Aug 18",
       "Aug 19",
@@ -41,10 +40,10 @@
       "Sep 09",
       "Sep 10",
       "Sep 11",
-      "Sep 12"
+      "Sep 12",
+      "Sep 13"
     ],
     "values": [
-      1.75,
       3.45,
       4.34,
       1.55,
@@ -53,8 +52,8 @@
       1.81,
       1.63,
       1.16,
-      1.12,
-      1.51,
+      1.15,
+      1.5,
       3.12,
       2.5,
       6.24,
@@ -71,7 +70,8 @@
       1.04,
       3.31,
       2.17,
-      1.45
+      1.45,
+      1.31
     ]
   },
   "ad_type_breakdown": {},
@@ -79,33 +79,33 @@
     {
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
       "revenue": 8.75,
-      "views": 4199,
+      "views": 4206,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 6.54,
-      "views": 996,
+      "revenue": 6.55,
+      "views": 1010,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 5.4,
-      "views": 1577,
+      "revenue": 5.34,
+      "views": 1555,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
-      "revenue": 3.42,
-      "views": 474,
+      "revenue": 3.49,
+      "views": 485,
       "video_id": "FakqdX9c1ac"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 2.66,
-      "views": 519,
+      "revenue": 2.67,
+      "views": 525,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 61.02
+  "projected_monthly_revenue": 60.59
 }
