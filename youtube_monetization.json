@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-09-16 12:16:02 UTC",
-  "period_start": "2026-08-17",
-  "period_end": "2026-09-15",
-  "total_revenue": 60.59,
-  "cpm": 9.14,
-  "monetized_playbacks": 5441,
-  "ad_impressions": 10644,
-  "total_views": 23560,
-  "rpm": 2.57,
-  "revenue_change": -19.2,
-  "rpm_change": -28.9,
-  "cpm_change": 21.5,
-  "playbacks_change": -32.1,
+  "last_updated": "2026-09-17 12:15:43 UTC",
+  "period_start": "2026-08-18",
+  "period_end": "2026-09-16",
+  "total_revenue": 58.37,
+  "cpm": 9.02,
+  "monetized_playbacks": 5299,
+  "ad_impressions": 10382,
+  "total_views": 24245,
+  "rpm": 2.41,
+  "revenue_change": -24.0,
+  "rpm_change": -34.3,
+  "cpm_change": 17.6,
+  "playbacks_change": -34.7,
   "revenue_chart": {
     "labels": [
-      "Aug 17",
       "Aug 18",
       "Aug 19",
       "Aug 20",
@@ -41,10 +40,10 @@
       "Sep 10",
       "Sep 11",
       "Sep 12",
-      "Sep 13"
+      "Sep 13",
+      "Sep 14"
     ],
     "values": [
-      3.45,
       4.34,
       1.55,
       1.61,
@@ -71,41 +70,42 @@
       3.31,
       2.17,
       1.45,
-      1.31
+      1.31,
+      1.23
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "revenue": 8.75,
-      "views": 4206,
+      "revenue": 8.76,
+      "views": 4209,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 6.55,
-      "views": 1010,
+      "revenue": 5.79,
+      "views": 1016,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
       "revenue": 5.34,
-      "views": 1555,
+      "views": 1556,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
-      "revenue": 3.49,
-      "views": 485,
+      "revenue": 3.5,
+      "views": 490,
       "video_id": "FakqdX9c1ac"
     },
     {
-      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 2.67,
-      "views": 525,
-      "video_id": "JTFErg-neu8"
+      "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
+      "revenue": 2.96,
+      "views": 1470,
+      "video_id": "9Wk6JWDHHN4"
     }
   ],
-  "projected_monthly_revenue": 60.59
+  "projected_monthly_revenue": 58.37
 }
