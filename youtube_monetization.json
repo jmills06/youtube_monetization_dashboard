@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-09-17 12:15:43 UTC",
-  "period_start": "2026-08-18",
-  "period_end": "2026-09-16",
-  "total_revenue": 58.37,
-  "cpm": 9.02,
-  "monetized_playbacks": 5299,
-  "ad_impressions": 10382,
-  "total_views": 24245,
-  "rpm": 2.41,
-  "revenue_change": -24.0,
-  "rpm_change": -34.3,
-  "cpm_change": 17.6,
-  "playbacks_change": -34.7,
+  "last_updated": "2026-09-18 11:55:44 UTC",
+  "period_start": "2026-08-19",
+  "period_end": "2026-09-17",
+  "total_revenue": 54.83,
+  "cpm": 8.62,
+  "monetized_playbacks": 5198,
+  "ad_impressions": 10168,
+  "total_views": 23162,
+  "rpm": 2.37,
+  "revenue_change": -30.8,
+  "rpm_change": -33.9,
+  "cpm_change": 9.5,
+  "playbacks_change": -36.4,
   "revenue_chart": {
     "labels": [
-      "Aug 18",
       "Aug 19",
       "Aug 20",
       "Aug 21",
@@ -41,10 +40,10 @@
       "Sep 11",
       "Sep 12",
       "Sep 13",
-      "Sep 14"
+      "Sep 14",
+      "Sep 15"
     ],
     "values": [
-      4.34,
       1.55,
       1.61,
       1.63,
@@ -71,41 +70,42 @@
       2.17,
       1.45,
       1.31,
-      1.23
+      1.23,
+      0.79
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "revenue": 8.76,
-      "views": 4209,
+      "revenue": 8.85,
+      "views": 4224,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.79,
-      "views": 1016,
+      "revenue": 5.49,
+      "views": 1020,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 5.34,
-      "views": 1556,
+      "revenue": 4.9,
+      "views": 1529,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
       "revenue": 3.5,
-      "views": 490,
+      "views": 493,
       "video_id": "FakqdX9c1ac"
     },
     {
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "revenue": 2.96,
-      "views": 1470,
+      "revenue": 3.05,
+      "views": 1499,
       "video_id": "9Wk6JWDHHN4"
     }
   ],
-  "projected_monthly_revenue": 58.37
+  "projected_monthly_revenue": 54.83
 }
