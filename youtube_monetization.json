@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-09-18 11:55:44 UTC",
-  "period_start": "2026-08-19",
-  "period_end": "2026-09-17",
-  "total_revenue": 54.83,
-  "cpm": 8.62,
-  "monetized_playbacks": 5198,
-  "ad_impressions": 10168,
-  "total_views": 23162,
+  "last_updated": "2026-09-19 11:40:24 UTC",
+  "period_start": "2026-08-20",
+  "period_end": "2026-09-18",
+  "total_revenue": 54.6,
+  "cpm": 8.64,
+  "monetized_playbacks": 5116,
+  "ad_impressions": 10106,
+  "total_views": 23067,
   "rpm": 2.37,
   "revenue_change": -30.8,
-  "rpm_change": -33.9,
-  "cpm_change": 9.5,
-  "playbacks_change": -36.4,
+  "rpm_change": -32.8,
+  "cpm_change": 11.4,
+  "playbacks_change": -37.9,
   "revenue_chart": {
     "labels": [
-      "Aug 19",
       "Aug 20",
       "Aug 21",
       "Aug 22",
@@ -41,10 +40,10 @@
       "Sep 12",
       "Sep 13",
       "Sep 14",
-      "Sep 15"
+      "Sep 15",
+      "Sep 16"
     ],
     "values": [
-      1.55,
       1.61,
       1.63,
       1.81,
@@ -71,7 +70,8 @@
       1.45,
       1.31,
       1.23,
-      0.79
+      0.79,
+      1.32
     ]
   },
   "ad_type_breakdown": {},
@@ -79,33 +79,33 @@
     {
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
       "revenue": 8.85,
-      "views": 4224,
+      "views": 4228,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.49,
-      "views": 1020,
+      "revenue": 5.18,
+      "views": 1008,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 4.9,
-      "views": 1529,
+      "revenue": 4.53,
+      "views": 1462,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
-      "revenue": 3.5,
-      "views": 493,
+      "revenue": 3.55,
+      "views": 498,
       "video_id": "FakqdX9c1ac"
     },
     {
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "revenue": 3.05,
-      "views": 1499,
+      "revenue": 3.2,
+      "views": 1549,
       "video_id": "9Wk6JWDHHN4"
     }
   ],
-  "projected_monthly_revenue": 54.83
+  "projected_monthly_revenue": 54.6
 }
