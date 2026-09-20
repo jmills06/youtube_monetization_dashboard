@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-09-19 11:40:24 UTC",
-  "period_start": "2026-08-20",
-  "period_end": "2026-09-18",
-  "total_revenue": 54.6,
-  "cpm": 8.64,
-  "monetized_playbacks": 5116,
-  "ad_impressions": 10106,
-  "total_views": 23067,
-  "rpm": 2.37,
-  "revenue_change": -30.8,
-  "rpm_change": -32.8,
-  "cpm_change": 11.4,
-  "playbacks_change": -37.9,
+  "last_updated": "2026-09-20 11:53:10 UTC",
+  "period_start": "2026-08-21",
+  "period_end": "2026-09-19",
+  "total_revenue": 53.88,
+  "cpm": 8.57,
+  "monetized_playbacks": 5039,
+  "ad_impressions": 10061,
+  "total_views": 23059,
+  "rpm": 2.34,
+  "revenue_change": -24.6,
+  "rpm_change": -31.9,
+  "cpm_change": 9.0,
+  "playbacks_change": -31.9,
   "revenue_chart": {
     "labels": [
-      "Aug 20",
       "Aug 21",
       "Aug 22",
       "Aug 23",
@@ -41,20 +40,20 @@
       "Sep 13",
       "Sep 14",
       "Sep 15",
-      "Sep 16"
+      "Sep 16",
+      "Sep 17"
     ],
     "values": [
-      1.61,
+      1.62,
+      1.79,
       1.63,
-      1.81,
-      1.63,
-      1.16,
+      1.17,
       1.15,
       1.5,
-      3.12,
+      3.08,
       2.5,
       6.24,
-      3.22,
+      3.26,
       2.55,
       2.1,
       1.47,
@@ -71,41 +70,42 @@
       1.31,
       1.23,
       0.79,
-      1.32
+      1.32,
+      0.89
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "revenue": 8.85,
-      "views": 4228,
+      "revenue": 8.87,
+      "views": 4242,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.18,
-      "views": 1008,
+      "revenue": 5.16,
+      "views": 1015,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 4.53,
-      "views": 1462,
+      "revenue": 4.16,
+      "views": 1395,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
       "revenue": 3.55,
-      "views": 498,
+      "views": 499,
       "video_id": "FakqdX9c1ac"
     },
     {
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "revenue": 3.2,
-      "views": 1549,
+      "revenue": 3.37,
+      "views": 1531,
       "video_id": "9Wk6JWDHHN4"
     }
   ],
-  "projected_monthly_revenue": 54.6
+  "projected_monthly_revenue": 53.88
 }
