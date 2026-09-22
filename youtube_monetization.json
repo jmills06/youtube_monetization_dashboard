@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-09-21 13:25:24 UTC",
-  "period_start": "2026-08-22",
-  "period_end": "2026-09-20",
-  "total_revenue": 52.94,
-  "cpm": 8.54,
-  "monetized_playbacks": 4980,
-  "ad_impressions": 9925,
-  "total_views": 23160,
-  "rpm": 2.29,
-  "revenue_change": -16.1,
-  "rpm_change": -32.7,
-  "cpm_change": 4.0,
-  "playbacks_change": -20.2,
+  "last_updated": "2026-09-22 12:09:54 UTC",
+  "period_start": "2026-08-23",
+  "period_end": "2026-09-21",
+  "total_revenue": 51.73,
+  "cpm": 8.55,
+  "monetized_playbacks": 4850,
+  "ad_impressions": 9666,
+  "total_views": 22936,
+  "rpm": 2.26,
+  "revenue_change": -16.6,
+  "rpm_change": -34.4,
+  "cpm_change": 2.2,
+  "playbacks_change": -19.2,
   "revenue_chart": {
     "labels": [
-      "Aug 22",
       "Aug 23",
       "Aug 24",
       "Aug 25",
@@ -41,10 +40,10 @@
       "Sep 15",
       "Sep 16",
       "Sep 17",
-      "Sep 18"
+      "Sep 18",
+      "Sep 19"
     ],
     "values": [
-      1.79,
       1.63,
       1.17,
       1.15,
@@ -71,7 +70,8 @@
       0.79,
       1.32,
       0.89,
-      0.69
+      0.69,
+      0.58
     ]
   },
   "ad_type_breakdown": {},
@@ -79,33 +79,33 @@
     {
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
       "revenue": 8.87,
-      "views": 4246,
+      "views": 4247,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.12,
-      "views": 1023,
+      "revenue": 5.0,
+      "views": 1032,
       "video_id": "cGQR0gc20OY"
-    },
-    {
-      "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 3.68,
-      "views": 1325,
-      "video_id": "ZYk8IUSeEHI"
     },
     {
       "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
       "revenue": 3.55,
-      "views": 503,
+      "views": 504,
       "video_id": "FakqdX9c1ac"
     },
     {
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
       "revenue": 3.41,
-      "views": 1579,
+      "views": 1540,
       "video_id": "9Wk6JWDHHN4"
+    },
+    {
+      "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
+      "revenue": 3.27,
+      "views": 1268,
+      "video_id": "ZYk8IUSeEHI"
     }
   ],
-  "projected_monthly_revenue": 52.94
+  "projected_monthly_revenue": 51.73
 }
