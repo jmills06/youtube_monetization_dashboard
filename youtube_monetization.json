@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-09-25 12:22:01 UTC",
-  "period_start": "2026-08-26",
-  "period_end": "2026-09-24",
-  "total_revenue": 51.43,
-  "cpm": 8.85,
-  "monetized_playbacks": 4636,
-  "ad_impressions": 9354,
-  "total_views": 22949,
+  "last_updated": "2026-09-26 11:52:55 UTC",
+  "period_start": "2026-08-27",
+  "period_end": "2026-09-25",
+  "total_revenue": 51.29,
+  "cpm": 8.86,
+  "monetized_playbacks": 4574,
+  "ad_impressions": 9299,
+  "total_views": 22869,
   "rpm": 2.24,
-  "revenue_change": -14.6,
-  "rpm_change": -34.4,
-  "cpm_change": 4.6,
-  "playbacks_change": -19.6,
+  "revenue_change": -14.2,
+  "rpm_change": -33.9,
+  "cpm_change": 4.8,
+  "playbacks_change": -20.6,
   "revenue_chart": {
     "labels": [
-      "Aug 26",
       "Aug 27",
       "Aug 28",
       "Aug 29",
@@ -41,10 +40,10 @@
       "Sep 19",
       "Sep 20",
       "Sep 21",
-      "Sep 22"
+      "Sep 22",
+      "Sep 23"
     ],
     "values": [
-      1.5,
       3.08,
       2.5,
       6.24,
@@ -71,41 +70,42 @@
       0.58,
       1.14,
       1.37,
-      1.14
+      1.14,
+      1.35
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "revenue": 8.98,
-      "views": 4268,
+      "revenue": 8.99,
+      "views": 4276,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 4.81,
-      "views": 1040,
+      "revenue": 4.93,
+      "views": 1049,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
-      "revenue": 3.64,
-      "views": 511,
+      "revenue": 3.67,
+      "views": 513,
       "video_id": "FakqdX9c1ac"
     },
     {
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "revenue": 3.51,
-      "views": 1554,
+      "revenue": 3.63,
+      "views": 1564,
       "video_id": "9Wk6JWDHHN4"
     },
     {
-      "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "revenue": 2.85,
-      "views": 1141,
-      "video_id": "ZYk8IUSeEHI"
+      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
+      "revenue": 2.68,
+      "views": 600,
+      "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 51.43
+  "projected_monthly_revenue": 51.29
 }
