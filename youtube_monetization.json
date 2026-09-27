@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-09-26 11:52:55 UTC",
-  "period_start": "2026-08-27",
-  "period_end": "2026-09-25",
-  "total_revenue": 51.29,
-  "cpm": 8.86,
-  "monetized_playbacks": 4574,
-  "ad_impressions": 9299,
-  "total_views": 22869,
-  "rpm": 2.24,
-  "revenue_change": -14.2,
-  "rpm_change": -33.9,
-  "cpm_change": 4.8,
-  "playbacks_change": -20.6,
+  "last_updated": "2026-09-27 12:32:35 UTC",
+  "period_start": "2026-08-28",
+  "period_end": "2026-09-26",
+  "total_revenue": 49.68,
+  "cpm": 8.85,
+  "monetized_playbacks": 4342,
+  "ad_impressions": 9012,
+  "total_views": 21902,
+  "rpm": 2.27,
+  "revenue_change": -15.1,
+  "rpm_change": -29.8,
+  "cpm_change": 4.2,
+  "playbacks_change": -24.5,
   "revenue_chart": {
     "labels": [
-      "Aug 27",
       "Aug 28",
       "Aug 29",
       "Aug 30",
@@ -41,10 +40,10 @@
       "Sep 20",
       "Sep 21",
       "Sep 22",
-      "Sep 23"
+      "Sep 23",
+      "Sep 24"
     ],
     "values": [
-      3.08,
       2.5,
       6.24,
       3.26,
@@ -71,41 +70,42 @@
       1.14,
       1.37,
       1.14,
-      1.35
+      1.35,
+      1.47
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "revenue": 8.99,
-      "views": 4276,
+      "revenue": 9.01,
+      "views": 4281,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 4.93,
-      "views": 1049,
+      "revenue": 4.6,
+      "views": 1043,
       "video_id": "cGQR0gc20OY"
     },
     {
-      "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
-      "revenue": 3.67,
-      "views": 513,
-      "video_id": "FakqdX9c1ac"
-    },
-    {
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "revenue": 3.63,
-      "views": 1564,
+      "revenue": 3.72,
+      "views": 1574,
       "video_id": "9Wk6JWDHHN4"
     },
     {
+      "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
+      "revenue": 3.68,
+      "views": 518,
+      "video_id": "FakqdX9c1ac"
+    },
+    {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 2.68,
-      "views": 600,
+      "revenue": 2.95,
+      "views": 614,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 51.29
+  "projected_monthly_revenue": 49.68
 }
