@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-09-27 12:32:35 UTC",
-  "period_start": "2026-08-28",
-  "period_end": "2026-09-26",
-  "total_revenue": 49.68,
-  "cpm": 8.85,
-  "monetized_playbacks": 4342,
-  "ad_impressions": 9012,
-  "total_views": 21902,
-  "rpm": 2.27,
-  "revenue_change": -15.1,
-  "rpm_change": -29.8,
-  "cpm_change": 4.2,
-  "playbacks_change": -24.5,
+  "last_updated": "2026-09-28 14:37:12 UTC",
+  "period_start": "2026-08-29",
+  "period_end": "2026-09-27",
+  "total_revenue": 53.08,
+  "cpm": 9.2,
+  "monetized_playbacks": 4353,
+  "ad_impressions": 9243,
+  "total_views": 23133,
+  "rpm": 2.29,
+  "revenue_change": -6.1,
+  "rpm_change": -24.8,
+  "cpm_change": 9.3,
+  "playbacks_change": -23.4,
   "revenue_chart": {
     "labels": [
-      "Aug 28",
       "Aug 29",
       "Aug 30",
       "Aug 31",
@@ -41,10 +40,10 @@
       "Sep 21",
       "Sep 22",
       "Sep 23",
-      "Sep 24"
+      "Sep 24",
+      "Sep 25"
     ],
     "values": [
-      2.5,
       6.24,
       3.26,
       2.55,
@@ -71,7 +70,8 @@
       1.37,
       1.14,
       1.35,
-      1.47
+      1.47,
+      5.9
     ]
   },
   "ad_type_breakdown": {},
@@ -79,33 +79,33 @@
     {
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
       "revenue": 9.01,
-      "views": 4281,
+      "views": 4285,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 4.6,
-      "views": 1043,
+      "revenue": 4.55,
+      "views": 989,
       "video_id": "cGQR0gc20OY"
     },
     {
+      "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
+      "revenue": 4.0,
+      "views": 1211,
+      "video_id": "LwICFz2gx1w"
+    },
+    {
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "revenue": 3.72,
-      "views": 1574,
+      "revenue": 3.74,
+      "views": 1582,
       "video_id": "9Wk6JWDHHN4"
     },
     {
       "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
       "revenue": 3.68,
-      "views": 518,
+      "views": 522,
       "video_id": "FakqdX9c1ac"
-    },
-    {
-      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 2.95,
-      "views": 614,
-      "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 49.68
+  "projected_monthly_revenue": 53.08
 }
