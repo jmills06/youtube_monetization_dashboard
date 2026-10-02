@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-10-01 13:58:28 UTC",
-  "period_start": "2026-09-01",
-  "period_end": "2026-09-30",
-  "total_revenue": 46.5,
-  "cpm": 9.31,
-  "monetized_playbacks": 3746,
-  "ad_impressions": 8012,
-  "total_views": 19891,
-  "rpm": 2.34,
-  "revenue_change": -24.3,
-  "rpm_change": -11.5,
-  "cpm_change": 8.2,
-  "playbacks_change": -37.0,
+  "last_updated": "2026-10-02 13:16:33 UTC",
+  "period_start": "2026-09-02",
+  "period_end": "2026-10-01",
+  "total_revenue": 45.37,
+  "cpm": 9.28,
+  "monetized_playbacks": 3690,
+  "ad_impressions": 7833,
+  "total_views": 19523,
+  "rpm": 2.32,
+  "revenue_change": -25.7,
+  "rpm_change": -10.2,
+  "cpm_change": 8.7,
+  "playbacks_change": -37.5,
   "revenue_chart": {
     "labels": [
-      "Sep 01",
       "Sep 02",
       "Sep 03",
       "Sep 04",
@@ -41,10 +40,10 @@
       "Sep 25",
       "Sep 26",
       "Sep 27",
-      "Sep 28"
+      "Sep 28",
+      "Sep 29"
     ],
     "values": [
-      2.1,
       1.47,
       3.12,
       1.82,
@@ -71,41 +70,42 @@
       5.9,
       2.42,
       1.66,
-      1.4
+      1.4,
+      0.97
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-      "revenue": 6.57,
-      "views": 2485,
+      "revenue": 6.88,
+      "views": 2605,
       "video_id": "LwICFz2gx1w"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 4.64,
-      "views": 954,
+      "revenue": 4.42,
+      "views": 941,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "revenue": 3.83,
-      "views": 1601,
+      "revenue": 3.84,
+      "views": 1612,
       "video_id": "9Wk6JWDHHN4"
     },
     {
       "title": "DIY Digipeater at Detroit's Historic Masonic Temple",
       "revenue": 3.68,
-      "views": 525,
+      "views": 529,
       "video_id": "FakqdX9c1ac"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
       "revenue": 3.03,
-      "views": 618,
+      "views": 614,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 46.5
+  "projected_monthly_revenue": 45.37
 }
