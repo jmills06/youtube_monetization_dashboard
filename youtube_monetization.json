@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-10-04 12:53:53 UTC",
-  "period_start": "2026-09-04",
-  "period_end": "2026-10-03",
-  "total_revenue": 45.47,
-  "cpm": 9.26,
-  "monetized_playbacks": 3701,
-  "ad_impressions": 7862,
-  "total_views": 19682,
-  "rpm": 2.31,
-  "revenue_change": -27.5,
-  "rpm_change": -10.1,
-  "cpm_change": 6.6,
-  "playbacks_change": -37.6,
+  "last_updated": "2026-10-05 15:20:59 UTC",
+  "period_start": "2026-09-05",
+  "period_end": "2026-10-04",
+  "total_revenue": 47.55,
+  "cpm": 9.2,
+  "monetized_playbacks": 3901,
+  "ad_impressions": 8300,
+  "total_views": 20509,
+  "rpm": 2.32,
+  "revenue_change": -25.3,
+  "rpm_change": -9.5,
+  "cpm_change": 4.6,
+  "playbacks_change": -34.4,
   "revenue_chart": {
     "labels": [
-      "Sep 04",
       "Sep 05",
       "Sep 06",
       "Sep 07",
@@ -41,10 +40,10 @@
       "Sep 28",
       "Sep 29",
       "Sep 30",
-      "Oct 01"
+      "Oct 01",
+      "Oct 02"
     ],
     "values": [
-      1.82,
       1.26,
       1.54,
       1.47,
@@ -71,41 +70,42 @@
       1.4,
       0.97,
       1.66,
-      3.04
+      3.04,
+      3.9
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-      "revenue": 7.85,
-      "views": 2873,
+      "revenue": 8.4,
+      "views": 2965,
       "video_id": "LwICFz2gx1w"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 4.47,
-      "views": 876,
+      "revenue": 4.17,
+      "views": 879,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "revenue": 4,
-      "views": 1640,
+      "revenue": 4.06,
+      "views": 1659,
       "video_id": "9Wk6JWDHHN4"
     },
     {
-      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 3.0,
-      "views": 621,
-      "video_id": "JTFErg-neu8"
+      "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
+      "revenue": 4.02,
+      "views": 1749,
+      "video_id": "jn6-BdDVQzI"
     },
     {
-      "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "revenue": 2.28,
-      "views": 245,
-      "video_id": "JivWdc2BbIs"
+      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
+      "revenue": 2.92,
+      "views": 609,
+      "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 45.47
+  "projected_monthly_revenue": 47.55
 }
