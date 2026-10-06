@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-10-05 15:20:59 UTC",
-  "period_start": "2026-09-05",
-  "period_end": "2026-10-04",
-  "total_revenue": 47.55,
-  "cpm": 9.2,
-  "monetized_playbacks": 3901,
-  "ad_impressions": 8300,
-  "total_views": 20509,
-  "rpm": 2.32,
-  "revenue_change": -25.3,
-  "rpm_change": -9.5,
-  "cpm_change": 4.6,
-  "playbacks_change": -34.4,
+  "last_updated": "2026-10-06 13:42:27 UTC",
+  "period_start": "2026-09-06",
+  "period_end": "2026-10-05",
+  "total_revenue": 47.9,
+  "cpm": 9.15,
+  "monetized_playbacks": 3946,
+  "ad_impressions": 8409,
+  "total_views": 20560,
+  "rpm": 2.33,
+  "revenue_change": -23.2,
+  "rpm_change": -9.7,
+  "cpm_change": 3.6,
+  "playbacks_change": -32.8,
   "revenue_chart": {
     "labels": [
-      "Sep 05",
       "Sep 06",
       "Sep 07",
       "Sep 08",
@@ -41,10 +40,10 @@
       "Sep 29",
       "Sep 30",
       "Oct 01",
-      "Oct 02"
+      "Oct 02",
+      "Oct 03"
     ],
     "values": [
-      1.26,
       1.54,
       1.47,
       1.1,
@@ -71,41 +70,42 @@
       0.97,
       1.66,
       3.04,
-      3.9
+      3.9,
+      1.62
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-      "revenue": 8.4,
-      "views": 2965,
+      "revenue": 8.58,
+      "views": 3038,
       "video_id": "LwICFz2gx1w"
     },
     {
+      "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
+      "revenue": 4.59,
+      "views": 2018,
+      "video_id": "jn6-BdDVQzI"
+    },
+    {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 4.17,
-      "views": 879,
+      "revenue": 4.33,
+      "views": 891,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "revenue": 4.06,
-      "views": 1659,
+      "revenue": 4.15,
+      "views": 1665,
       "video_id": "9Wk6JWDHHN4"
     },
     {
-      "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "revenue": 4.02,
-      "views": 1749,
-      "video_id": "jn6-BdDVQzI"
-    },
-    {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 2.92,
-      "views": 609,
+      "revenue": 2.9,
+      "views": 616,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 47.55
+  "projected_monthly_revenue": 47.9
 }
