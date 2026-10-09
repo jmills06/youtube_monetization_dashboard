@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-10-08 14:07:34 UTC",
-  "period_start": "2026-09-08",
-  "period_end": "2026-10-07",
-  "total_revenue": 48.6,
-  "cpm": 9.05,
-  "monetized_playbacks": 3960,
-  "ad_impressions": 8664,
-  "total_views": 20680,
-  "rpm": 2.35,
-  "revenue_change": -22.4,
-  "rpm_change": -12.3,
-  "cpm_change": 1.1,
-  "playbacks_change": -32.0,
+  "last_updated": "2026-10-09 13:55:10 UTC",
+  "period_start": "2026-09-09",
+  "period_end": "2026-10-08",
+  "total_revenue": 50.58,
+  "cpm": 9.11,
+  "monetized_playbacks": 4052,
+  "ad_impressions": 8960,
+  "total_views": 21109,
+  "rpm": 2.4,
+  "revenue_change": -19.4,
+  "rpm_change": -10.5,
+  "cpm_change": 0.5,
+  "playbacks_change": -30.2,
   "revenue_chart": {
     "labels": [
-      "Sep 08",
       "Sep 09",
       "Sep 10",
       "Sep 11",
@@ -41,10 +40,10 @@
       "Oct 02",
       "Oct 03",
       "Oct 04",
-      "Oct 05"
+      "Oct 05",
+      "Oct 06"
     ],
     "values": [
-      1.1,
       1.04,
       3.31,
       2.17,
@@ -71,41 +70,42 @@
       3.9,
       1.62,
       2.69,
-      1.01
+      1.01,
+      3.08
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-      "revenue": 9.1,
-      "views": 3208,
+      "revenue": 9.29,
+      "views": 3294,
       "video_id": "LwICFz2gx1w"
     },
     {
       "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "revenue": 5.73,
-      "views": 2481,
+      "revenue": 5.93,
+      "views": 2523,
       "video_id": "jn6-BdDVQzI"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 4.47,
-      "views": 915,
+      "revenue": 4.76,
+      "views": 934,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "revenue": 4.17,
-      "views": 1661,
+      "revenue": 4.2,
+      "views": 1666,
       "video_id": "9Wk6JWDHHN4"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 2.92,
-      "views": 624,
+      "revenue": 2.9,
+      "views": 618,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 48.6
+  "projected_monthly_revenue": 50.58
 }
