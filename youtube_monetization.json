@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-10-21 12:29:49 UTC",
-  "period_start": "2026-09-21",
-  "period_end": "2026-10-20",
-  "total_revenue": 55.64,
-  "cpm": 9.95,
-  "monetized_playbacks": 4085,
-  "ad_impressions": 8927,
-  "total_views": 21300,
-  "rpm": 2.61,
-  "revenue_change": 1.7,
-  "rpm_change": 13.3,
-  "cpm_change": 16.0,
-  "playbacks_change": -20.3,
+  "last_updated": "2026-10-22 12:34:12 UTC",
+  "period_start": "2026-09-22",
+  "period_end": "2026-10-21",
+  "total_revenue": 55.09,
+  "cpm": 9.87,
+  "monetized_playbacks": 4081,
+  "ad_impressions": 8887,
+  "total_views": 21213,
+  "rpm": 2.6,
+  "revenue_change": 1.5,
+  "rpm_change": 14.1,
+  "cpm_change": 14.1,
+  "playbacks_change": -18.9,
   "revenue_chart": {
     "labels": [
-      "Sep 21",
       "Sep 22",
       "Sep 23",
       "Sep 24",
@@ -41,10 +40,10 @@
       "Oct 15",
       "Oct 16",
       "Oct 17",
-      "Oct 18"
+      "Oct 18",
+      "Oct 19"
     ],
     "values": [
-      1.37,
       1.14,
       1.35,
       1.47,
@@ -71,41 +70,42 @@
       0.94,
       1.57,
       1.49,
-      1.32
+      1.32,
+      0.83
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-      "revenue": 10.66,
-      "views": 3615,
+      "revenue": 10.69,
+      "views": 3638,
       "video_id": "LwICFz2gx1w"
     },
     {
       "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "revenue": 6.23,
-      "views": 2643,
+      "revenue": 6.24,
+      "views": 2648,
       "video_id": "jn6-BdDVQzI"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.21,
-      "views": 1026,
+      "revenue": 5.19,
+      "views": 1015,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "revenue": 4.89,
-      "views": 1055,
+      "revenue": 4.94,
+      "views": 1067,
       "video_id": "MhjirNwRR7A"
     },
     {
       "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
       "revenue": 3.41,
-      "views": 1099,
+      "views": 1101,
       "video_id": "h8PsigNNfuk"
     }
   ],
-  "projected_monthly_revenue": 55.64
+  "projected_monthly_revenue": 55.09
 }
