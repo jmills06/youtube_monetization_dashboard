@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-10-27 12:48:35 UTC",
-  "period_start": "2026-09-27",
-  "period_end": "2026-10-26",
-  "total_revenue": 48.56,
-  "cpm": 9.83,
-  "monetized_playbacks": 3696,
-  "ad_impressions": 7853,
-  "total_views": 18944,
-  "rpm": 2.56,
-  "revenue_change": -16.3,
-  "rpm_change": 13.1,
-  "cpm_change": 6.9,
-  "playbacks_change": -23.9,
+  "last_updated": "2026-10-28 13:37:32 UTC",
+  "period_start": "2026-09-28",
+  "period_end": "2026-10-27",
+  "total_revenue": 47.73,
+  "cpm": 9.99,
+  "monetized_playbacks": 3613,
+  "ad_impressions": 7600,
+  "total_views": 18553,
+  "rpm": 2.57,
+  "revenue_change": -16.6,
+  "rpm_change": 14.0,
+  "cpm_change": 8.7,
+  "playbacks_change": -23.0,
   "revenue_chart": {
     "labels": [
-      "Sep 27",
       "Sep 28",
       "Sep 29",
       "Sep 30",
@@ -41,10 +40,10 @@
       "Oct 21",
       "Oct 22",
       "Oct 23",
-      "Oct 24"
+      "Oct 24",
+      "Oct 25"
     ],
     "values": [
-      1.67,
       1.4,
       0.97,
       1.66,
@@ -71,7 +70,8 @@
       0.82,
       1.11,
       0.8,
-      1.13
+      1.13,
+      0.84
     ]
   },
   "ad_type_breakdown": {},
@@ -83,29 +83,29 @@
       "video_id": "jn6-BdDVQzI"
     },
     {
-      "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-      "revenue": 5.51,
-      "views": 1895,
-      "video_id": "LwICFz2gx1w"
-    },
-    {
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
       "revenue": 5.09,
-      "views": 1134,
+      "views": 1150,
       "video_id": "MhjirNwRR7A"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.02,
-      "views": 1005,
+      "revenue": 5.01,
+      "views": 1004,
       "video_id": "cGQR0gc20OY"
     },
     {
+      "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
+      "revenue": 4.92,
+      "views": 1560,
+      "video_id": "LwICFz2gx1w"
+    },
+    {
       "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
-      "revenue": 3.67,
-      "views": 1122,
+      "revenue": 3.68,
+      "views": 1125,
       "video_id": "h8PsigNNfuk"
     }
   ],
-  "projected_monthly_revenue": 48.56
+  "projected_monthly_revenue": 47.73
 }
