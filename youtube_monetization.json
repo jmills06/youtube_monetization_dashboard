@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-10-30 13:40:45 UTC",
-  "period_start": "2026-09-30",
-  "period_end": "2026-10-29",
-  "total_revenue": 48.09,
-  "cpm": 10.21,
-  "monetized_playbacks": 3562,
-  "ad_impressions": 7562,
-  "total_views": 17989,
+  "last_updated": "2026-10-31 13:08:39 UTC",
+  "period_start": "2026-10-01",
+  "period_end": "2026-10-30",
+  "total_revenue": 47.32,
+  "cpm": 10.14,
+  "monetized_playbacks": 3517,
+  "ad_impressions": 7493,
+  "total_views": 17706,
   "rpm": 2.67,
-  "revenue_change": -3.9,
-  "rpm_change": 16.7,
-  "cpm_change": 9.5,
-  "playbacks_change": -12.7,
+  "revenue_change": -3.8,
+  "rpm_change": 14.4,
+  "cpm_change": 8.4,
+  "playbacks_change": -11.4,
   "revenue_chart": {
     "labels": [
-      "Sep 30",
       "Oct 01",
       "Oct 02",
       "Oct 03",
@@ -41,10 +40,10 @@
       "Oct 24",
       "Oct 25",
       "Oct 26",
-      "Oct 27"
+      "Oct 27",
+      "Oct 28"
     ],
     "values": [
-      1.66,
       3.04,
       3.9,
       1.62,
@@ -71,41 +70,42 @@
       1.13,
       0.84,
       1.62,
-      1.11
+      1.11,
+      0.89
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "revenue": 6.46,
-      "views": 2663,
+      "revenue": 6.49,
+      "views": 2666,
       "video_id": "jn6-BdDVQzI"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
       "revenue": 5.46,
-      "views": 1026,
+      "views": 1034,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
       "revenue": 5.13,
-      "views": 1161,
+      "views": 1163,
       "video_id": "MhjirNwRR7A"
     },
     {
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-      "revenue": 4.34,
-      "views": 1157,
+      "revenue": 3.82,
+      "views": 1065,
       "video_id": "LwICFz2gx1w"
     },
     {
       "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
-      "revenue": 3.68,
-      "views": 1131,
+      "revenue": 3.71,
+      "views": 1132,
       "video_id": "h8PsigNNfuk"
     }
   ],
-  "projected_monthly_revenue": 48.09
+  "projected_monthly_revenue": 47.32
 }
