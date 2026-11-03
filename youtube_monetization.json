@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-02 16:38:06 UTC",
-  "period_start": "2026-10-03",
-  "period_end": "2026-11-01",
-  "total_revenue": 42.92,
-  "cpm": 10.57,
-  "monetized_playbacks": 3104,
-  "ad_impressions": 6562,
-  "total_views": 15612,
-  "rpm": 2.75,
-  "revenue_change": -18.3,
-  "rpm_change": 16.6,
-  "cpm_change": 13.7,
-  "playbacks_change": -27.4,
+  "last_updated": "2026-11-03 14:42:20 UTC",
+  "period_start": "2026-10-04",
+  "period_end": "2026-11-02",
+  "total_revenue": 42.86,
+  "cpm": 10.66,
+  "monetized_playbacks": 3101,
+  "ad_impressions": 6496,
+  "total_views": 15646,
+  "rpm": 2.74,
+  "revenue_change": -16.0,
+  "rpm_change": 18.4,
+  "cpm_change": 16.4,
+  "playbacks_change": -26.4,
   "revenue_chart": {
     "labels": [
-      "Oct 03",
       "Oct 04",
       "Oct 05",
       "Oct 06",
@@ -41,10 +40,10 @@
       "Oct 27",
       "Oct 28",
       "Oct 29",
-      "Oct 30"
+      "Oct 30",
+      "Oct 31"
     ],
     "values": [
-      1.62,
       2.69,
       1.01,
       3.08,
@@ -71,22 +70,23 @@
       1.11,
       0.89,
       1.72,
-      0.82
+      0.82,
+      1.55
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
-      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.34,
-      "views": 1017,
-      "video_id": "cGQR0gc20OY"
-    },
-    {
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
       "revenue": 5.27,
-      "views": 1179,
+      "views": 1188,
       "video_id": "MhjirNwRR7A"
+    },
+    {
+      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
+      "revenue": 5.21,
+      "views": 1027,
+      "video_id": "cGQR0gc20OY"
     },
     {
       "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
@@ -96,16 +96,16 @@
     },
     {
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-      "revenue": 2.92,
-      "views": 831,
+      "revenue": 2.76,
+      "views": 771,
       "video_id": "LwICFz2gx1w"
     },
     {
-      "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "revenue": 2.5,
-      "views": 923,
-      "video_id": "jn6-BdDVQzI"
+      "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
+      "revenue": 2.13,
+      "views": 345,
+      "video_id": "UtSuCqs9p74"
     }
   ],
-  "projected_monthly_revenue": 42.92
+  "projected_monthly_revenue": 42.86
 }
