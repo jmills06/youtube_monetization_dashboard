@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-03 14:42:20 UTC",
-  "period_start": "2026-10-04",
-  "period_end": "2026-11-02",
-  "total_revenue": 42.86,
-  "cpm": 10.66,
-  "monetized_playbacks": 3101,
-  "ad_impressions": 6496,
-  "total_views": 15646,
-  "rpm": 2.74,
-  "revenue_change": -16.0,
-  "rpm_change": 18.4,
-  "cpm_change": 16.4,
+  "last_updated": "2026-11-04 14:54:55 UTC",
+  "period_start": "2026-10-05",
+  "period_end": "2026-11-03",
+  "total_revenue": 41.82,
+  "cpm": 10.85,
+  "monetized_playbacks": 3099,
+  "ad_impressions": 6228,
+  "total_views": 15669,
+  "rpm": 2.67,
+  "revenue_change": -19.4,
+  "rpm_change": 13.1,
+  "cpm_change": 19.3,
   "playbacks_change": -26.4,
   "revenue_chart": {
     "labels": [
-      "Oct 04",
       "Oct 05",
       "Oct 06",
       "Oct 07",
@@ -41,10 +40,10 @@
       "Oct 28",
       "Oct 29",
       "Oct 30",
-      "Oct 31"
+      "Oct 31",
+      "Nov 01"
     ],
     "values": [
-      2.69,
       1.01,
       3.08,
       2.71,
@@ -71,41 +70,42 @@
       0.89,
       1.72,
       0.82,
-      1.55
+      1.55,
+      1.65
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "revenue": 5.27,
-      "views": 1188,
+      "revenue": 5.29,
+      "views": 1191,
       "video_id": "MhjirNwRR7A"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.21,
-      "views": 1027,
+      "revenue": 5.23,
+      "views": 1015,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
       "revenue": 3.79,
-      "views": 1133,
+      "views": 1129,
       "video_id": "h8PsigNNfuk"
     },
     {
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-      "revenue": 2.76,
-      "views": 771,
+      "revenue": 2.5,
+      "views": 723,
       "video_id": "LwICFz2gx1w"
     },
     {
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "revenue": 2.13,
-      "views": 345,
+      "revenue": 2.04,
+      "views": 330,
       "video_id": "UtSuCqs9p74"
     }
   ],
-  "projected_monthly_revenue": 42.86
+  "projected_monthly_revenue": 41.82
 }
