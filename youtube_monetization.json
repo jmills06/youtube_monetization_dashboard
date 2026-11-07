@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-06 14:39:39 UTC",
-  "period_start": "2026-10-07",
-  "period_end": "2026-11-05",
-  "total_revenue": 40.24,
-  "cpm": 10.94,
-  "monetized_playbacks": 3034,
-  "ad_impressions": 5959,
-  "total_views": 15403,
-  "rpm": 2.61,
-  "revenue_change": -24.4,
-  "rpm_change": 8.5,
-  "cpm_change": 19.4,
-  "playbacks_change": -28.8,
+  "last_updated": "2026-11-07 13:37:39 UTC",
+  "period_start": "2026-10-08",
+  "period_end": "2026-11-06",
+  "total_revenue": 39.75,
+  "cpm": 11.1,
+  "monetized_playbacks": 2943,
+  "ad_impressions": 5774,
+  "total_views": 14981,
+  "rpm": 2.65,
+  "revenue_change": -27.0,
+  "rpm_change": 9.9,
+  "cpm_change": 20.7,
+  "playbacks_change": -32.5,
   "revenue_chart": {
     "labels": [
-      "Oct 07",
       "Oct 08",
       "Oct 09",
       "Oct 10",
@@ -41,10 +40,10 @@
       "Oct 31",
       "Nov 01",
       "Nov 02",
-      "Nov 03"
+      "Nov 03",
+      "Nov 04"
     ],
     "values": [
-      2.71,
       5.3,
       1.16,
       1.06,
@@ -71,41 +70,42 @@
       1.55,
       1.65,
       1.35,
-      1.16
+      1.16,
+      2.23
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "revenue": 5.33,
-      "views": 1207,
+      "revenue": 5.34,
+      "views": 1203,
       "video_id": "MhjirNwRR7A"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 4.97,
-      "views": 1007,
+      "revenue": 5.05,
+      "views": 984,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "revenue": 2.28,
-      "views": 343,
+      "revenue": 2.19,
+      "views": 344,
       "video_id": "UtSuCqs9p74"
     },
     {
-      "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
-      "revenue": 2.25,
-      "views": 724,
-      "video_id": "h8PsigNNfuk"
+      "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
+      "revenue": 2.08,
+      "views": 606,
+      "video_id": "JTFErg-neu8"
     },
     {
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-      "revenue": 2.12,
-      "views": 547,
+      "revenue": 2.06,
+      "views": 509,
       "video_id": "LwICFz2gx1w"
     }
   ],
-  "projected_monthly_revenue": 40.24
+  "projected_monthly_revenue": 39.75
 }
