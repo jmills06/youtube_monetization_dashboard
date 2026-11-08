@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-07 13:37:39 UTC",
-  "period_start": "2026-10-08",
-  "period_end": "2026-11-06",
-  "total_revenue": 39.75,
-  "cpm": 11.1,
-  "monetized_playbacks": 2943,
-  "ad_impressions": 5774,
-  "total_views": 14981,
-  "rpm": 2.65,
-  "revenue_change": -27.0,
-  "rpm_change": 9.9,
-  "cpm_change": 20.7,
-  "playbacks_change": -32.5,
+  "last_updated": "2026-11-08 13:56:06 UTC",
+  "period_start": "2026-10-09",
+  "period_end": "2026-11-07",
+  "total_revenue": 43.97,
+  "cpm": 10.36,
+  "monetized_playbacks": 3498,
+  "ad_impressions": 6769,
+  "total_views": 17520,
+  "rpm": 2.51,
+  "revenue_change": -25.0,
+  "rpm_change": -0.7,
+  "cpm_change": 10.3,
+  "playbacks_change": -22.4,
   "revenue_chart": {
     "labels": [
-      "Oct 08",
       "Oct 09",
       "Oct 10",
       "Oct 11",
@@ -41,10 +40,10 @@
       "Nov 01",
       "Nov 02",
       "Nov 03",
-      "Nov 04"
+      "Nov 04",
+      "Nov 05"
     ],
     "values": [
-      5.3,
       1.16,
       1.06,
       1.42,
@@ -71,41 +70,42 @@
       1.65,
       1.35,
       1.16,
-      2.23
+      2.23,
+      9.52
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
-      "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "revenue": 5.34,
-      "views": 1203,
-      "video_id": "MhjirNwRR7A"
+      "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
+      "revenue": 8.24,
+      "views": 3007,
+      "video_id": "o3IvIljMYcA"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.05,
-      "views": 984,
+      "revenue": 4.87,
+      "views": 968,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "revenue": 2.19,
-      "views": 344,
+      "revenue": 2.18,
+      "views": 338,
       "video_id": "UtSuCqs9p74"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 2.08,
-      "views": 606,
+      "revenue": 2.05,
+      "views": 610,
       "video_id": "JTFErg-neu8"
     },
     {
-      "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-      "revenue": 2.06,
-      "views": 509,
-      "video_id": "LwICFz2gx1w"
+      "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
+      "revenue": 1.98,
+      "views": 609,
+      "video_id": "MhjirNwRR7A"
     }
   ],
-  "projected_monthly_revenue": 39.75
+  "projected_monthly_revenue": 43.97
 }
