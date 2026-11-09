@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-08 13:56:06 UTC",
-  "period_start": "2026-10-09",
-  "period_end": "2026-11-07",
-  "total_revenue": 43.97,
-  "cpm": 10.36,
-  "monetized_playbacks": 3498,
-  "ad_impressions": 6769,
-  "total_views": 17520,
-  "rpm": 2.51,
-  "revenue_change": -25.0,
-  "rpm_change": -0.7,
-  "cpm_change": 10.3,
-  "playbacks_change": -22.4,
+  "last_updated": "2026-11-09 16:55:47 UTC",
+  "period_start": "2026-10-10",
+  "period_end": "2026-11-08",
+  "total_revenue": 50.85,
+  "cpm": 9.99,
+  "monetized_playbacks": 4125,
+  "ad_impressions": 8117,
+  "total_views": 20017,
+  "rpm": 2.54,
+  "revenue_change": -13.4,
+  "rpm_change": 0.6,
+  "cpm_change": 6.2,
+  "playbacks_change": -8.2,
   "revenue_chart": {
     "labels": [
-      "Oct 09",
       "Oct 10",
       "Oct 11",
       "Oct 12",
@@ -41,10 +40,10 @@
       "Nov 02",
       "Nov 03",
       "Nov 04",
-      "Nov 05"
+      "Nov 05",
+      "Nov 06"
     ],
     "values": [
-      1.16,
       1.06,
       1.42,
       1.14,
@@ -71,41 +70,42 @@
       1.35,
       1.16,
       2.23,
-      9.52
+      9.52,
+      8.03
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "revenue": 8.24,
-      "views": 3007,
+      "revenue": 10.88,
+      "views": 4026,
       "video_id": "o3IvIljMYcA"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 4.87,
-      "views": 968,
+      "revenue": 5.02,
+      "views": 971,
       "video_id": "cGQR0gc20OY"
     },
     {
+      "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
+      "revenue": 3.52,
+      "views": 1197,
+      "video_id": "JV4nTSKaWgY"
+    },
+    {
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "revenue": 2.18,
-      "views": 338,
+      "revenue": 2.2,
+      "views": 344,
       "video_id": "UtSuCqs9p74"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 2.05,
-      "views": 610,
+      "revenue": 2.09,
+      "views": 615,
       "video_id": "JTFErg-neu8"
-    },
-    {
-      "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "revenue": 1.98,
-      "views": 609,
-      "video_id": "MhjirNwRR7A"
     }
   ],
-  "projected_monthly_revenue": 43.97
+  "projected_monthly_revenue": 50.85
 }
