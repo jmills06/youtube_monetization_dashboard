@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-09 16:55:47 UTC",
-  "period_start": "2026-10-10",
-  "period_end": "2026-11-08",
-  "total_revenue": 50.85,
-  "cpm": 9.99,
-  "monetized_playbacks": 4125,
-  "ad_impressions": 8117,
-  "total_views": 20017,
-  "rpm": 2.54,
-  "revenue_change": -13.4,
-  "rpm_change": 0.6,
-  "cpm_change": 6.2,
-  "playbacks_change": -8.2,
+  "last_updated": "2026-11-10 15:16:16 UTC",
+  "period_start": "2026-10-11",
+  "period_end": "2026-11-09",
+  "total_revenue": 55.74,
+  "cpm": 9.66,
+  "monetized_playbacks": 4523,
+  "ad_impressions": 9218,
+  "total_views": 23032,
+  "rpm": 2.42,
+  "revenue_change": -1.3,
+  "rpm_change": -1.8,
+  "cpm_change": 3.9,
+  "playbacks_change": 2.8,
   "revenue_chart": {
     "labels": [
-      "Oct 10",
       "Oct 11",
       "Oct 12",
       "Oct 13",
@@ -41,10 +40,10 @@
       "Nov 03",
       "Nov 04",
       "Nov 05",
-      "Nov 06"
+      "Nov 06",
+      "Nov 07"
     ],
     "values": [
-      1.06,
       1.42,
       1.14,
       1.5,
@@ -71,41 +70,42 @@
       1.16,
       2.23,
       9.52,
-      8.03
+      8.03,
+      5.95
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "revenue": 10.88,
-      "views": 4026,
+      "revenue": 11.56,
+      "views": 4372,
       "video_id": "o3IvIljMYcA"
     },
     {
-      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.02,
-      "views": 971,
-      "video_id": "cGQR0gc20OY"
-    },
-    {
       "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
-      "revenue": 3.52,
-      "views": 1197,
+      "revenue": 7.34,
+      "views": 2759,
       "video_id": "JV4nTSKaWgY"
     },
     {
+      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
+      "revenue": 5.1,
+      "views": 976,
+      "video_id": "cGQR0gc20OY"
+    },
+    {
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "revenue": 2.2,
-      "views": 344,
+      "revenue": 2.3,
+      "views": 352,
       "video_id": "UtSuCqs9p74"
     },
     {
       "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-      "revenue": 2.09,
-      "views": 615,
+      "revenue": 2.13,
+      "views": 614,
       "video_id": "JTFErg-neu8"
     }
   ],
-  "projected_monthly_revenue": 50.85
+  "projected_monthly_revenue": 55.74
 }
