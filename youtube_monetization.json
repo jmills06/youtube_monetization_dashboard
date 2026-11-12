@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-11 14:45:57 UTC",
-  "period_start": "2026-10-12",
-  "period_end": "2026-11-10",
-  "total_revenue": 72.08,
-  "cpm": 9.46,
-  "monetized_playbacks": 6569,
-  "ad_impressions": 12323,
-  "total_views": 32791,
-  "rpm": 2.2,
-  "revenue_change": 29.3,
-  "rpm_change": -11.2,
-  "cpm_change": 1.4,
-  "playbacks_change": 52.0,
+  "last_updated": "2026-11-12 15:38:50 UTC",
+  "period_start": "2026-10-13",
+  "period_end": "2026-11-11",
+  "total_revenue": 77.96,
+  "cpm": 9.38,
+  "monetized_playbacks": 7276,
+  "ad_impressions": 13480,
+  "total_views": 35863,
+  "rpm": 2.17,
+  "revenue_change": 40.7,
+  "rpm_change": -12.6,
+  "cpm_change": -0.3,
+  "playbacks_change": 70.2,
   "revenue_chart": {
     "labels": [
-      "Oct 12",
       "Oct 13",
       "Oct 14",
       "Oct 15",
@@ -41,10 +40,10 @@
       "Nov 05",
       "Nov 06",
       "Nov 07",
-      "Nov 08"
+      "Nov 08",
+      "Nov 09"
     ],
     "values": [
-      1.14,
       1.5,
       1.33,
       0.94,
@@ -55,11 +54,11 @@
       1.89,
       0.82,
       1.11,
-      0.8,
+      0.79,
       1.13,
       0.84,
       1.62,
-      1.11,
+      1.12,
       0.89,
       1.72,
       0.82,
@@ -71,41 +70,42 @@
       9.52,
       8.03,
       5.95,
-      17.76
+      17.76,
+      7.01
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
-      "revenue": 13.64,
-      "views": 9010,
+      "revenue": 18.26,
+      "views": 11537,
       "video_id": "kuN7OPls0W0"
     },
     {
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "revenue": 11.87,
-      "views": 4516,
+      "revenue": 12.03,
+      "views": 4588,
       "video_id": "o3IvIljMYcA"
     },
     {
       "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
-      "revenue": 10.12,
-      "views": 3366,
+      "revenue": 10.93,
+      "views": 3780,
       "video_id": "JV4nTSKaWgY"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 4.92,
-      "views": 960,
+      "revenue": 5.05,
+      "views": 944,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "revenue": 2.27,
-      "views": 351,
+      "revenue": 2.21,
+      "views": 356,
       "video_id": "UtSuCqs9p74"
     }
   ],
-  "projected_monthly_revenue": 72.08
+  "projected_monthly_revenue": 77.96
 }
