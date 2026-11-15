@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-14 13:49:54 UTC",
-  "period_start": "2026-10-15",
-  "period_end": "2026-11-13",
-  "total_revenue": 81.6,
-  "cpm": 9.43,
-  "monetized_playbacks": 7614,
-  "ad_impressions": 14101,
-  "total_views": 37197,
+  "last_updated": "2026-11-15 14:23:23 UTC",
+  "period_start": "2026-10-16",
+  "period_end": "2026-11-14",
+  "total_revenue": 83.1,
+  "cpm": 9.37,
+  "monetized_playbacks": 7812,
+  "ad_impressions": 14449,
+  "total_views": 37949,
   "rpm": 2.19,
-  "revenue_change": 46.5,
-  "rpm_change": -13.3,
-  "cpm_change": -1.7,
-  "playbacks_change": 79.8,
+  "revenue_change": 49.2,
+  "rpm_change": -13.1,
+  "cpm_change": -1.8,
+  "playbacks_change": 83.9,
   "revenue_chart": {
     "labels": [
-      "Oct 15",
       "Oct 16",
       "Oct 17",
       "Oct 18",
@@ -41,10 +40,10 @@
       "Nov 08",
       "Nov 09",
       "Nov 10",
-      "Nov 11"
+      "Nov 11",
+      "Nov 12"
     ],
     "values": [
-      0.94,
       1.57,
       1.49,
       1.32,
@@ -71,41 +70,42 @@
       17.76,
       7.01,
       4.24,
-      2.23
+      2.23,
+      2.44
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
-      "revenue": 21.01,
-      "views": 12544,
+      "revenue": 21.48,
+      "views": 12882,
       "video_id": "kuN7OPls0W0"
     },
     {
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "revenue": 12.8,
-      "views": 4682,
+      "revenue": 12.83,
+      "views": 4700,
       "video_id": "o3IvIljMYcA"
     },
     {
       "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
-      "revenue": 11.98,
-      "views": 4010,
+      "revenue": 12.27,
+      "views": 4102,
       "video_id": "JV4nTSKaWgY"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.13,
-      "views": 942,
+      "revenue": 5.12,
+      "views": 933,
       "video_id": "cGQR0gc20OY"
     },
     {
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "revenue": 2.17,
-      "views": 366,
+      "revenue": 2.16,
+      "views": 369,
       "video_id": "UtSuCqs9p74"
     }
   ],
-  "projected_monthly_revenue": 81.6
+  "projected_monthly_revenue": 83.1
 }
