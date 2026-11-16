@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-15 14:23:23 UTC",
-  "period_start": "2026-10-16",
-  "period_end": "2026-11-14",
-  "total_revenue": 83.1,
-  "cpm": 9.37,
-  "monetized_playbacks": 7812,
-  "ad_impressions": 14449,
-  "total_views": 37949,
-  "rpm": 2.19,
-  "revenue_change": 49.2,
-  "rpm_change": -13.1,
-  "cpm_change": -1.8,
-  "playbacks_change": 83.9,
+  "last_updated": "2026-11-16 16:32:07 UTC",
+  "period_start": "2026-10-17",
+  "period_end": "2026-11-15",
+  "total_revenue": 88.9,
+  "cpm": 9.52,
+  "monetized_playbacks": 8178,
+  "ad_impressions": 15211,
+  "total_views": 40146,
+  "rpm": 2.21,
+  "revenue_change": 59.8,
+  "rpm_change": -12.2,
+  "cpm_change": -1.9,
+  "playbacks_change": 92.9,
   "revenue_chart": {
     "labels": [
-      "Oct 16",
       "Oct 17",
       "Oct 18",
       "Oct 19",
@@ -41,16 +40,16 @@
       "Nov 09",
       "Nov 10",
       "Nov 11",
-      "Nov 12"
+      "Nov 12",
+      "Nov 13"
     ],
     "values": [
-      1.57,
-      1.49,
+      1.5,
       1.32,
       0.83,
       1.89,
-      0.82,
-      1.11,
+      0.83,
+      1.12,
       0.79,
       1.13,
       0.84,
@@ -71,41 +70,42 @@
       7.01,
       4.24,
       2.23,
-      2.44
+      2.44,
+      7.35
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
-      "revenue": 21.48,
-      "views": 12882,
+      "revenue": 21.78,
+      "views": 13006,
       "video_id": "kuN7OPls0W0"
     },
     {
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "revenue": 12.83,
-      "views": 4700,
+      "revenue": 12.96,
+      "views": 4741,
       "video_id": "o3IvIljMYcA"
     },
     {
       "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
-      "revenue": 12.27,
-      "views": 4102,
+      "revenue": 12.9,
+      "views": 4176,
       "video_id": "JV4nTSKaWgY"
     },
     {
-      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 5.12,
-      "views": 933,
-      "video_id": "cGQR0gc20OY"
+      "title": "System Online: Networking the Xiegu G7250 with WFView and HDSDR in Firmware 1.0.1",
+      "revenue": 6.36,
+      "views": 2203,
+      "video_id": "bdy9Dgqr4Uw"
     },
     {
-      "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "revenue": 2.16,
-      "views": 369,
-      "video_id": "UtSuCqs9p74"
+      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
+      "revenue": 5.1,
+      "views": 936,
+      "video_id": "cGQR0gc20OY"
     }
   ],
-  "projected_monthly_revenue": 83.1
+  "projected_monthly_revenue": 88.9
 }
