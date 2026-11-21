@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-20 15:47:54 UTC",
-  "period_start": "2026-10-21",
-  "period_end": "2026-11-19",
-  "total_revenue": 93.99,
-  "cpm": 9.63,
-  "monetized_playbacks": 8574,
-  "ad_impressions": 15987,
-  "total_views": 41944,
-  "rpm": 2.24,
-  "revenue_change": 62.3,
-  "rpm_change": -14.6,
-  "cpm_change": -2.3,
-  "playbacks_change": 100.6,
+  "last_updated": "2026-11-21 14:58:12 UTC",
+  "period_start": "2026-10-22",
+  "period_end": "2026-11-20",
+  "total_revenue": 95.42,
+  "cpm": 9.76,
+  "monetized_playbacks": 8595,
+  "ad_impressions": 16037,
+  "total_views": 42036,
+  "rpm": 2.27,
+  "revenue_change": 66.4,
+  "rpm_change": -12.8,
+  "cpm_change": -0.2,
+  "playbacks_change": 101.1,
   "revenue_chart": {
     "labels": [
-      "Oct 21",
       "Oct 22",
       "Oct 23",
       "Oct 24",
@@ -41,10 +40,10 @@
       "Nov 14",
       "Nov 15",
       "Nov 16",
-      "Nov 17"
+      "Nov 17",
+      "Nov 18"
     ],
     "values": [
-      0.83,
       1.12,
       0.79,
       1.13,
@@ -71,41 +70,42 @@
       3.15,
       3.12,
       1.53,
-      2.82
+      2.82,
+      2.26
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
-      "revenue": 23.4,
-      "views": 13412,
+      "revenue": 23.56,
+      "views": 13460,
       "video_id": "kuN7OPls0W0"
     },
     {
       "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
-      "revenue": 13.72,
-      "views": 4309,
+      "revenue": 14.45,
+      "views": 4360,
       "video_id": "JV4nTSKaWgY"
     },
     {
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "revenue": 13.08,
-      "views": 4788,
+      "revenue": 13.2,
+      "views": 4801,
       "video_id": "o3IvIljMYcA"
     },
     {
       "title": "System Online: Networking the Xiegu G7250 with WFView and HDSDR in Firmware 1.0.1",
-      "revenue": 8.54,
-      "views": 3342,
+      "revenue": 8.59,
+      "views": 3369,
       "video_id": "bdy9Dgqr4Uw"
     },
     {
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 6.05,
-      "views": 924,
+      "revenue": 6.01,
+      "views": 927,
       "video_id": "cGQR0gc20OY"
     }
   ],
-  "projected_monthly_revenue": 93.99
+  "projected_monthly_revenue": 95.42
 }
