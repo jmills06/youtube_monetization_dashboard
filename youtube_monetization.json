@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-22 14:56:13 UTC",
-  "period_start": "2026-10-23",
-  "period_end": "2026-11-21",
-  "total_revenue": 97.27,
-  "cpm": 9.86,
-  "monetized_playbacks": 8714,
-  "ad_impressions": 16182,
-  "total_views": 41989,
-  "rpm": 2.32,
-  "revenue_change": 69.7,
-  "rpm_change": -8.8,
-  "cpm_change": 1.5,
-  "playbacks_change": 103.6,
+  "last_updated": "2026-11-23 18:48:24 UTC",
+  "period_start": "2026-10-24",
+  "period_end": "2026-11-22",
+  "total_revenue": 123.82,
+  "cpm": 10.28,
+  "monetized_playbacks": 10433,
+  "ad_impressions": 19699,
+  "total_views": 47641,
+  "rpm": 2.6,
+  "revenue_change": 118.1,
+  "rpm_change": 3.6,
+  "cpm_change": 5.4,
+  "playbacks_change": 146.0,
   "revenue_chart": {
     "labels": [
-      "Oct 23",
       "Oct 24",
       "Oct 25",
       "Oct 26",
@@ -41,10 +40,10 @@
       "Nov 16",
       "Nov 17",
       "Nov 18",
-      "Nov 19"
+      "Nov 19",
+      "Nov 20"
     ],
     "values": [
-      0.79,
       1.13,
       0.84,
       1.62,
@@ -71,41 +70,42 @@
       1.53,
       2.82,
       2.26,
-      2.97
+      2.97,
+      27.35
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
-      "revenue": 23.74,
-      "views": 13506,
+      "revenue": 23.91,
+      "views": 13637,
       "video_id": "kuN7OPls0W0"
     },
     {
+      "title": "9 Black Friday Ham Radio Deals: Yaesu FTX-1 Optima, FTDX10, Xiegu G90 and More",
+      "revenue": 17.74,
+      "views": 3298,
+      "video_id": "ZDMf0apdTXw"
+    },
+    {
       "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
-      "revenue": 14.55,
-      "views": 4395,
+      "revenue": 14.78,
+      "views": 4432,
       "video_id": "JV4nTSKaWgY"
     },
     {
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "revenue": 13.2,
-      "views": 4818,
+      "revenue": 13.32,
+      "views": 4832,
       "video_id": "o3IvIljMYcA"
     },
     {
       "title": "System Online: Networking the Xiegu G7250 with WFView and HDSDR in Firmware 1.0.1",
-      "revenue": 8.62,
-      "views": 3406,
+      "revenue": 8.84,
+      "views": 3479,
       "video_id": "bdy9Dgqr4Uw"
-    },
-    {
-      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "revenue": 6.15,
-      "views": 934,
-      "video_id": "cGQR0gc20OY"
     }
   ],
-  "projected_monthly_revenue": 97.27
+  "projected_monthly_revenue": 123.82
 }
