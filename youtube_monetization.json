@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-23 18:48:24 UTC",
-  "period_start": "2026-10-24",
-  "period_end": "2026-11-22",
-  "total_revenue": 123.82,
-  "cpm": 10.28,
-  "monetized_playbacks": 10433,
-  "ad_impressions": 19699,
-  "total_views": 47641,
-  "rpm": 2.6,
-  "revenue_change": 118.1,
-  "rpm_change": 3.6,
-  "cpm_change": 5.4,
-  "playbacks_change": 146.0,
+  "last_updated": "2026-11-24 18:24:46 UTC",
+  "period_start": "2026-10-25",
+  "period_end": "2026-11-23",
+  "total_revenue": 147.49,
+  "cpm": 10.57,
+  "monetized_playbacks": 12094,
+  "ad_impressions": 22885,
+  "total_views": 53197,
+  "rpm": 2.77,
+  "revenue_change": 161.4,
+  "rpm_change": 11.4,
+  "cpm_change": 6.9,
+  "playbacks_change": 187.1,
   "revenue_chart": {
     "labels": [
-      "Oct 24",
       "Oct 25",
       "Oct 26",
       "Oct 27",
@@ -41,10 +40,10 @@
       "Nov 17",
       "Nov 18",
       "Nov 19",
-      "Nov 20"
+      "Nov 20",
+      "Nov 21"
     ],
     "values": [
-      1.13,
       0.84,
       1.62,
       1.12,
@@ -71,41 +70,42 @@
       2.82,
       2.26,
       2.97,
-      27.35
+      27.35,
+      24.8
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
-      "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
-      "revenue": 23.91,
-      "views": 13637,
-      "video_id": "kuN7OPls0W0"
-    },
-    {
       "title": "9 Black Friday Ham Radio Deals: Yaesu FTX-1 Optima, FTDX10, Xiegu G90 and More",
-      "revenue": 17.74,
-      "views": 3298,
+      "revenue": 35.73,
+      "views": 6790,
       "video_id": "ZDMf0apdTXw"
     },
     {
+      "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
+      "revenue": 24.05,
+      "views": 13801,
+      "video_id": "kuN7OPls0W0"
+    },
+    {
       "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
-      "revenue": 14.78,
-      "views": 4432,
+      "revenue": 15.0,
+      "views": 4480,
       "video_id": "JV4nTSKaWgY"
     },
     {
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "revenue": 13.32,
-      "views": 4832,
+      "revenue": 13.46,
+      "views": 4860,
       "video_id": "o3IvIljMYcA"
     },
     {
-      "title": "System Online: Networking the Xiegu G7250 with WFView and HDSDR in Firmware 1.0.1",
-      "revenue": 8.84,
-      "views": 3479,
-      "video_id": "bdy9Dgqr4Uw"
+      "title": "Icom IC-7110 US PRICE REVEALED: We Were (SO) Wrong...",
+      "revenue": 11.89,
+      "views": 3670,
+      "video_id": "-YIabHNhRkg"
     }
   ],
-  "projected_monthly_revenue": 123.82
+  "projected_monthly_revenue": 147.49
 }
