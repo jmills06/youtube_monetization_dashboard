@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-26 17:22:49 UTC",
-  "period_start": "2026-10-27",
-  "period_end": "2026-11-25",
-  "total_revenue": 184.82,
-  "cpm": 10.77,
-  "monetized_playbacks": 14849,
-  "ad_impressions": 28185,
-  "total_views": 63999,
-  "rpm": 2.89,
-  "revenue_change": 265.3,
-  "rpm_change": 14.0,
-  "cpm_change": 11.3,
-  "playbacks_change": 284.2,
+  "last_updated": "2026-11-27 17:00:48 UTC",
+  "period_start": "2026-10-28",
+  "period_end": "2026-11-26",
+  "total_revenue": 192.97,
+  "cpm": 10.8,
+  "monetized_playbacks": 15496,
+  "ad_impressions": 29360,
+  "total_views": 66465,
+  "rpm": 2.9,
+  "revenue_change": 285.6,
+  "rpm_change": 12.3,
+  "cpm_change": 10.0,
+  "playbacks_change": 307.8,
   "revenue_chart": {
     "labels": [
-      "Oct 27",
       "Oct 28",
       "Oct 29",
       "Oct 30",
@@ -41,10 +40,10 @@
       "Nov 20",
       "Nov 21",
       "Nov 22",
-      "Nov 23"
+      "Nov 23",
+      "Nov 24"
     ],
     "values": [
-      1.12,
       0.89,
       1.73,
       0.82,
@@ -71,41 +70,42 @@
       27.35,
       24.8,
       22.82,
-      16.98
+      16.98,
+      9.27
     ]
   },
   "ad_type_breakdown": {},
   "top_earning_videos": [
     {
       "title": "9 Black Friday Ham Radio Deals: Yaesu FTX-1 Optima, FTDX10, Xiegu G90 and More",
-      "revenue": 65.76,
-      "views": 14716,
+      "revenue": 70.8,
+      "views": 16087,
       "video_id": "ZDMf0apdTXw"
     },
     {
       "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
-      "revenue": 24.46,
-      "views": 14189,
+      "revenue": 24.52,
+      "views": 14324,
       "video_id": "kuN7OPls0W0"
     },
     {
       "title": "Icom IC-7110 US PRICE REVEALED: We Were (SO) Wrong...",
-      "revenue": 17.17,
-      "views": 5799,
+      "revenue": 19.4,
+      "views": 6612,
       "video_id": "-YIabHNhRkg"
     },
     {
       "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
-      "revenue": 15.31,
-      "views": 4561,
+      "revenue": 15.79,
+      "views": 4627,
       "video_id": "JV4nTSKaWgY"
     },
     {
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "revenue": 13.54,
-      "views": 4892,
+      "revenue": 13.7,
+      "views": 4909,
       "video_id": "o3IvIljMYcA"
     }
   ],
-  "projected_monthly_revenue": 184.82
+  "projected_monthly_revenue": 192.97
 }
